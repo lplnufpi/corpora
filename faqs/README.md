@@ -1,4 +1,4 @@
-# _Corpus_ de _Frequently Answered Questions_
+# _Corpus_ de _Frequently Answered Questions_ (FAQs)
 Este _corpus_ contém um apanhado de perguntas de listas de Perguntas Frequentemente Respondidas ou _"Frequently Answered Questions"_ (FAQs).
 
 ## Origem

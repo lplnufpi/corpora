@@ -1,0 +1,1012 @@
+<questions>
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>saber</intention> meu <entity>e-mail de cadastro</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>recuperar</intention> minha <entity>senha</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>realizar</intention> um <entity>pedido</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>achar</intention> o <entity>produto</entity> que quero?
+    </question>
+    <question type="o_que">
+        <type_id>O que é</type_id> <entity>marketplace<entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> <intention>encontro</intention> um <entity>produto</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>alterar</intention> meu <entity>endereço de entrega</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> <intention>recuperar</intention> o <entity>código do meu vale-troca</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>utilizar</intention> <entity>vales e cupons</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>dicas para comprar na Black Friday</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> é <intention>feita</intention> a <entity>entrega de produtos</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>tipos de frete</entity> disponíveis?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>opções de frete para produtos marketplace</entity>?
+    </question>
+    <question type="o_que">
+        <type_id>O que é<type_id> o <entity>Retira Fácil<entity>?
+    </question>
+    <question type="como">
+        <type_id>Como<type_id> <intention>funciona</intention> o <entity>Retira Fácil</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como<type_id> <intention>funciona</intention> o <entity>Frete Garantido Amanhã</entity>?
+    </question>
+    <question type="o_que">
+        <type_id>O que é</type_id> o <entity>Frete Hoje</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>condições de frete</entity>?
+    </question>
+    <question type="">
+        Como posso acompanhar a entrega de meu pedido?
+    </question>
+    <question type="">
+        Qual é o prazo de entrega do meu pedido?
+    </question>
+    <question type="">
+        Por que o prazo de entrega de alguns produtos é maior?
+    </question>
+    <question type="">
+        Meu produto terá serviço de montagem?
+    </question>
+    <question type="">
+        Como funcionam as embalagens para presentes?
+    </question>
+    <question type="">
+        Quais são as formas de pagamento aceitas no site?
+    </question>
+    <question type="">
+        Como faço para cadastrar meu cartão de crédito?
+    </question>
+    <question type="">
+        Como faço para comprar no cartão de débito?
+    </question>
+    <question type="">
+        Qual é o prazo de vencimento do boleto bancário?
+    </question>
+    <question type="">
+        Como faço para imprimir a segunda via de meu boleto?
+    </question>
+    <question type="">
+        Qual é o prazo para confirmação de pagamento?
+    </question>
+    <question type="">
+        O que significa pedido em análise?
+    </question>
+    <question type="">
+        Como faço para cancelar minha compra?
+    </question>
+    <question type="">
+        Como faço para solicitar uma devolução?
+    </question>
+    <question type="">
+        Como faço para solicitar uma troca?
+    </question>
+    <question type="">
+        Quais são as opções de reembolso para uma devolução?
+    </question>
+    <question type="">
+        Como faço para utilizar um vale-troca?
+    </question>
+    <question type="">
+        Meus dados pessoais serão compartilhados?
+    </question>
+    <question type="">
+        Comprar no site é seguro?
+    </question>
+    <question type="">
+        Por que meu comentário sobre o produto não foi aprovado?
+    </question>
+    <question type="">
+        O que é a nota fiscal eletrônica?
+    </question>
+    <question type="">
+        O que é o DANFE?
+    </question>
+    <question type="">
+        Como faço para acompanhar minha entrega?
+    </question>
+    <question type="">
+        Atraso na entrega
+    </question>
+    <question type="">
+        A transportadora tentou realizar a entrega, mas não tinha ninguém para receber. O que faço?
+    </question>
+    <question type="">
+        Consta no site que o produto foi entregue, mas eu não recebi.
+    </question>
+    <question type="">
+        Como agendar a minha entrega?
+    </question>
+    <question type="">
+        Devolução de valores (ressarcimento)
+    </question>
+    <question type="">
+        Como altero o meu endereço?
+    </question>
+    <question type="">
+        Prazos e locais de entrega
+    </question>
+    <question type="">
+        Como é feita a entrega?
+    </question>
+    <question type="">
+        Não recebi todos os itens do meu pedido. O que eu faço?
+    </question>
+    <question type="">
+        Entrega Expressa e Super Expressa
+    </question>
+    <question type="">
+        Posso alterar a forma de pagamento após o fechamento do pedido?
+    </question>
+    <question type="">
+        Tudo o que você precisa saber sobre a Black Friday
+    </question>
+    <question type="">
+        Frete
+    </question>
+    <question type="">
+        Saiba mais sobre a Black Friday
+    </question>
+    <question type="">
+        Como faço para saber se meu pedido foi aprovado?
+    </question>
+    <question type="">
+        Como imprimir a 2ª via do Boleto Bancário?
+    </question>
+    <question type="">
+        Quais as formas de pagamento disponíveis?
+    </question>
+    <question type="">
+        Qual o prazo para a aprovação do meu pedido?
+    </question>
+    <question type="">
+        Cartão de crédito Pontofrio
+    </question>
+    <question type="">
+        Por que meu pedido foi cancelado?
+    </question>
+    <question type="">
+        Por que meu pedido não foi aprovado?
+    </question>
+    <question type="">
+        Quais as formas de pagamento disponíveis para compras na Black Friday?
+    </question>
+    <question type="">
+        Quantos itens do mesmo produto eu posso comprar?
+    </question>
+    <question type="">
+        Como é feita a troca de produtos de lojistas?
+    </question>
+    <question type="">
+        Como faço para trocar um produto?
+    </question>
+    <question type="">
+        Comprei um produto e me arrependi. O que fazer?
+    </question>
+    <question type="">
+        Por que não posso trocar produtos dos lojistas pelos itens do Pontofrio.com?
+    </question>
+    <question type="">
+        Como solicitar a 2ª via da Nota Fiscal Eletrônica (NF-e)?
+    </question>
+    <question type="">
+        O que é Nota Fiscal Paulista?
+    </question>
+    <question type="">
+        O que é Nota Fiscal Eletrônica?
+    </question>
+    <question type="">
+        Como solicitar carta de correção para a minha Nota Fiscal?
+    </question>
+    <question type="">
+        O que é Danfe?
+    </question>
+    <question type="">
+        Como alterar meu cadastro?
+    </question>
+    <question type="">
+        Como recuperar minha senha ou meu e-mail?
+    </question>
+    <question type="">
+        Termos e Condições de uso
+    </question>
+    <question type="">
+        Comprei e me arrependi. E agora?
+    </question>
+    <question type="">
+        Fale conosco
+    </question>
+    <question type="">
+        Atraso na entrega
+    </question>
+    <question type="">
+        Como alterar meu cadastro?
+    </question>
+    <question type="">
+        Como é feita a troca de produtos de lojistas?
+    </question>
+    <question type="">
+        Como faço para saber se meu pedido foi aprovado?
+    </question>
+    <question type="">
+        Como solicitar a 2ª via da Nota Fiscal Eletrônica (NF-e)?
+    </question>
+    <question type="">
+        Saiba tudo sobre o Retira Fácil
+    </question>
+    <question type="">
+        Como faço para cancelar uma entrega?
+    </question>
+    <question type="">
+        Como recuperar minha senha ou meu e-mail?
+    </question>
+    <question type="">
+        Como me cadastrar no site?
+    </question>
+    <question type="">
+        Como atualizo meus dados cadastrais?
+    </question>
+    <question type="">
+        Esqueci minha senha. O que faço?
+    </question>
+    <question type="">
+        Sei minha senha, mas quero alterá-la. Como faço?
+    </question>
+    <question type="">
+        Esqueci meu e-mail. E agora?
+    </question>
+    <question type="">
+        Troquei de e-mail. Como devo proceder?
+    </question>
+    <question type="">
+        Meu pedido não consta no site, o que faço?
+    </question>
+    <question type="">
+        Como comprar?
+    </question>
+    <question type="">
+        Estou com dificuldades em comprar, o que fazer?
+    </question>
+    <question type="">
+        Posso comprar pelo Televendas?
+    </question>
+    <question type="">
+        Como me cadastrar no site?
+    </question>
+    <question type="">
+        Posso adicionar outro produto ao meu pedido?
+    </question>
+    <question type="">
+        Meu pedido não consta no site, o que faço?
+    </question>
+    <question type="">
+        Como consultar meus pedidos no site?
+    </question>
+    <question type="">
+        E-mails promocionais
+    </question>
+    <question type="">
+        Não quero mais receber e-mails promocionais. Como faço?
+    </question>
+    <question type="">
+        O que é cupom de desconto e como utilizar?
+    </question>
+    <question type="">
+        Cupons promocionais de sites parceiros
+    </question>
+    <question type="">
+        Como acompanho minha entrega?
+    </question>
+    <question type="">
+        Posso agendar a entrega do meu pedido?
+    </question>
+    <question type="">
+        Posso retirar meus produtos nas lojas físicas da Ricardo Eletro?
+    </question>
+    <question type="">
+        Quais são os prazos de entrega do site?
+    </question>
+    <question type="">
+        Como funciona a cobrança de frete?
+    </question>
+    <question type="">
+        Posso alterar meu endereço de entrega?
+    </question>
+    <question type="">
+        A transportadora tentou realizar a entrega do meu pedido, mas não tinha ninguém para receber. O que faço?
+    </question>
+    <question type="">
+        Meu pedido teve um insucesso de entrega e retornou ao Centro de Distribuição. O que faço?
+    </question>
+    <question type="">
+        Recebi o pedido incompleto (faltando brinde, peça ou acessório). Como devo proceder?
+    </question>
+    <question type="">
+        O produto que recebi é diferente do comprado. O que faço?
+    </question>
+    <question type="">
+        A transportadora informou que não consegue localizar meu endereço. E agora?
+    </question>
+    <question type="">
+        Comprei vários produtos. Eles serão entregues todos juntos?
+    </question>
+    <question type="">
+        Ainda não recebi meu pedido e a data de entrega está atrasada
+    </question>
+    <question type="">
+        Qual o prazo para emissão de nota fiscal?
+    </question>
+    <question type="">
+        A Ricardo Eletro possui Nota Fiscal Paulista?
+    </question>
+    <question type="">
+        Como solicitar a segunda via da nota fiscal de meu pedido?
+    </question>
+    <question type="">
+        Minha entrega está retida na fiscalização. O que aconteceu?
+    </question>
+    <question type="">
+        Fiz uma compra e estou arrependido(a). Como faço para cancelar minha entrega?
+    </question>
+    <question type="">
+        Meu produto chegou faltando acessórios. O que devo fazer?
+    </question>
+    <question type="">
+        Recebi um produto com defeito. O que devo fazer?
+    </question>
+    <question type="">
+        Como faço para trocar um produto?
+    </question>
+    <question type="">
+        Comprei um produto e me arrependi. O que faço?
+    </question>
+    <question type="">
+        Qual o prazo de resolução da minha troca?
+    </question>
+    <question type="">
+        Como faço a devolução de um produto?
+    </question>
+    <question type="">
+        A coleta do meu produto está atrasada. O que faço?
+    </question>
+    <question type="">
+        A transportadora tentou realizar a coleta do produto, mas não tinha ninguém no endereço. Eles tentarão nova coleta?
+    </question>
+    <question type="">
+        Posso trocar os produtos nas lojas físicas da Ricardo Eletro?
+    </question>
+    <question type="">
+        Quais as formas de pagamento que posso utilizar?
+    </question>
+    <question type="">
+        Como faço para utilizar o meu vale troca?
+    </question>
+    <question type="">
+        Posso alterar a forma de pagamento do meu pedido?
+    </question>
+    <question type="">
+        Posso pagar o meu pedido em dois cartões? Existe alguma regra?
+    </question>
+    <question type="">
+        O meu pedido não foi aprovado, posso alterar a forma de pagamento?
+    </question>
+    <question type="">
+        Como imprimir a 2ª via do Boleto Bancário?
+    </question>
+    <question type="">
+        Não consegui imprimir o boleto, o que é necessário fazer?
+    </question>
+    <question type="">
+        Posso pagar meu pedido no boleto e no cartão?
+    </question>
+    <question type="">
+        Fiz o pagamento com dois cartões e um foi reprovado. O que acontece?
+    </question>
+    <question type="">
+        Qual o prazo de utilização do vale-troca?
+    </question>
+    <question type="">
+        Não consigo usar meu vale troca. O que faço?
+    </question>
+    <question type="">
+        Fiz uma compra com vale-troca e cartão, mas o cartão foi reprovado. Como proceder?
+    </question>
+    <question type="">
+        Fiz compra com vale-trocas e boleto, mas esqueci de pagar o boleto. Como proceder?
+    </question>
+    <question type="">
+        Qual o prazo para aprovação do meu pedido?
+    </question>
+    <question type="">
+        Meu pedido ainda está em análise. O que fazer?
+    </question>
+    <question type="">
+        Como saber se meu pedido foi aprovado?
+    </question>
+    <question type="">
+        Por que meu pedido não foi aprovado?
+    </question>
+    <question type="">
+        Recebi um e-mail falando que meu pedido foi cancelado por falta de confirmação de dados, O que aconteceu?
+    </question>
+    <question type="">
+        Minha compra foi cancelada, mas paguei. O que devo fazer?
+    </question>
+    <question type="">
+        Fiz o pagamento do boleto em duplicidade. Como proceder?
+    </question>
+    <question type="">
+        O que é Garantia Estendida?
+    </question>
+    <question type="">
+        Como adquirir o seguro Garantia Estendida?
+    </question>
+    <question type="">
+        Como obter a 2ª via do bilhete de seguro Garantia Estendida?
+    </question>
+    <question type="">
+        O que é proteção contra roubo e furto?
+    </question>
+    <question type="">
+        Como adquirir o seguro contra roubo e furto?
+    </question>
+    <question type="">
+        Como obter a 2ª via da apólice de seguro contra roubo e furto?
+    </question>
+    <question type="">
+        Como funciona a montagem de móveis?
+    </question>
+    <question type="">
+        Como funciona a cobrança de frete?
+    </question>
+    <question type="">
+        Quero realizar uma compra, possa agendar a entrega de um produto?
+    </question>
+    <question type="">
+        O que é Marketplace / Vendedor parceiro?
+    </question>
+    <question type="">
+        Como identificar um produto oferecido por um Vendedor parceiro / Marketplace?
+    </question>
+    <question type="">
+        Como acompanhar uma compra feita com um parceiro de Marketplace?
+    </question>
+    <question type="">
+        Soluções corporativas B2B
+    </question>
+    <question type="">
+        O que é a Lista de Casamento e como ela funciona?
+    </question>
+    <question type="">
+        Quais são as vantagens da Lista de Casamento da RicardoEletro.com?
+    </question>
+    <question type="">
+        Como faço para me cadastrar na Lista de Casamento? Existe algum custo para isto?
+    </question>
+    <question type="">
+        Como faço para divulgar a minha Lista de Casamento?
+    </question>
+    <question type="">
+        Como faço para adicionar produtos em minha Lista de Casamento?
+    </question>
+    <question type="">
+        Como alterar os meus dados? E os dados do casamento?
+    </question>
+    <question type="">
+        Como cadastrar um novo endereço?
+    </question>
+    <question type="">
+        Como faço para receber meus presentes?
+    </question>
+    <question type="">
+        Posso retirar os presentes que ganhei pela Lista de Casamento nas lojas físicas da RicardoEletro.com?
+    </question>
+    <question type="">
+        Quero receber meus convitinhos. Como faço?
+    </question>
+    <question type="">
+        Como saberei que fui presenteado?
+    </question>
+    <question type="">
+        Como realizar as trocas ou devoluções?
+    </question>
+    <question type="">
+        Posso converter meus presentes em vales-troca? Como devo proceder?
+    </question>
+    <question type="">
+        Posso somar os vales-troca para comprar um produto de maior valor?
+    </question>
+    <question type="">
+        Posso utilizar o vale-troca nas lojas físicas?
+    </question>
+    <question type="">
+        É possível usar o bônus e o vale-troca na mesma compra?
+    </question>
+    <question type="">
+        Como funciona o bônus de 5%?
+    </question>
+    <question type="">
+        Como encontrar uma lista de presentes?
+    </question>
+    <question type="">
+        Para comprar o presente preciso me cadastrar? Como funciona o cadastro?
+    </question>
+    <question type="">
+        Como escolher e comprar um presente?
+    </question>
+    <question type="">
+        Posso comprar o presente em uma loja física?
+    </question>
+    <question type="">
+        Quando e onde os presentes serão entregues?
+    </question>
+    <question type="">
+        Há cobrança de frete?
+    </question>
+    <question type="">
+        Como saberei que os noivos receberam meu presente?
+    </question>
+    <question type="">
+        Como os noivos saberão que comprei o presente?
+    </question>
+    <question type="">
+        Quais são as formas de pagamento?
+    </question>
+    <question type="">
+        Solicitei uma troca. Em quanto tempo receberei meu produto?
+    </question>
+    <question type="">
+        Como acompanhar meu pedido?
+    </question>
+    <question type="">
+        Meu pedido foi aprovado?
+    </question>
+    <question type="">
+        Meu pedido não foi entregue no prazo, o que devo fazer?
+    </question>
+    <question type="">
+        Meu pedido ainda não foi enviado, o que devo fazer?
+    </question>
+    <question type="">
+        Como comprar na Estante Virtual?
+    </question>
+    <question type="">
+        Solicitei uma troca. Em quanto tempo receberei meu produto?
+    </question>
+    <question type="">
+        Como acompanhar meu pedido?
+    </question>
+    <question type="">
+        Meu pedido foi aprovado?
+    </question>
+    <question type="">
+        Meu pedido não foi entregue no prazo, o que devo fazer?
+    </question>
+    <question type="">
+        Meu pedido ainda não foi enviado, o que devo fazer?
+    </question>
+    <question type="">
+        Como comprar na Estante Virtual?
+    </question>
+    <question type="">
+        Após concluir a compra, posso alterar a forma de envio?
+    </question>
+    <question type="">
+        Quero mais informações sobre o livro, como faço?
+    </question>
+    <question type="">
+        Como saber se um livro está disponível?
+    </question>
+    <question type="">
+        Como buscar um livro?
+    </question>
+    <question type="">
+        Não consigo encontrar um livro, o que fazer?
+    </question>
+    <question type="">
+        Preciso informar CPF para comprar?
+    </question>
+    <question type="">
+        Quero comprar mais livros com o mesmo vendedor, é possível?
+    </question>
+    <question type="">
+        Há um limite de livros por compra?
+    </question>
+    <question type="">
+        Posso reservar livros para comprar depois?
+    </question>
+    <question type="">
+        Não encontrei o livro no site, posso encomendar?
+    </question>
+    <question type="">
+        O que é compra expressa?
+    </question>
+    <question type="">
+        O que é capa ilustrativa?
+    </question>
+    <question type="">
+        Marquei que recebi meu pedido por engano o que fazer?
+    </question>
+    <question type="">
+        Como saber o estado de conservação do livro?
+    </question>
+    <question type="">
+        Como retirar livros do carrinho?
+    </question>
+    <question type="">
+        Como avaliar ou fazer uma reclamação sobre um vendedor?
+    </question>
+    <question type="">
+        Como criar uma lista de desejos com meus livros favoritos?
+    </question>
+    <question type="">
+        Cadastrei um livro no "Encontre para mim", como vou saber se o livro está disponível?
+    </question>
+    <question type="">
+        A Estante faz ações no Black Friday?
+    </question>
+    <question type="">
+        Qual o prazo para solicitar o cancelamento, troca e devolução?
+    </question>
+    <question type="">
+        Como trocar um livro?
+    </question>
+    <question type="">
+        Como cancelar, trocar ou devolver a minha compra?
+    </question>
+    <question type="">
+        O livro que eu comprei veio com defeito de fabricação, o que fazer?
+    </question>
+    <question type="">
+        Posso efetuar a troca de um produto adquirido através do site em alguma loja física?
+    </question>
+    <question type="">
+        Comprando: Tenho quantos dias para pagar o boleto de uma compra?
+    </question>
+    <question type="">
+        Comprando: Como emito a segunda via do boleto?
+    </question>
+    <question type="">
+        Como faço para imprimir um boleto?
+    </question>
+    <question type="">
+        Em quanto tempo o meu pagamento é confirmado?
+    </question>
+    <question type="">
+        Posso parcelar o valor da minha compra?
+    </question>
+    <question type="">
+        É possível editar os dados do boleto?
+    </question>
+    <question type="">
+        Comprando: Tenho quantos dias para pagar o boleto de uma compra?
+    </question>
+    <question type="">
+        Comprando: Como emito a segunda via do boleto?
+    </question>
+    <question type="">
+        Como faço para imprimir um boleto?
+    </question>
+    <question type="">
+        Em quanto tempo o meu pagamento é confirmado?
+    </question>
+    <question type="">
+        Posso parcelar o valor da minha compra?
+    </question>
+    <question type="">
+        É possível editar os dados do boleto?
+    </question>
+    <question type="">
+        Paguei o boleto, mas meu pagamento não foi confirmado. O que fazer?
+    </question>
+    <question type="">
+        Quais as formas de pagamento aceitas pelo site?
+    </question>
+    <question type="">
+        Recebi um e-mail de problemas no meu pagamento com cartão, o que eu faço?
+    </question>
+    <question type="">
+        Preciso de comprovante da compra, como receber?
+    </question>
+    <question type="">
+        Posso pagar com Vale Cultura?
+    </question>
+    <question type="">
+        O site possui vale presente?
+    </question>
+    <question type="">
+        Fiz compras via boleto em mais de um vendedor, se um deles não tiver o livro posso emitir um novo boleto?
+    </question>
+    <question type="">
+        Qual é o prazo de entrega?
+    </question>
+    <question type="">
+        O site faz entrega internacional?
+    </question>
+    <question type="">
+        Qual a diferença entre as formas de envio?
+    </question>
+    <question type="">
+        Quais as regiões de entrega?
+    </question>
+    <question type="">
+        É possível comprar no site e retirar na loja física?
+    </question>
+    <question type="">
+        Como o frete é calculado?
+    </question>
+    <question type="">
+        Não quero receber emails promocionais, como me descadastro?
+    </question>
+    <question type="">
+        Sou comprador, como altero meus dados cadastrais?
+    </question>
+    <question type="">
+        Esqueci minha senha, como faço?
+    </question>
+    <question type="">
+        Sou comprador: Como altero o endereço de entrega?
+    </question>
+    <question type="">
+        Como sair e deslogar da minha conta?
+    </question>
+    <question type="">
+        Como excluir meu cadastro?
+    </question>
+    <question type="">
+        Comprar na Estante Virtual é seguro?
+    </question>
+    <question type="">
+        O que verificar no ato da entrega do pedido?
+    </question>
+    <question type="">
+        Eu tenho garantia de compra? Como funciona?
+    </question>
+    <question type="">
+        Como falar com o Vendedor?
+    </question>
+    <question type="">
+        Sou comprador: Como falar com a Estante Virtual?
+    </question>
+    <question type="">
+        Como enviar meu currículo?
+    </question>
+    <question type="">
+        Como proceder em caso de perda ou roubo do Cartão ?
+    </question>
+    <question type="">
+        É possível aderir a Fatura Digital?
+    </question>
+    <question type="">
+        Como fazer alterações de dados?
+    </question>
+    <question type="">
+        Como realizar o pagamento da fatura?
+    </question>
+    <question type="">
+        Como conseguir a 2ª via da fatura?
+    </question>
+    <question type="">
+        Qual é minha melhor data de compra?
+    </question>
+    <question type="">
+        Quais os contatos e horários da Central de Atendimento?
+    </question>
+    <question type="">
+        Qual o prazo para recebimento de novo cartão, 2ª via ou cartão adicional?
+    </question>
+    <question type="">
+        Sobre a Marisa
+    </question>
+    <question type="">
+        O que é a Marisa.com.br?
+    </question>
+    <question type="">
+        Produtos exclusivos para loja virtual
+    </question>
+    <question type="">
+        Qual o telefone de contato da Loja Física?
+    </question>
+    <question type="">
+        Como faço para trabalhar na Marisa?
+    </question>
+    <question type="">
+        Empréstimo Saque tá na Mão
+    </question>
+    <question type="">
+        SAX Financeira
+    </question>
+    <question type="">
+        Nosso SAC
+    </question>
+    <question type="">
+        Trocas e Devoluções
+    </question>
+    <question type="">
+        Troca de produtos
+    </question>
+    <question type="">
+        Posso trocar ou devolver os produtos comprados pela Internet?
+    </question>
+    <question type="">
+        Política de Trocas e Devoluções
+    </question>
+    <question type="">
+        Quero trocar meu produto, como proceder?
+    </question>
+    <question type="">
+        Posso comprar na Loja Virtual e trocar na Loja Física?
+    </question>
+    <question type="">
+        Formas de Ressarcimento
+    </question>
+    <question type="">
+        Qual o prazo para troca em uma loja física?
+    </question>
+    <question type="">
+        Como funciona o cancelamento antes do envio do pedido?
+    </question>
+    <question type="">
+        Como funciona a alteração do pedido antes do envio?
+    </question>
+    <question type="">
+        Se precisar trocar um produto adquirido na Black Friday, qual será o valor do meu vale compra?
+    </question>
+    <question type="">
+        Qual o prazo de entrega de compras feitas na Black Friday?
+    </question>
+    <question type="">
+        Como faço para utilizar o Vale Compra da Newsletter?
+    </question>
+    <question type="">
+        Como funciona o cadastro na Newsletter?
+    </question>
+    <question type="">
+        Quantas vezes consigo utilizar meu vale compra Newsletter ?
+    </question>
+    <question type="">
+        Não recebi meu Vale Compra Newsletter, o que fazer?
+    </question>
+    <question type="">
+        Meu pedido está no status de Recebido Pré-venda, o que significa?
+    </question>
+    <question type="">
+        O que significa a tag Pré-venda nos produtos ?
+    </question>
+    <question type="">
+        Se eu comprar outros produtos com um modelo de Pré-venda, como fica o envio do pedido?
+    </question>
+    <question type="">
+        Em que momento recebo o número do objeto para acompanhar o rastreamento?
+    </question>
+    <question type="">
+        Onde encontro o número do objeto (rastreamento) de meu pedido?
+    </question>
+    <question type="">
+        Por que estou demorando para receber o rastreamento da minha compra?
+    </question>
+    <question type="">
+        Por que o rastreamento de minha encomenda está parado, sem atualização?
+    </question>
+    <question type="">
+        O rastreamento de minha encomenda está incorreto, o que fazer?
+    </question>
+    <question type="">
+        Por que o rastreamento não foi encontrado?
+    </question>
+    <question type="">
+        O rastreamento da minha encomenda está sem movimentação desde o dia da postagem. O que fazer?
+    </question>
+    <question type="">
+        Consigo trocar o produto pelo mesmo modelo?
+    </question>
+    <question type="">
+        Política de Troca e Devolução
+    </question>
+    <question type="">
+        Se, após abrir meu formulário de troca, não receber nenhum contato da loja, o que faço?
+    </question>
+    <question type="">
+        Qual o prazo que tenho pra solicitar uma troca?
+    </question>
+    <question type="">
+        Posso trocar o produto, adquirido na Loja Melissa, em outras lojas?
+    </question>
+    <question type="">
+        Qual o prazo para a solicitação de cancelamento de um pedido?
+    </question>
+    <question type="">
+        Devo pagar frete para troca?
+    </question>
+    <question type="">
+        A cor do meu produto é diferente da imagem do site, devo solicitar a troca?
+    </question>
+    <question type="">
+        Como solicito uma troca de um produto que ganhei de presente?
+    </question>
+    <question type="">
+        Como receberei meu Vale Compra?
+    </question>
+    <question type="">
+        O que significa o botão TROCA, ao lado dos dados do meu pedido no site?
+    </question>
+    <question type="">
+        Consigo abrir meu formulário de troca pelo celular?
+    </question>
+    <question type="">
+        Caso receba um modelo diferente do que solicitei em meu pedido, o que devo fazer?
+    </question>
+    <question type="">
+        Se comprei meu produto na promoção, a troca será pelo mesmo produto, ou valor que eu paguei?
+    </question>
+    <question type="">
+        Como proceder para trocar um produto?
+    </question>
+    <question type="">
+        Como devo embalar meu produto para enviar para a troca?
+    </question>
+    <question type="">
+        A Melissa entrega nos finais de semana e feriados?
+    </question>
+    <question type="">
+        O que acontece com meu pedido se a encomenda é extraviada ou roubada do carro dos Correios?
+    </question>
+    <question type="">
+        Posso alterar o endereço de entrega após finalizado o pedido?
+    </question>
+    <question type="">
+        Quanto tempo leva para eu receber meus produtos?
+    </question>
+    <question type="">
+        Minha encomenda retornou a central, o que fazer?
+    </question>
+    <question type="">
+        O rastreamento da minha encomenda está sem movimento. O que fazer?
+    </question>
+    <question type="">
+        O que significa a informação no rastreamento de "Áreas com restrição de entrega domiciliar"
+    </question>
+    <question type="">
+        Enviam produtos para fora do Brasil?
+    </question>
+    <question type="">
+        No caso de retirar a encomenda na agência dos Correios, eu preciso ir pessoalmente?
+    </question>
+    <question type="">
+        Após meu pedido ser finalizado (pendente), quanto tempo leva para ser enviado e eu receber a encomenda?
+    </question>
+    <question type="">
+        O que significa o status Em Análise do Posto Fiscal, no envio por Transportadora?
+    </question>
+    <question type="">
+        Quando minha encomenda pode ficar aguardando retirada na agência dos correios?
+    </question>
+    <question type="">
+        O que significam os status no rastreamento via transportadora -Total Express?
+    </question>
+
+
+    <question type="">
+        Posso comprar pelo telefone?
+    </question>
+    <question type="">
+        Posso utilizar cupons e vales para produtos marketplace?
+    </question>
+</questions>

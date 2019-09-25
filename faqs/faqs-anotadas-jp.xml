@@ -27,19 +27,19 @@
         <type_id>Como</type_id> faço para <intention>utilizar</intention> <entity>vales e cupons</entity>?
     </question>
     <question type="qual">
-        <type_id>Quais</type_id> são as <entity>dicas para comprar na Black Friday</entity>?
+        <type_id>Quais</type_id> são as <aspect>dicas</aspect> para comprar na <entity>Black Friday</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> é <intention>feita</intention> a <entity>entrega de produtos</entity>?
     </question>
     <question type="qual">
-        <type_id>Quais</type_id> são os <entity>tipos de frete</entity> disponíveis?
+        <type_id>Quais</type_id> são os <entity>tipos de frete</entity> <aspect>disponíveis</aspect>?
     </question>
     <question type="qual">
-        <type_id>Quais</type_id> são as <entity>opções de frete para produtos marketplace</entity>?
+        <type_id>Quais</type_id> são as <aspect>opções de frete</aspect> para <entity>produtos marketplace</entity>?
     </question>
     <question type="o_que">
-        <type_id>O que é<type_id> o <entity>Retira Fácil<entity>?
+        <type_id>O que é<type_id> o <entity>Retira Fácil</entity>?
     </question>
     <question type="como">
         <type_id>Como<type_id> <intention>funciona</intention> o <entity>Retira Fácil</entity>?
@@ -53,317 +53,264 @@
     <question type="qual">
         <type_id>Quais</type_id> são as <entity>condições de frete</entity>?
     </question>
-    <question type="">
-        Como posso acompanhar a entrega de meu pedido?
+    <question type="como">
+        <type_id>Como</type_id> posso <intention>acompanhar</intention> a <entity>entrega</entity> de meu pedido?
     </question>
-    <question type="">
-        Qual é o prazo de entrega do meu pedido?
+    <question type="qual">
+        <type_id>Qual</type_id> é o <aspect>prazo de entrega</aspect> do <entity>meu pedido</entity>?
     </question>
-    <question type="">
-        Por que o prazo de entrega de alguns produtos é maior?
+    <question type="existe">
+        Meu <entity>produto</entity> <type_id>terá</type_id> <aspect>serviço de montagem</aspect>?
     </question>
-    <question type="">
-        Meu produto terá serviço de montagem?
+    <question type="como">
+        <type_id>Como</type_id> <intention>funcionam</intention> as <entity>embalagens para presentes</entity>?
     </question>
-    <question type="">
-        Como funcionam as embalagens para presentes?
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>formas de pagamento</entity> aceitas no site?
     </question>
-    <question type="">
-        Quais são as formas de pagamento aceitas no site?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>cadastrar</intention> meu <entity>cartão de crédito</entity>?
     </question>
-    <question type="">
-        Como faço para cadastrar meu cartão de crédito?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>comprar</intention> no <entity>cartão de débito</entity>?
     </question>
-    <question type="">
-        Como faço para comprar no cartão de débito?
+    <question type="qual">
+        <type_id>Qual</type_id> é o <aspect>prazo de vencimento</aspect> do <entity>boleto bancário</entity>?
     </question>
-    <question type="">
-        Qual é o prazo de vencimento do boleto bancário?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>imprimir</intention> a <entity>segunda via de meu boleto</entity>?
     </question>
-    <question type="">
-        Como faço para imprimir a segunda via de meu boleto?
+    <question type="qual">
+        <type_id>Qual</type_id> é o <aspect>prazo</aspect> para <entity>confirmação de pagamento</entity>?
     </question>
-    <question type="">
-        Qual é o prazo para confirmação de pagamento?
+    <question type="o_que">
+        <type_id>O que</type_id> significa <entity>pedido em análise</entity>?
     </question>
-    <question type="">
-        O que significa pedido em análise?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>cancelar</intention> minha <entity>compra</entity>?
     </question>
-    <question type="">
-        Como faço para cancelar minha compra?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>solicitar</intention> uma <entity>devolução</entity>?
     </question>
-    <question type="">
-        Como faço para solicitar uma devolução?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>solicitar</intention> uma <entity>troca</entity>?
     </question>
-    <question type="">
-        Como faço para solicitar uma troca?
+    <question type="qual">
+        <type_id>Quais<type_id> são as <aspect>opções de reembolso</aspect> para uma <entity>devolução<entity>?
     </question>
-    <question type="">
-        Quais são as opções de reembolso para uma devolução?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>utilizar</intention> um <entity>vale-troca</entity>?
     </question>
-    <question type="">
-        Como faço para utilizar um vale-troca?
+    <question type="o_que">
+        <type_id>O que</type_id> é a <entity>nota fiscal eletrônica</entity>?
     </question>
-    <question type="">
-        Meus dados pessoais serão compartilhados?
+    <question type="o_que">
+        <type_id>O que</type_id> é o <entity>DANFE</entity>?
     </question>
-    <question type="">
-        Comprar no site é seguro?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>acompanhar</intention> minha <entity>entrega</entity>?
     </question>
-    <question type="">
-        Por que meu comentário sobre o produto não foi aprovado?
+    <question type="como">
+        <type_id>Como</type_id> <intention>agendar</intention> a minha <entity>entrega</entity>?
     </question>
-    <question type="">
-        O que é a nota fiscal eletrônica?
+    <question type="como">
+        <type_id>Como</type_id> <intention>altero</intention> o meu <entity>endereço</entity>?
     </question>
-    <question type="">
-        O que é o DANFE?
-    </question>
-    <question type="">
-        Como faço para acompanhar minha entrega?
-    </question>
-    <question type="">
-        Atraso na entrega
-    </question>
-    <question type="">
-        A transportadora tentou realizar a entrega, mas não tinha ninguém para receber. O que faço?
-    </question>
-    <question type="">
-        Consta no site que o produto foi entregue, mas eu não recebi.
-    </question>
-    <question type="">
-        Como agendar a minha entrega?
-    </question>
-    <question type="">
-        Devolução de valores (ressarcimento)
-    </question>
-    <question type="">
-        Como altero o meu endereço?
-    </question>
-    <question type="">
+    <question type="direta">
         Prazos e locais de entrega
     </question>
-    <question type="">
-        Como é feita a entrega?
+    <question type="como">
+        <type_id>Como</type_id> é feita a <entity>entrega</entity>?
     </question>
-    <question type="">
-        Não recebi todos os itens do meu pedido. O que eu faço?
-    </question>
-    <question type="">
+    <question type="direta">
         Entrega Expressa e Super Expressa
     </question>
-    <question type="">
-        Posso alterar a forma de pagamento após o fechamento do pedido?
-    </question>
-    <question type="">
-        Tudo o que você precisa saber sobre a Black Friday
-    </question>
-    <question type="">
+    <question type="direta">
         Frete
     </question>
-    <question type="">
-        Saiba mais sobre a Black Friday
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>saber</intention> se meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
     </question>
-    <question type="">
-        Como faço para saber se meu pedido foi aprovado?
+    <question type="como">
+        <type_id>Como</type_id> <intention>imprimir</intention> a <entity>2ª via do Boleto Bancário</entity>?
     </question>
-    <question type="">
-        Como imprimir a 2ª via do Boleto Bancário?
+    <question type="qual">
+        <type_id>Quais</type_id> as <entity>formas de pagamento</entity> <aspect>disponíveis</aspect>?
     </question>
-    <question type="">
-        Quais as formas de pagamento disponíveis?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo para a aprovação</aspect> do meu <entity>pedido</entity>?
     </question>
-    <question type="">
-        Qual o prazo para a aprovação do meu pedido?
-    </question>
-    <question type="">
+    <question type="direta">
         Cartão de crédito Pontofrio
     </question>
-    <question type="">
-        Por que meu pedido foi cancelado?
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>foi</relation> <aspect>cancelado</aspect>?
     </question>
-    <question type="">
-        Por que meu pedido não foi aprovado?
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
     </question>
-    <question type="">
-        Quais as formas de pagamento disponíveis para compras na Black Friday?
+    <question type="qual">
+        <type_id>Quais</type_id> as <aspect>formas de pagamento</aspect> disponíveis para <entity>compras na Black Friday</entity>?
     </question>
-    <question type="">
-        Quantos itens do mesmo produto eu posso comprar?
+    <question type="como">
+        <type_id>Como</type_id> é <intention>feita</intention> a <entity>troca de produtos de lojistas</entity>?
     </question>
-    <question type="">
-        Como é feita a troca de produtos de lojistas?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>trocar</intention> um <entity>produto</entity>?
     </question>
-    <question type="">
-        Como faço para trocar um produto?
+    <question type="como">
+        <type_id>Como</type_id> <intention>solicitar</intention> a <entity>2ª via da Nota Fiscal Eletrônica (NF-e)</entity>?
     </question>
-    <question type="">
-        Comprei um produto e me arrependi. O que fazer?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>Nota Fiscal Paulista</entity>?
     </question>
-    <question type="">
-        Por que não posso trocar produtos dos lojistas pelos itens do Pontofrio.com?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>Nota Fiscal Eletrônica</entity>?
     </question>
-    <question type="">
-        Como solicitar a 2ª via da Nota Fiscal Eletrônica (NF-e)?
+    <question type="como">
+        <type_id>Como</type_id> <intention>solicitar</intention> <aspect>carta de correção</aspect> para a minha <entity>Nota Fiscal</entity>?
     </question>
-    <question type="">
-        O que é Nota Fiscal Paulista?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>Danfe</entity>?
     </question>
-    <question type="">
-        O que é Nota Fiscal Eletrônica?
+    <question type="como">
+        <type_id>Como</type_id> <intention>alterar</intention> meu <entity>cadastro</entity>?
     </question>
-    <question type="">
-        Como solicitar carta de correção para a minha Nota Fiscal?
+    <question type="como">
+        <type_id>Como</type_id> <intention>recuperar</intention> minha <entity>senha</entity> ou meu <entity>e-mail</entity>?
     </question>
-    <question type="">
-        O que é Danfe?
-    </question>
-    <question type="">
-        Como alterar meu cadastro?
-    </question>
-    <question type="">
-        Como recuperar minha senha ou meu e-mail?
-    </question>
-    <question type="">
+    <question type="direta">
         Termos e Condições de uso
     </question>
-    <question type="">
+    <question type="direta">
         Comprei e me arrependi. E agora?
     </question>
-    <question type="">
+    <question type="direta">
         Fale conosco
     </question>
-    <question type="">
+    <question type="direta">
         Atraso na entrega
     </question>
-    <question type="">
-        Como alterar meu cadastro?
+    <question type="como">
+        <type_id>Como</type_id> <intention>alterar</intention> meu <entity>cadastro</entity>?
     </question>
-    <question type="">
-        Como é feita a troca de produtos de lojistas?
+    <question type="como">
+        <type_id>Como</type_id> é feita a <intention>troca</intention> de <entity>produtos de lojistas</entity>?
     </question>
-    <question type="">
-        Como faço para saber se meu pedido foi aprovado?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>saber</intention> se meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
     </question>
-    <question type="">
-        Como solicitar a 2ª via da Nota Fiscal Eletrônica (NF-e)?
+    <question type="como">
+        <type_id>Como</type_id> <intention>solicitar</intention> a <entity>2ª via da Nota Fiscal Eletrônica (NF-e)</entity>?
     </question>
-    <question type="">
-        Saiba tudo sobre o Retira Fácil
+    <question type="direta">
+        <intention>Saiba</intention> tudo sobre o <entity>Retira Fácil</entity>
     </question>
-    <question type="">
-        Como faço para cancelar uma entrega?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>cancelar</intention> uma <entity>entrega</entity>?
     </question>
-    <question type="">
-        Como recuperar minha senha ou meu e-mail?
+    <question type="como">
+        <type_id>Como</type_id> <intention>recuperar</intention> minha <entity>senha</entity> ou meu <entity>e-mail</entity>?
     </question>
-    <question type="">
-        Como me cadastrar no site?
+    <question type="como">
+        <type_id>Como</type_id> me <intention>cadastrar</intention> no <entity>site</entity>?
     </question>
-    <question type="">
-        Como atualizo meus dados cadastrais?
+    <question type="como">
+        <type_id>Como</type_id> <intention>atualizo</intention> meus <entity>dados cadastrais</entity>?
     </question>
-    <question type="">
-        Esqueci minha senha. O que faço?
+    <question type="como">
+        Sei minha <entity>senha<entity>, mas quero <intention>alterá-la</intention>. <type_id>Como</type_id> faço?
     </question>
-    <question type="">
-        Sei minha senha, mas quero alterá-la. Como faço?
+    <question type="como">
+        <intention>Troquei</intention> de <entity>e-mail</entity>. <type_id>Como</type_id> devo proceder?
     </question>
-    <question type="">
-        Esqueci meu e-mail. E agora?
+    <question type="como">
+        <type_id>Como</type_id> <intention>comprar</intention>?
     </question>
-    <question type="">
-        Troquei de e-mail. Como devo proceder?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> pelo <entity>Televendas</entity>?
     </question>
-    <question type="">
-        Meu pedido não consta no site, o que faço?
+    <question type="como">
+        <type_id>Como</type_id> me <intention>cadastrar</intention> no <entity>site</entity>?
     </question>
-    <question type="">
-        Como comprar?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>adicionar</intention> outro <entity>produto ao meu pedido</entity>?
     </question>
-    <question type="">
-        Estou com dificuldades em comprar, o que fazer?
+    <question type="como">
+        <type_id>Como</type_id> <intention>consultar</intention> meus <entity>pedidos no site</entity>?
     </question>
-    <question type="">
-        Posso comprar pelo Televendas?
-    </question>
-    <question type="">
-        Como me cadastrar no site?
-    </question>
-    <question type="">
-        Posso adicionar outro produto ao meu pedido?
-    </question>
-    <question type="">
-        Meu pedido não consta no site, o que faço?
-    </question>
-    <question type="">
-        Como consultar meus pedidos no site?
-    </question>
-    <question type="">
+    <question type="direta">
         E-mails promocionais
     </question>
-    <question type="">
-        Não quero mais receber e-mails promocionais. Como faço?
+    <question type="como">
+        <intention>Não quero mais receber</intention> <entity>e-mails promocionais</entity>. <type_id>Como</type_id> faço?
     </question>
-    <question type="">
-        O que é cupom de desconto e como utilizar?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>cupom de desconto</entity> e como <intention>utilizar</intention>?
     </question>
-    <question type="">
+    <question type="direta">
         Cupons promocionais de sites parceiros
     </question>
-    <question type="">
-        Como acompanho minha entrega?
+    <question type="como">
+        <type_id>Como</type_id> <intention>acompanho</intention> minha <entity>entrega</entity>?
     </question>
-    <question type="">
-        Posso agendar a entrega do meu pedido?
+    <question type="qual">
+        <type_id>Quais</type_id> são os <aspect>prazos de entrega</aspect> do <entity>site</entity>?
     </question>
-    <question type="">
-        Posso retirar meus produtos nas lojas físicas da Ricardo Eletro?
+    <question type="como">
+        <type_id>Como</type_id> <intention>funciona</intention> a <entity>cobrança de frete</entity>?
     </question>
-    <question type="">
-        Quais são os prazos de entrega do site?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>endereço de entrega<entity>?
     </question>
-    <question type="">
-        Como funciona a cobrança de frete?
+    <question type="direta">
+        Ainda não recebi meu pedido e a <entity>data de entrega</entity> está <aspect>atrasada</aspect>
     </question>
-    <question type="">
-        Posso alterar meu endereço de entrega?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para <entity>emissão de nota fiscal</entity>?
     </question>
-    <question type="">
-        A transportadora tentou realizar a entrega do meu pedido, mas não tinha ninguém para receber. O que faço?
+    <question type="existe">
+        A Ricardo Eletro <type_id>possui</type_id> <entity>Nota Fiscal Paulista</entity>?
     </question>
-    <question type="">
-        Meu pedido teve um insucesso de entrega e retornou ao Centro de Distribuição. O que faço?
+    <question type="como">
+        <type_id>Como</type_id> <intention>solicitar</intention> a <entity>segunda via da nota fiscal</entity> de meu pedido?
     </question>
-    <question type="">
-        Recebi o pedido incompleto (faltando brinde, peça ou acessório). Como devo proceder?
+    <question type="como">
+        Fiz uma compra e estou arrependido(a). <type_id>Como</type_id> faço para <intention>cancelar</intention> minha <entity>entrega</entity>?
     </question>
-    <question type="">
-        O produto que recebi é diferente do comprado. O que faço?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>trocar</intention> um <entity>produto</entity>?
     </question>
-    <question type="">
-        A transportadora informou que não consegue localizar meu endereço. E agora?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo de resolução</aspect> da minha <entity>troca</entity>?
     </question>
-    <question type="">
-        Comprei vários produtos. Eles serão entregues todos juntos?
+    <question type="como">
+        <type_id>Como</type_id> faço a <intention>devolução</intention> de um <entity>produto</entity>?
     </question>
-    <question type="">
-        Ainda não recebi meu pedido e a data de entrega está atrasada
+    <question type="qual">
+        <type_id>Quais</type_id> as <entity>formas de pagamento</entity> que posso utilizar?
     </question>
-    <question type="">
-        Qual o prazo para emissão de nota fiscal?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>utilizar</intention> o meu <entity>vale troca</entity>?
     </question>
-    <question type="">
-        A Ricardo Eletro possui Nota Fiscal Paulista?
+    <question type="como">
+        <type_id>Como</type_id> <intention>imprimir</intention> a <entity>2ª via do Boleto Bancário</entity>?
     </question>
-    <question type="">
-        Como solicitar a segunda via da nota fiscal de meu pedido?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo de utilização</aspect> do <entity>vale-troca</entity>?
     </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo para aprovação</aspect> do meu <entity>pedido</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> <intention>saber</intention> se meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
+    </question>
+
     <question type="">
         Minha entrega está retida na fiscalização. O que aconteceu?
-    </question>
-    <question type="">
-        Fiz uma compra e estou arrependido(a). Como faço para cancelar minha entrega?
     </question>
     <question type="">
         Meu produto chegou faltando acessórios. O que devo fazer?
@@ -372,16 +319,7 @@
         Recebi um produto com defeito. O que devo fazer?
     </question>
     <question type="">
-        Como faço para trocar um produto?
-    </question>
-    <question type="">
         Comprei um produto e me arrependi. O que faço?
-    </question>
-    <question type="">
-        Qual o prazo de resolução da minha troca?
-    </question>
-    <question type="">
-        Como faço a devolução de um produto?
     </question>
     <question type="">
         A coleta do meu produto está atrasada. O que faço?
@@ -393,12 +331,6 @@
         Posso trocar os produtos nas lojas físicas da Ricardo Eletro?
     </question>
     <question type="">
-        Quais as formas de pagamento que posso utilizar?
-    </question>
-    <question type="">
-        Como faço para utilizar o meu vale troca?
-    </question>
-    <question type="">
         Posso alterar a forma de pagamento do meu pedido?
     </question>
     <question type="">
@@ -406,9 +338,6 @@
     </question>
     <question type="">
         O meu pedido não foi aprovado, posso alterar a forma de pagamento?
-    </question>
-    <question type="">
-        Como imprimir a 2ª via do Boleto Bancário?
     </question>
     <question type="">
         Não consegui imprimir o boleto, o que é necessário fazer?
@@ -420,9 +349,6 @@
         Fiz o pagamento com dois cartões e um foi reprovado. O que acontece?
     </question>
     <question type="">
-        Qual o prazo de utilização do vale-troca?
-    </question>
-    <question type="">
         Não consigo usar meu vale troca. O que faço?
     </question>
     <question type="">
@@ -432,16 +358,7 @@
         Fiz compra com vale-trocas e boleto, mas esqueci de pagar o boleto. Como proceder?
     </question>
     <question type="">
-        Qual o prazo para aprovação do meu pedido?
-    </question>
-    <question type="">
         Meu pedido ainda está em análise. O que fazer?
-    </question>
-    <question type="">
-        Como saber se meu pedido foi aprovado?
-    </question>
-    <question type="">
-        Por que meu pedido não foi aprovado?
     </question>
     <question type="">
         Recebi um e-mail falando que meu pedido foi cancelado por falta de confirmação de dados, O que aconteceu?
@@ -1003,10 +920,89 @@
     </question>
 
 
+    <question type="por_que">
+        Por que o prazo de entrega de alguns produtos é maior?
+    </question>
+    <question type="por_que">
+        Por que meu comentário sobre o produto não foi aprovado?
+    </question>
     <question type="">
         Posso comprar pelo telefone?
     </question>
     <question type="">
         Posso utilizar cupons e vales para produtos marketplace?
     </question>
+    <question type="">
+        Meus dados pessoais serão compartilhados?
+    </question>
+    <question type="">
+        Comprar no site é seguro?
+    </question>
+    <question type="">
+        Atraso na entrega
+    </question>
+    <question type="">
+        A transportadora tentou realizar a entrega, mas não tinha ninguém para receber. O que faço?
+    </question>
+    <question type="">
+        Consta no site que o produto foi entregue, mas eu não recebi.
+    </question>
+    <question type="">
+        Devolução de valores (ressarcimento)
+    </question>
+    <question type="">
+        Não recebi todos os itens do meu pedido. O que eu faço?
+    </question>
+    <question type="">
+        Posso <intention>alterar</intention> a <entity>forma de pagamento</entity> após o fechamento do pedido?
+    </question>
+    <question type="">
+        Tudo o que você precisa <intention>saber</intention> sobre a <entity>Black Friday</entity>
+    </question>
+    <question type="">
+        <intention>Saiba</intention> mais sobre a <entity>Black Friday</entity>
+    </question>
+    <question type="">
+        Quantos itens do mesmo produto eu posso comprar?
+    </question>
+    <question type="">
+        Comprei um produto e me arrependi. O que fazer?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> não posso trocar produtos dos lojistas pelos itens do Pontofrio.com?
+    </question>
+    <question type="">
+        Esqueci minha senha. O que faço?
+    </question>
+    <question type="direta">
+        Esqueci meu e-mail. E agora?
+    </question>
+    <question type="">
+        Meu <entity>pedido</entity> <aspect>não consta</aspect> no <entity>site</entity>, o que faço?
+    </question>
+    <question type="">
+        Estou com <aspect>dificuldades</aspect> em <intention>comprar</intention>, o que fazer?
+    </question>
+    <question type="">
+        Meu pedido não consta no site, o que faço?
+    </question>
+    <question type="">
+        A transportadora tentou realizar a entrega do meu pedido, mas não tinha ninguém para receber. O que faço?
+    </question>
+    <question type="">
+        Meu pedido teve um insucesso de entrega e retornou ao Centro de Distribuição. O que faço?
+    </question>
+    <question type="">
+        Recebi o pedido incompleto (faltando brinde, peça ou acessório). Como devo proceder?
+    </question>
+    <question type="">
+        Comprei vários produtos. Eles serão entregues todos juntos?
+    </question>
+    <question type="">
+        O produto que recebi é diferente do comprado. O que faço?
+    </question>
+    <question type="">
+        A transportadora informou que não consegue localizar meu endereço. E agora?
+    </question>
+
 </questions>

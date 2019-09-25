@@ -270,7 +270,7 @@
         <type_id>Qual</type_id> o <aspect>prazo</aspect> para <entity>emissão de nota fiscal</entity>?
     </question>
     <question type="existe">
-        A Ricardo Eletro <type_id>possui</type_id> <entity>Nota Fiscal Paulista</entity>?
+        A <entity>Ricardo Eletro</entity> <type_id>possui</type_id> <entity>Nota Fiscal Paulista</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>solicitar</intention> a <entity>segunda via da nota fiscal</entity> de meu pedido?
@@ -308,456 +308,409 @@
     <question type="por_que">
         <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
     </question>
-
-    <question type="">
-        Minha entrega está retida na fiscalização. O que aconteceu?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> a <aspect>forma de pagamento</aspect> do meu <entity>pedido</entity>?
     </question>
-    <question type="">
-        Meu produto chegou faltando acessórios. O que devo fazer?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> o meu <entity>pedido</entity> em <aspect>dois cartões</aspect>? Existe alguma regra?
     </question>
-    <question type="">
-        Recebi um produto com defeito. O que devo fazer?
+    <question type="posso">
+        O meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>, <type_id>posso</type_id> <intention>alterar</intention> a <aspect>forma de pagamento</aspect>?
     </question>
-    <question type="">
-        Comprei um produto e me arrependi. O que faço?
+    <question type="como">
+        Não consegui <intention>imprimir</intention> o <entity>boleto</entity>, o que é necessário fazer?
     </question>
-    <question type="">
-        A coleta do meu produto está atrasada. O que faço?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> meu <entity>pedido</entity> no <aspect>boleto</aspect> e no <aspect>cartão</aspect>?
     </question>
-    <question type="">
-        A transportadora tentou realizar a coleta do produto, mas não tinha ninguém no endereço. Eles tentarão nova coleta?
+    <question type="o_que">
+        Fiz o <entity>pagamento<entity> com <entity>dois cartões</entity> e um foi <aspect>reprovado<aspect>. <type_id>O que</type_id> acontece?
     </question>
-    <question type="">
-        Posso trocar os produtos nas lojas físicas da Ricardo Eletro?
+    <question type="como">
+        Não consigo <intention>usar</intention> meu <entity>vale troca</entity>. O que faço?
     </question>
-    <question type="">
-        Posso alterar a forma de pagamento do meu pedido?
+    <question type="como">
+        Fiz uma <entity>compra</entity> com <aspect>vale-troca</aspect> e <aspect>cartão</aspect>, mas o cartão foi <aspect>reprovado</aspect>. <type_id>Como</type_id> proceder?
     </question>
-    <question type="">
-        Posso pagar o meu pedido em dois cartões? Existe alguma regra?
+    <question type="como">
+        Fiz <entity>compra</entity> com <aspect>vale-trocas<aspect> e <aspect>boleto</aspect>, mas <aspect>esqueci</aspect> de <intention>pagar</intention> o boleto. <type_id>Como</type_id> proceder?
     </question>
-    <question type="">
-        O meu pedido não foi aprovado, posso alterar a forma de pagamento?
+    <question type="como">
+        Fiz o <entity>pagamento</entity> do <entity>boleto</entity> em <aspect>duplicidade</aspect>. <type_id>Como</type_id> proceder?
     </question>
-    <question type="">
-        Não consegui imprimir o boleto, o que é necessário fazer?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>Garantia Estendida</entity>?
     </question>
-    <question type="">
-        Posso pagar meu pedido no boleto e no cartão?
+    <question type="como">
+        <type_id>Como</type_id> <intention>adquirir</intention> o <entity>seguro Garantia Estendida</entity>?
     </question>
-    <question type="">
-        Fiz o pagamento com dois cartões e um foi reprovado. O que acontece?
+    <question type="como">
+        <type_id>Como</type_id> <intention>obter</intention> a <entity>2ª via do bilhete de seguro Garantia Estendida</entity>?
     </question>
-    <question type="">
-        Não consigo usar meu vale troca. O que faço?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>proteção contra roubo e furto</entity>?
     </question>
-    <question type="">
-        Fiz uma compra com vale-troca e cartão, mas o cartão foi reprovado. Como proceder?
+    <question type="como">
+        <type_id>Como</type_id> <intention>adquirir</intention> o <entity>seguro contra roubo e furto</entity>?
     </question>
-    <question type="">
-        Fiz compra com vale-trocas e boleto, mas esqueci de pagar o boleto. Como proceder?
+    <question type="como">
+        <type_id>Como</type_id> <intention>obter</intention> a <entity>2ª via da apólice de seguro contra roubo e furto</entity>?
     </question>
-    <question type="">
-        Meu pedido ainda está em análise. O que fazer?
+    <question type="como">
+        <type_id>Como</type_id> <intention>funciona</intention> a <entity>montagem de móveis</entity>?
     </question>
-    <question type="">
-        Recebi um e-mail falando que meu pedido foi cancelado por falta de confirmação de dados, O que aconteceu?
+    <question type="como">
+        <type_id>Como</type_id> <intention>funciona</intention> a <entity>cobrança de frete</entity>?
     </question>
-    <question type="">
-        Minha compra foi cancelada, mas paguei. O que devo fazer?
+    <question type="posso">
+        Quero realizar uma compra, <type_id>possa</type_id> <intention>agendar</intention> a <entity>entrega de um produto</entity>?
     </question>
-    <question type="">
-        Fiz o pagamento do boleto em duplicidade. Como proceder?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>Marketplace</entity> / <entity>Vendedor parceiro</entity>?
     </question>
-    <question type="">
-        O que é Garantia Estendida?
+    <question type="como">
+        <type_id>Como</type_id> <intention>identificar</intention> um <entity>produto oferecido por um Vendedor parceiro / Marketplace</entity>?
     </question>
-    <question type="">
-        Como adquirir o seguro Garantia Estendida?
+    <question type="como">
+        <type_id>Como</type_id> <intention>acompanhar</intention> uma <entity>compra feita com um parceiro de Marketplace</entity>?
     </question>
-    <question type="">
-        Como obter a 2ª via do bilhete de seguro Garantia Estendida?
-    </question>
-    <question type="">
-        O que é proteção contra roubo e furto?
-    </question>
-    <question type="">
-        Como adquirir o seguro contra roubo e furto?
-    </question>
-    <question type="">
-        Como obter a 2ª via da apólice de seguro contra roubo e furto?
-    </question>
-    <question type="">
-        Como funciona a montagem de móveis?
-    </question>
-    <question type="">
-        Como funciona a cobrança de frete?
-    </question>
-    <question type="">
-        Quero realizar uma compra, possa agendar a entrega de um produto?
-    </question>
-    <question type="">
-        O que é Marketplace / Vendedor parceiro?
-    </question>
-    <question type="">
-        Como identificar um produto oferecido por um Vendedor parceiro / Marketplace?
-    </question>
-    <question type="">
-        Como acompanhar uma compra feita com um parceiro de Marketplace?
-    </question>
-    <question type="">
+    <question type="direta">
         Soluções corporativas B2B
     </question>
-    <question type="">
-        O que é a Lista de Casamento e como ela funciona?
+    <question type="o_que">
+        <type_id>O que</type_id> é a <entity>Lista de Casamento</entity> e como ela funciona?
     </question>
-    <question type="">
-        Quais são as vantagens da Lista de Casamento da RicardoEletro.com?
+    <question type="qual">
+        <type_id>Quais</type_id> são as <aspect>vantagens</aspect> da <entity>Lista de Casamento</entity> da RicardoEletro.com?
     </question>
-    <question type="">
-        Como faço para me cadastrar na Lista de Casamento? Existe algum custo para isto?
+    <question type="como">
+        <type_id>Como</type_id> faço para me <intention>cadastrar</intention> na <entity>Lista de Casamento</entity>? Existe algum <aspect>custo</aspect> para isto?
     </question>
-    <question type="">
-        Como faço para divulgar a minha Lista de Casamento?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>divulgar</intention> a minha <entity>Lista de Casamento</entity>?
     </question>
-    <question type="">
-        Como faço para adicionar produtos em minha Lista de Casamento?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>adicionar</intention> <aspect>produtos</aspect> em minha <entity>Lista de Casamento</entity>?
     </question>
-    <question type="">
-        Como alterar os meus dados? E os dados do casamento?
+    <question type="como">
+        <type_id>Como</type_id> <intention>alterar</intention> os <entity>meus dados</entity>? E os <entity>dados do casamento</entity>?
     </question>
-    <question type="">
-        Como cadastrar um novo endereço?
+    <question type="como">
+        <type_id>Como</type_id> <intention>cadastrar</intention> um <entity>novo endereço</entity>?
     </question>
-    <question type="">
-        Como faço para receber meus presentes?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>receber</intention> meus <entity>presentes</entity>?
     </question>
-    <question type="">
-        Posso retirar os presentes que ganhei pela Lista de Casamento nas lojas físicas da RicardoEletro.com?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>retirar</intention> os <entity>presentes</entity> que ganhei pela <entity>Lista de Casamento</entity> nas <entity>lojas físicas</entity> da RicardoEletro.com?
     </question>
-    <question type="">
-        Quero receber meus convitinhos. Como faço?
+    <question type="como">
+        Quero <intention>receber</intention> meus <entity>convitinhos</entity>. <type_id>Como<type_id> faço?
     </question>
-    <question type="">
-        Como saberei que fui presenteado?
+    <question type="como">
+        <type_id>Como</type_id> <intention>saberei</intention> que fui <aspect>presenteado</aspect>?
     </question>
-    <question type="">
-        Como realizar as trocas ou devoluções?
+    <question type="como">
+        <type_id>Como</type_id> <intention>realizar</intention> as <entity>trocas</entity> ou <entity>devoluções</entity>?
     </question>
-    <question type="">
-        Posso converter meus presentes em vales-troca? Como devo proceder?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>converter</intention> meus <entity>presentes</entity> em <entity>vales-troca</entity>? Como devo proceder?
     </question>
-    <question type="">
-        Posso somar os vales-troca para comprar um produto de maior valor?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>somar</intention> os <entity>vales-troca</entity> para <intention>comprar</intention> um <entity>produto de maior valor</entity>?
     </question>
-    <question type="">
-        Posso utilizar o vale-troca nas lojas físicas?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> o <entity>vale-troca</entity> nas lojas físicas?
     </question>
-    <question type="">
-        É possível usar o bônus e o vale-troca na mesma compra?
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>usar</intention> o <entity>bônus</entity> e o <entity>vale-troca</entity> na <aspect>mesma</aspect> <entity>compra</entity>?
     </question>
-    <question type="">
-        Como funciona o bônus de 5%?
+    <question type="como">
+        <type_id>Como</type_id> <intention>funciona</intention> o <entity>bônus de 5%</entity>?
     </question>
-    <question type="">
-        Como encontrar uma lista de presentes?
+    <question type="como">
+        <type_id>Como</type_id> <intention>encontrar</intention> uma <entity>lista de presentes</entity>?
     </question>
     <question type="">
         Para comprar o presente preciso me cadastrar? Como funciona o cadastro?
     </question>
-    <question type="">
-        Como escolher e comprar um presente?
+    <question type="como">
+        <type_id>Como</type_id> <intention>escolher</intention> e <intention>comprar</intention> um <entity>presente</entity>?
     </question>
-    <question type="">
-        Posso comprar o presente em uma loja física?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> o <entity>presente</entity> em uma <entity>loja física</entity>?
     </question>
-    <question type="">
-        Quando e onde os presentes serão entregues?
+    <question type="exite">
+        <type_id>Há</type_id> <aspect>cobrança</aspect> de <entity>frete</entity>?
     </question>
-    <question type="">
-        Há cobrança de frete?
+    <question type="como">
+        <type_id>Como</type_id> <intention>saberei</intention> que os <entity>noivos</entity> <aspect>receberam</aspect> meu <entity>presente</entity>?    </question>
+    <question type="como">
+        <type_id>Como</type_id> os <entity>noivos</entity> <intention>saberão</intention> que <aspect>comprei o presente</aspect>?
     </question>
-    <question type="">
-        Como saberei que os noivos receberam meu presente?
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>formas de pagamento</entity>?
     </question>
-    <question type="">
-        Como os noivos saberão que comprei o presente?
+    <question type="como">
+        <type_id>Como</type_id> <intention>acompanhar</intention> meu <entity>pedido</entity>?
     </question>
-    <question type="">
-        Quais são as formas de pagamento?
+    <question type="direta">
+        Meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
     </question>
-    <question type="">
-        Solicitei uma troca. Em quanto tempo receberei meu produto?
+    <question type="como">
+        <type_id>Como</type_id> <intention>comprar</intention> na <entity>Estante Virtual</entity>?
     </question>
-    <question type="">
-        Como acompanhar meu pedido?
+    <question type="direta">
+        <intention>Solicitei</intention> uma <entity>troca</entity>. Em <aspect>quanto tempo</aspect> <intention>receberei</intention> meu <entity>produto</entity>?
     </question>
-    <question type="">
-        Meu pedido foi aprovado?
+    <question type="como">
+        <type_id>Como</type_id> <intention>acompanhar</intention> meu <entity>pedido</entity>?
     </question>
-    <question type="">
-        Meu pedido não foi entregue no prazo, o que devo fazer?
+    <question type="direta">
+        Meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
     </question>
-    <question type="">
-        Meu pedido ainda não foi enviado, o que devo fazer?
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>não foi entregue no prazo</aspect>, o que devo fazer?
     </question>
-    <question type="">
-        Como comprar na Estante Virtual?
+    <question type="direta">
+        Meu <entity>pedido</entity> ainda <aspect>não foi enviado</aspect>, o que devo fazer?
     </question>
-    <question type="">
-        Solicitei uma troca. Em quanto tempo receberei meu produto?
+    <question type="como">
+        <type_id>Como</type_id> <intention>comprar</intention> na <entity>Estante Virtual</entity>?
     </question>
-    <question type="">
-        Como acompanhar meu pedido?
+    <question type="posso">
+        Após <aspect>concluir</aspect> a <entity>compra</entity>, <type_id>posso</type_id> <intention>alterar</intention> a <aspect>forma de envio</aspect>?
     </question>
-    <question type="">
-        Meu pedido foi aprovado?
+    <question type="direta">
+        Quero mais <aspect>informações</aspect> sobre o <entity>livro<entity>, como faço?
     </question>
-    <question type="">
-        Meu pedido não foi entregue no prazo, o que devo fazer?
+    <question type="como">
+        <type_id>Como</type_id> <intention>saber</intention> se um <entity>livro</entity> está <aspect>disponível</aspect>?
     </question>
-    <question type="">
-        Meu pedido ainda não foi enviado, o que devo fazer?
+    <question type="como">
+        <type_id>Como</type_id> <intention>buscar</intention> um <entity>livro</entity>?
     </question>
-    <question type="">
-        Como comprar na Estante Virtual?
+    <question type="direta">
+        Não consigo <intention>encontrar</intention> um <entity>livro</entity>, o que fazer?
     </question>
-    <question type="">
-        Após concluir a compra, posso alterar a forma de envio?
+    <question type="direta">
+        Preciso <intention>informar</intention> <entity>CPF</entity> para <intention>comprar</intention>?
     </question>
-    <question type="">
-        Quero mais informações sobre o livro, como faço?
+    <question type="posso">
+        Quero <intention>comprar</intention> mais <entity>livros</entity> com o <aspect>mesmo vendedor</aspect>, <type_id>é possível</type_id>?
     </question>
-    <question type="">
-        Como saber se um livro está disponível?
+    <question type="existe">
+        <type_id>Há</type_id> um <aspect>limite</aspect> de <entity>livros</entity> por <entity>compra</entity>?
     </question>
-    <question type="">
-        Como buscar um livro?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>reservar</intention> <entity>livros</entity> para <aspect>comprar depois</aspect>?
     </question>
-    <question type="">
-        Não consigo encontrar um livro, o que fazer?
+    <question type="posso">
+        Não encontrei o <entity>livro</entity> no site, <type_id>posso</type_id> <intention>encomendar</intention>?
     </question>
-    <question type="">
-        Preciso informar CPF para comprar?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>compra expressa</entity>?
     </question>
-    <question type="">
-        Quero comprar mais livros com o mesmo vendedor, é possível?
+    <question type="o_que">
+        <type_id>O que</type_id> é <entity>capa ilustrativa</entity>?
     </question>
-    <question type="">
-        Há um limite de livros por compra?
+    <question type="direta">
+        <intention>Marquei</intention> que <intention>recebi<intention> meu <entity>pedido</entity> por <aspect>engano</aspect> o que fazer?
     </question>
-    <question type="">
-        Posso reservar livros para comprar depois?
+    <question type="como">
+        <type_id>Como</type_id> <intention>saber</intention> o <aspect>estado de conservação</aspect> do <entity>livro</entity>?
     </question>
-    <question type="">
-        Não encontrei o livro no site, posso encomendar?
+    <question type="como">
+        <type_id>Como</type_id> <intention>retirar</intention> <aspect>livros</aspect> do <entity>carrinho</entity>?
     </question>
-    <question type="">
-        O que é compra expressa?
+    <question type="como">
+        <type_id>Como</type_id> <intention>avaliar</intention> ou <intention>fazer</intention> uma <aspect>reclamação</aspect> sobre um <entity>vendedor</entity>?
     </question>
-    <question type="">
-        O que é capa ilustrativa?
+    <question type="como">
+        <type_id>Como</type_id> <intention>criar</intention> uma <entity>lista de desejos</entity> com meus <entity>livros favoritos</entity>?
     </question>
-    <question type="">
-        Marquei que recebi meu pedido por engano o que fazer?
+    <question type="como">
+        <intention>Cadastrei</intention> um <entity>livro</entity> no <entity>"Encontre para mim"</entity>, <type_id>como<type_id> vou <intention>saber<intention> se o <entity>livro</entity> está <aspect>disponível</aspect>?
     </question>
-    <question type="">
-        Como saber o estado de conservação do livro?
+    <question type="direta">
+        A <entity>Estante</entity> <intention>faz</intention> <entity>ações</entity> no <entity>Black Friday</entity>?
     </question>
-    <question type="">
-        Como retirar livros do carrinho?
+    <question type="qual">
+        <type_id>Qual</type_id> o <entity>prazo</entity> para <intention>solicitar</intention> o <entity>cancelamento</entity>, <entity>troca</entity> e <entity>devolução</entity>?
     </question>
-    <question type="">
-        Como avaliar ou fazer uma reclamação sobre um vendedor?
+    <question type="como">
+        <type_id>Como</type_id> <intention>trocar</intention> um <entity>livro</entity>?
     </question>
-    <question type="">
-        Como criar uma lista de desejos com meus livros favoritos?
+    <question type="como">
+        <type_id>Como</type_id> <intention>cancelar</intention>, <intention>trocar</intention> ou <intention>devolver</intention> a minha <entity>compra</entity>?
     </question>
-    <question type="">
-        Cadastrei um livro no "Encontre para mim", como vou saber se o livro está disponível?
+    <question type="direta">
+        O <entity>livro</entity> que eu comprei veio com <aspect>defeito</aspect> de <aspect>fabricação</aspect>, o que fazer?
     </question>
-    <question type="">
-        A Estante faz ações no Black Friday?
+    <question type="posso">
+        <type_id>Posso</type_id> efetuar a <intention>troca</intention> de um <entity>produto</entity> <aspect>adquirido</aspect> através do <entity>site</entity> em alguma <entity>loja física</entity>?
     </question>
-    <question type="">
-        Qual o prazo para solicitar o cancelamento, troca e devolução?
+    <question type="direta">
+        Comprando: Tenho quantos <entity>dias</entity> para <intention>pagar</intention> o <entity>boleto</entity> de uma <entity>compra</entity>?
     </question>
-    <question type="">
-        Como trocar um livro?
+    <question type="direta">
+        Comprando: Como <intention>emito</intention> a <entity>segunda via do boleto</entity>?
     </question>
-    <question type="">
-        Como cancelar, trocar ou devolver a minha compra?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>imprimir</intention> um <entity>boleto</entity>?
     </question>
-    <question type="">
-        O livro que eu comprei veio com defeito de fabricação, o que fazer?
+    <question type="direta">
+        Em <aspect>quanto tempo</aspect> o meu <entity>pagamento</entity> é <aspect>confirmado</aspect>?
     </question>
-    <question type="">
-        Posso efetuar a troca de um produto adquirido através do site em alguma loja física?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>parcelar</intention> o <aspect>valor</aspect> da minha <entity>compra</entity>?
     </question>
-    <question type="">
-        Comprando: Tenho quantos dias para pagar o boleto de uma compra?
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>editar</intention> os <aspect>dados</aspect> do <entity>boleto</entity>?
     </question>
-    <question type="">
-        Comprando: Como emito a segunda via do boleto?
+    <question type="direta">
+        Comprando: Tenho <aspect>quantos dias</aspect> para <intention>pagar</intention> o <aspect>boleto</aspect> de uma <entity>compra</entity>?
     </question>
-    <question type="">
-        Como faço para imprimir um boleto?
+    <question type="como">
+        Comprando: <type_id>Como</type_id> <intention>emito</intention> a <entity>segunda via do boleto</entity>?
     </question>
-    <question type="">
-        Em quanto tempo o meu pagamento é confirmado?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>imprimir</intention> um <entity>boleto</entity>?
     </question>
-    <question type="">
-        Posso parcelar o valor da minha compra?
+    <question type="direta">
+        Em <aspect>quanto tempo</aspect> o meu <entity>pagamento</entity> é <aspect>confirmado<aspect>?
     </question>
-    <question type="">
-        É possível editar os dados do boleto?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>parcelar</intention> o <aspect>valor</aspect> da minha <entity>compra</entity>?
     </question>
-    <question type="">
-        Comprando: Tenho quantos dias para pagar o boleto de uma compra?
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>editar</intention> os <aspect>dados</aspect> do <entity>boleto</entity>?
     </question>
-    <question type="">
-        Comprando: Como emito a segunda via do boleto?
+    <question type="direta">
+        <intention>Paguei</intention> o <entity>boleto</entity>, mas meu <entity>pagamento</entity> <aspect>não foi confirmado</aspect>. O que fazer?
     </question>
-    <question type="">
-        Como faço para imprimir um boleto?
+    <question type="qual">
+        <type_id>Quais</type_id> as <aspect>formas de pagamento</aspect> aceitas pelo <entity>site</entity>?
     </question>
-    <question type="">
-        Em quanto tempo o meu pagamento é confirmado?
+    <question type="direta">
+        Recebi um <entity>e-mail</entity> de <aspect>problemas</aspect> no meu <entity>pagamento</entity> <aspect>com cartão</aspect>, o que eu faço?
     </question>
-    <question type="">
-        Posso parcelar o valor da minha compra?
+    <question type="como">
+        Preciso de <aspect>comprovante</aspect> da <entity>compra</entity>, <type_id>como</type_id> <intention>receber</intention>?
     </question>
-    <question type="">
-        É possível editar os dados do boleto?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> com <entity>Vale Cultura</entity>?
     </question>
-    <question type="">
-        Paguei o boleto, mas meu pagamento não foi confirmado. O que fazer?
+    <question type="existe">
+        O <entity>site</entity> <type_id>possui</type_id> <aspect>vale presente</aspect>?
     </question>
-    <question type="">
-        Quais as formas de pagamento aceitas pelo site?
+    <question type="qual">
+        <type_id>Qual</type_id> é o <entity>prazo de entrega</entity>?
     </question>
-    <question type="">
-        Recebi um e-mail de problemas no meu pagamento com cartão, o que eu faço?
+    <question type="existe">
+        O <entity>site</entity> <type_id>faz</type_id> <entity>entrega internacional</entity>?
     </question>
-    <question type="">
-        Preciso de comprovante da compra, como receber?
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre as <entity>formas de envio</entity>?
     </question>
-    <question type="">
-        Posso pagar com Vale Cultura?
+    <question type="qual">
+        <type_id>Quais<type_id> as <aspect>regiões</aspect> de <entity>entrega</entity>?
     </question>
-    <question type="">
-        O site possui vale presente?
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>comprar</intention> no <entity>site</entity> e <intention>retirar</intention> na <entity>loja física</entity>?
     </question>
-    <question type="">
-        Fiz compras via boleto em mais de um vendedor, se um deles não tiver o livro posso emitir um novo boleto?
+    <question type="como">
+        <type_id>Como</type_id> o <entity>frete</entity> é <aspect>calculado</aspect>?
     </question>
-    <question type="">
-        Qual é o prazo de entrega?
+    <question type="como">
+        Não quero <intention>receber</intention> <entity>emails</entity> <aspect>promocionais</aspect>, <type_id>como</type_id> me <intention>descadastro</intention>?
     </question>
-    <question type="">
-        O site faz entrega internacional?
+    <question type="como">
+        Sou <aspect>comprador</aspect>, <type_id>como</type_id> <intention>altero</intention> meus <entity>dados cadastrais</entity>?
     </question>
-    <question type="">
-        Qual a diferença entre as formas de envio?
+    <question type="direta">
+        <aspect>Esqueci</aspect> minha <entity>senha</entity>, como faço?
     </question>
-    <question type="">
-        Quais as regiões de entrega?
+    <question type="como">
+        Sou comprador: <type_id>Como</type_id> <intention>altero</intention> o <aspect>endereço</aspect> de <entity>entrega</entity>?
     </question>
-    <question type="">
-        É possível comprar no site e retirar na loja física?
+    <question type="como">
+        <type_id>Como</type_id> <intention>sair</intention> e <intention>deslogar</intention> da <entity>minha conta</entity>?
     </question>
-    <question type="">
-        Como o frete é calculado?
+    <question type="como">
+        <type_id>Como</type_id> <intention>excluir</intention> meu <entity>cadastro</entity>?
     </question>
-    <question type="">
-        Não quero receber emails promocionais, como me descadastro?
+    <question type="direta">
+        <intention>Comprar</intention> na <entity>Estante Virtual</entity> é <aspect>seguro</aspect>?
     </question>
-    <question type="">
-        Sou comprador, como altero meus dados cadastrais?
+    <question type="o_que">
+        <type_id>O que</type_id> <intention>verificar</intention> no ato da <aspect>entrega</aspect> do <entity>pedido</entity>?
     </question>
-    <question type="">
-        Esqueci minha senha, como faço?
+    <question type="como">
+        Eu tenho <aspect>garantia</aspect> de <entity>compra</entity>? <type_id>Como</type_id> funciona?
     </question>
-    <question type="">
-        Sou comprador: Como altero o endereço de entrega?
+    <question type="como">
+        <type_id>Como</type_id> <intention>falar</intention> com o <entity>Vendedor</entity>?
     </question>
-    <question type="">
-        Como sair e deslogar da minha conta?
+    <question type="como">
+        Sou comprador: <type_id>Como</type_id> <intention>falar</intention> com a <entity>Estante Virtual</entity>?
     </question>
-    <question type="">
-        Como excluir meu cadastro?
+    <question type="como">
+        <type_id>Como</type_id> <intention>enviar</intention> meu <entity>currículo</entity>?
     </question>
-    <question type="">
-        Comprar na Estante Virtual é seguro?
+    <question type="como">
+        <type_id>Como</type_id> <intention>proceder</intention> em caso de <aspect>perda</aspect> ou <aspect>roubo</aspect> do <entity>Cartão</entity>?
     </question>
-    <question type="">
-        O que verificar no ato da entrega do pedido?
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>aderir</intention> a <entity>Fatura Digital</entity>?
     </question>
-    <question type="">
-        Eu tenho garantia de compra? Como funciona?
+    <question type="como">
+        <type_id>Como</type_id> <intention>fazer</intention> <aspect>alterações</aspect> de <entity>dados</entity>?
     </question>
-    <question type="">
-        Como falar com o Vendedor?
+    <question type="como">
+        <type_id>Como</type_id> <intention>realizar</intention> o <aspect>pagamento</aspect> da <entity>fatura</entity>?
     </question>
-    <question type="">
-        Sou comprador: Como falar com a Estante Virtual?
+    <question type="como">
+        <type_id>Como</type_id> <intention>conseguir</intention> a <aspect>2ª via</aspect> da <entity>fatura</entity>?
     </question>
-    <question type="">
-        Como enviar meu currículo?
+    <question type="qual">
+        <type_id>Qual<type_id> é minha <aspect>melhor</aspect> <entity>data de compra</entity>?
     </question>
-    <question type="">
-        Como proceder em caso de perda ou roubo do Cartão ?
+    <question type="qual">
+        <type_id>Quais<type_id> os <aspect>contatos</aspect> e <aspect>horários</aspect> da <entity>Central de Atendimento</entity>?
     </question>
-    <question type="">
-        É possível aderir a Fatura Digital?
+    <question type="qual">
+        <type_id>Qual<type_id> o <aspect>prazo para recebimento</aspect> de novo <entity>cartão</entity>, <entity>2ª via</entity> ou <entity>cartão adicional</entity>?
     </question>
-    <question type="">
-        Como fazer alterações de dados?
-    </question>
-    <question type="">
-        Como realizar o pagamento da fatura?
-    </question>
-    <question type="">
-        Como conseguir a 2ª via da fatura?
-    </question>
-    <question type="">
-        Qual é minha melhor data de compra?
-    </question>
-    <question type="">
-        Quais os contatos e horários da Central de Atendimento?
-    </question>
-    <question type="">
-        Qual o prazo para recebimento de novo cartão, 2ª via ou cartão adicional?
-    </question>
-    <question type="">
+    <question type="direta">
         Sobre a Marisa
     </question>
-    <question type="">
-        O que é a Marisa.com.br?
+    <question type="o_que">
+        <type_id>O que</type_id> é a <entity>Marisa.com.br</entity>?
     </question>
-    <question type="">
-        Produtos exclusivos para loja virtual
+    <question type="direta">
+        <aspect>Produtos exclusivos</aspect> para <entity>loja virtual</entity>
     </question>
-    <question type="">
-        Qual o telefone de contato da Loja Física?
+    <question type="qual">
+        <type_id>Qual<type_id> o <aspect>telefone de contato</aspect> da <entity>Loja Física</entity>?
     </question>
-    <question type="">
-        Como faço para trabalhar na Marisa?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>trabalhar</intention> na <entity>Marisa</entity>?
     </question>
-    <question type="">
+    <question type="dierta">
         Empréstimo Saque tá na Mão
     </question>
-    <question type="">
+    <question type="direta">
         SAX Financeira
     </question>
-    <question type="">
+    <question type="direta">
         Nosso SAC
     </question>
-    <question type="">
-        Trocas e Devoluções
+    <question type="direta">
+        <entity>Trocas</entity> e <entity>Devoluções</entity>
     </question>
-    <question type="">
-        Troca de produtos
+    <question type="direta">
+        <aspect>Troca</aspect> de <entity>produtos</entity>
     </question>
     <question type="">
         Posso trocar ou devolver os produtos comprados pela Internet?
@@ -1003,6 +956,52 @@
     </question>
     <question type="">
         A transportadora informou que não consegue localizar meu endereço. E agora?
+    </question>
+
+    <question type="">
+        Minha <entity>entrega</entity> está <aspect>retida na fiscalização</aspect>. O que aconteceu?
+    </question>
+    <question type="">
+        Meu <entity>produto</entity> chegou <aspect>faltando acessórios</aspect>. O que devo fazer?
+    </question>
+    <question type="">
+        Recebi um <entity>produto</entity> com <aspect>defeito</aspect>. O que devo fazer?
+    </question>
+    <question type="">
+        Comprei um <entity>produto</entity> e me <aspect>arrependi</aspect>. O que faço?
+    </question>
+    <question type="">
+        A <entity>coleta</entity> do meu produto está <aspect>atrasada</aspect>. O que faço?
+    </question>
+    <question type="">
+        A <entity>transportadora</entity> tentou realizar a <entity>coleta</entity> do <entity>produto</entity>, mas não tinha <entity>ninguém</entity> no <entity>endereço</entity>. Eles tentarão nova coleta?
+    </question>
+    <question type="posso">
+        Posso <intention>trocar</intention> os <entity>produtos</entity> nas <entity>lojas físicas</entity> da Ricardo Eletro?
+    </question>
+    <question type="">
+        Meu <entity>pedido</entity> ainda está em <aspect>análise</aspect>. O que fazer?
+    </question>
+    <question type="">
+        Recebi um <entity>e-mail</entity> falando que meu <entity>pedido</entity> foi <aspect>cancelado</aspect> por falta de <aspect>confirmação de dados</aspect>, O que aconteceu?
+    </question>
+    <question type="">
+        Minha <entity>compra</entity> foi <aspect>cancelada</aspect>, mas <aspect>paguei</aspect>. O que devo fazer?
+    </question>
+    <question type="">
+        <aspect>Quando</aspect> e <aspect>onde</aspect> os <entity>presentes</entity> serão <aspect>entregues</aspect>?
+    </question>
+    <question type="">
+        Solicitei uma <entity>troca<entity>. Em <aspect>quanto tempo</aspect> <intention>receberei</intention> meu <entity>produto</entity>?
+    </question>
+    <question type="">
+        Meu <entity>pedido</entity> <aspect>não foi entregue no prazo</aspect>, o que devo fazer?
+    </question>
+    <question type="">
+        Meu <entity>pedido</entity> ainda <aspect>não foi enviado</aspect>, o que devo fazer?
+    </question>
+    <question type="">
+        Fiz compras via boleto em mais de um vendedor, se um deles não tiver o livro posso emitir um novo boleto?
     </question>
 
 </questions>

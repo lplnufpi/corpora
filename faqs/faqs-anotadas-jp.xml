@@ -872,10 +872,10 @@
         <type_id>O que</type_id> significam os status no <entity>rastreamento via transportadora -Total Express</entity>?
     </question>
     <question type="por_que">
-        Por que o prazo de entrega de alguns produtos é maior?
+        <type_id>Por que</type_id> o <aspect>prazo</aspect> de <entity>entrega</entity> de alguns <entity>produtos</entity> é <relation>maior</relation>?
     </question>
     <question type="por_que">
-        Por que meu comentário sobre o produto não foi aprovado?
+        <type_id>Por que</type_id> meu <entity>comentário</entity> sobre o <entity>produto</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
     </question>
     <question type="posso">
         <type_id>Posso</type_id> <intention>comprar</intention> pelo <entity>telefone</entity>?
@@ -898,107 +898,106 @@
     <question type="direta">
         Consta no site que o <entity>produto</entity> foi <aspect>entregue</aspect>, mas eu <aspect>não recebi</aspect>.
     </question>
-    <question type="">
-        Devolução de valores (ressarcimento)
-    </question>
-    <question type="">
-        Não recebi todos os itens do meu pedido. O que eu faço?
-    </question>
-    <question type="">
-        Posso <intention>alterar</intention> a <entity>forma de pagamento</entity> após o fechamento do pedido?
-    </question>
-    <question type="">
-        Tudo o que você precisa <intention>saber</intention> sobre a <entity>Black Friday</entity>
-    </question>
-    <question type="">
-        <intention>Saiba</intention> mais sobre a <entity>Black Friday</entity>
-    </question>
-    <question type="">
-        Quantos itens do mesmo produto eu posso comprar?
-    </question>
-    <question type="">
-        Comprei um produto e me arrependi. O que fazer?
-    </question>
-    <question type="por_que">
-        <type_id>Por que</type_id> não posso trocar produtos dos lojistas pelos itens do Pontofrio.com?
-    </question>
-    <question type="">
-        Esqueci minha senha. O que faço?
+    <question type="direta">
+        <aspect>Devolução</aspect> de <entity>valores</entity> (<aspect>ressarcimento</aspect>)
     </question>
     <question type="direta">
-        Esqueci meu e-mail. E agora?
+        <relation>Não recebi</relation> <aspect>todos os itens</aspect> do meu <entity>pedido</entity>. O que eu faço?
     </question>
-    <question type="">
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> a <entity>forma de pagamento</entity> após o <aspect>fechamento</aspect> do <entity>pedido</entity>?
+    </question>
+    <question type="direta">
+        Tudo o que você precisa <intention>saber</intention> sobre a <entity>Black Friday</entity>
+    </question>
+    <question type="direta">
+        <intention>Saiba</intention> mais sobre a <entity>Black Friday</entity>
+    </question>
+    <question type="direta">
+        <aspect>Quantos itens<aspect> do <entity>mesmo produto</entity> eu posso <intention>comprar</intention>?
+    </question>
+    <question type="direta">
+        <intention>Comprei</intention> um <entity>produto</entity> e me <aspect>arrependi</aspect>. O que fazer?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> <relation>não posso</relation> <intention>trocar</intention> <entity>produtos dos lojistas<entity> pelos itens do <entity>Pontofrio.com</entity>?
+    </question>
+    <question type="direta">
+        <intention>Esqueci</intention> minha <entity>senha</entity>. O que faço?
+    </question>
+    <question type="direta">
+        <intention>Esqueci</intention> meu <entity>e-mail<entity>. E agora?
+    </question>
+    <question type="direta">
         Meu <entity>pedido</entity> <aspect>não consta</aspect> no <entity>site</entity>, o que faço?
     </question>
-    <question type="">
+    <question type="direta">
         Estou com <aspect>dificuldades</aspect> em <intention>comprar</intention>, o que fazer?
     </question>
-    <question type="">
-        Meu pedido não consta no site, o que faço?
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>não consta</aspect> no <entity>site</entity>, o que faço?
     </question>
-    <question type="">
-        A transportadora tentou realizar a entrega do meu pedido, mas não tinha ninguém para receber. O que faço?
+    <question type="direta">
+        A transportadora tentou realizar a <entity>entrega</entity> do meu <entity>pedido</entity>, mas não tinha <aspect>ninguém para receber</aspect>. O que faço?
     </question>
-    <question type="">
-        Meu pedido teve um insucesso de entrega e retornou ao Centro de Distribuição. O que faço?
+    <question type="direta">
+        Meu <entity>pedido</entity> teve um <aspect>insucesso de entrega</aspect> e <intention>retornou</intention> ao <entity>Centro de Distribuição</entity>. O que faço?
     </question>
-    <question type="">
-        Recebi o pedido incompleto (faltando brinde, peça ou acessório). Como devo proceder?
+    <question type="direta">
+        Recebi o <entity>pedido</entity> <aspect>incompleto</aspect> (<aspect>faltando</aspect> <entity>brinde</entity>, <entity>peça</entity> ou <entity>acessório</entity>). Como devo proceder?
     </question>
-    <question type="">
-        Comprei vários produtos. Eles serão entregues todos juntos?
+    <question type="direta">
+        Comprei vários <entity>produtos</entity>. Eles <intention>serão</intention> <aspect>entregues</aspect> todos <aspect>juntos</aspect>?
     </question>
-    <question type="">
-        O produto que recebi é diferente do comprado. O que faço?
+    <question type="direta">
+        O <entity>produto</entity> que recebi é <aspect>diferente</aspect> do comprado. O que faço?
     </question>
-    <question type="">
-        A transportadora informou que não consegue localizar meu endereço. E agora?
+    <question type="direta">
+        A transportadora informou que <aspect>não consegue</aspect> <intention>localizar</intention> meu <entity>endereço</entity>. E agora?
     </question>
-    <question type="">
+    <question type="direta">
         Minha <entity>entrega</entity> está <aspect>retida na fiscalização</aspect>. O que aconteceu?
     </question>
-    <question type="">
+    <question type="direta">
         Meu <entity>produto</entity> chegou <aspect>faltando acessórios</aspect>. O que devo fazer?
     </question>
-    <question type="">
+    <question type="direta">
         Recebi um <entity>produto</entity> com <aspect>defeito</aspect>. O que devo fazer?
     </question>
-    <question type="">
+    <question type="direta">
         Comprei um <entity>produto</entity> e me <aspect>arrependi</aspect>. O que faço?
     </question>
-    <question type="">
+    <question type="direta">
         A <entity>coleta</entity> do meu produto está <aspect>atrasada</aspect>. O que faço?
     </question>
-    <question type="">
+    <question type="direta">
         A <entity>transportadora</entity> tentou realizar a <entity>coleta</entity> do <entity>produto</entity>, mas não tinha <entity>ninguém</entity> no <entity>endereço</entity>. Eles tentarão nova coleta?
     </question>
     <question type="posso">
         Posso <intention>trocar</intention> os <entity>produtos</entity> nas <entity>lojas físicas</entity> da Ricardo Eletro?
     </question>
-    <question type="">
+    <question type="direta">
         Meu <entity>pedido</entity> ainda está em <aspect>análise</aspect>. O que fazer?
     </question>
-    <question type="">
+    <question type="direta">
         Recebi um <entity>e-mail</entity> falando que meu <entity>pedido</entity> foi <aspect>cancelado</aspect> por falta de <aspect>confirmação de dados</aspect>, O que aconteceu?
     </question>
-    <question type="">
+    <question type="direta">
         Minha <entity>compra</entity> foi <aspect>cancelada</aspect>, mas <aspect>paguei</aspect>. O que devo fazer?
     </question>
-    <question type="">
+    <question type="direta">
         <aspect>Quando</aspect> e <aspect>onde</aspect> os <entity>presentes</entity> serão <aspect>entregues</aspect>?
     </question>
-    <question type="">
+    <question type="direta">
         Solicitei uma <entity>troca<entity>. Em <aspect>quanto tempo</aspect> <intention>receberei</intention> meu <entity>produto</entity>?
     </question>
-    <question type="">
+    <question type="direta">
         Meu <entity>pedido</entity> <aspect>não foi entregue no prazo</aspect>, o que devo fazer?
     </question>
-    <question type="">
+    <question type="direta">
         Meu <entity>pedido</entity> ainda <aspect>não foi enviado</aspect>, o que devo fazer?
     </question>
-    <question type="">
-        Fiz compras via boleto em mais de um vendedor, se um deles não tiver o livro posso emitir um novo boleto?
+    <question type="posso">
+        Fiz <entity>compras</entity> via <entity>boleto</entity> em <aspect>mais</aspect> de um <entity>vendedor</entity>, se um deles <aspect>não tiver</aspect> o <entity>livro</entity> posso <intention>emitir<intention> um <entity>novo boleto<entity>?
     </question>
-
 </questions>

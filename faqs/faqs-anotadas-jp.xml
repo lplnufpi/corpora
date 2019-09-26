@@ -117,16 +117,16 @@
         <type_id>Como</type_id> <intention>altero</intention> o meu <entity>endereço</entity>?
     </question>
     <question type="direta">
-        Prazos e locais de entrega
+        <aspect>Prazos</aspect> e <aspect>locais</aspect> de <entity>entrega</entity>
     </question>
     <question type="como">
         <type_id>Como</type_id> é feita a <entity>entrega</entity>?
     </question>
     <question type="direta">
-        Entrega Expressa e Super Expressa
+        <entity>Entrega Expressa</entity> e <entity>Super Expressa</entity>
     </question>
     <question type="direta">
-        Frete
+        <entity>Frete</entity>
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para <intention>saber</intention> se meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
@@ -141,7 +141,7 @@
         <type_id>Qual</type_id> o <aspect>prazo para a aprovação</aspect> do meu <entity>pedido</entity>?
     </question>
     <question type="direta">
-        Cartão de crédito Pontofrio
+        <entity>Cartão de crédito</entity> Pontofrio
     </question>
     <question type="por_que">
         <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>foi</relation> <aspect>cancelado</aspect>?
@@ -180,16 +180,16 @@
         <type_id>Como</type_id> <intention>recuperar</intention> minha <entity>senha</entity> ou meu <entity>e-mail</entity>?
     </question>
     <question type="direta">
-        Termos e Condições de uso
+        <aspect>Termos</aspect> e <aspect>Condições</aspect> de <entity>uso</entity>
     </question>
     <question type="direta">
-        Comprei e me arrependi. E agora?
+        <intention>Comprei</intention> e me <aspect>arrependi</aspect>. E agora?
     </question>
     <question type="direta">
         Fale conosco
     </question>
     <question type="direta">
-        Atraso na entrega
+        <aspect>Atraso</aspect> na <entity>entrega</entity>
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>alterar</intention> meu <entity>cadastro</entity>?
@@ -240,7 +240,7 @@
         <type_id>Como</type_id> <intention>consultar</intention> meus <entity>pedidos no site</entity>?
     </question>
     <question type="direta">
-        E-mails promocionais
+        <entity>E-mails promocionais</entity>
     </question>
     <question type="como">
         <intention>Não quero mais receber</intention> <entity>e-mails promocionais</entity>. <type_id>Como</type_id> faço?
@@ -249,7 +249,7 @@
         <type_id>O que</type_id> é <entity>cupom de desconto</entity> e como <intention>utilizar</intention>?
     </question>
     <question type="direta">
-        Cupons promocionais de sites parceiros
+        <aspect>Cupons promocionais</aspect> de <entity>sites parceiros</entity>
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>acompanho</intention> minha <entity>entrega</entity>?
@@ -431,8 +431,8 @@
     <question type="como">
         <type_id>Como</type_id> <intention>encontrar</intention> uma <entity>lista de presentes</entity>?
     </question>
-    <question type="">
-        Para comprar o presente preciso me cadastrar? Como funciona o cadastro?
+    <question type="direta">
+        Para <intention>comprar</intention> o <entity>presente</entity> <intention>preciso</intention> me <intention>cadastrar</intention>? Como funciona o cadastro?
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>escolher</intention> e <intention>comprar</intention> um <entity>presente</entity>?
@@ -683,7 +683,7 @@
         <type_id>Qual<type_id> o <aspect>prazo para recebimento</aspect> de novo <entity>cartão</entity>, <entity>2ª via</entity> ou <entity>cartão adicional</entity>?
     </question>
     <question type="direta">
-        Sobre a Marisa
+        Sobre a <entity>Marisa</entity>
     </question>
     <question type="o_que">
         <type_id>O que</type_id> é a <entity>Marisa.com.br</entity>?
@@ -697,14 +697,14 @@
     <question type="como">
         <type_id>Como</type_id> faço para <intention>trabalhar</intention> na <entity>Marisa</entity>?
     </question>
-    <question type="dierta">
-        Empréstimo Saque tá na Mão
+    <question type="direta">
+        <entity>Empréstimo Saque</entity> tá na Mão
     </question>
     <question type="direta">
-        SAX Financeira
+        <entity>SAX Financeira</entity>
     </question>
     <question type="direta">
-        Nosso SAC
+        Nosso <entity>SAC</entity>
     </question>
     <question type="direta">
         <entity>Trocas</entity> e <entity>Devoluções</entity>
@@ -712,193 +712,191 @@
     <question type="direta">
         <aspect>Troca</aspect> de <entity>produtos</entity>
     </question>
-    <question type="">
-        Posso trocar ou devolver os produtos comprados pela Internet?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>trocar</intention> ou <intention>devolver</intention> os <entity>produtos</entity> <aspect>comprados pela Internet</aspect>?
     </question>
-    <question type="">
-        Política de Trocas e Devoluções
+    <question type="direta">
+        <aspect>Política</aspect> de <entity>Trocas</entity> e <entity>Devoluções</entity>
     </question>
-    <question type="">
-        Quero trocar meu produto, como proceder?
+    <question type="como">
+        Quero <intention>trocar</intention> meu produto, <type_id>como</type_id> proceder?
     </question>
-    <question type="">
-        Posso comprar na Loja Virtual e trocar na Loja Física?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> na <entity>Loja Virtual</entity> e <intention>trocar</intention> na <entity>Loja Física</entity>?
     </question>
-    <question type="">
-        Formas de Ressarcimento
+    <question type="direta">
+        <aspect>Formas</aspect> de <entity>Ressarcimento</entity>
     </question>
-    <question type="">
-        Qual o prazo para troca em uma loja física?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para <intention>troca</intention> em uma <entity>loja física</entity>?
     </question>
-    <question type="">
-        Como funciona o cancelamento antes do envio do pedido?
+    <question type="como">
+        <type_id>Como</type_id> funciona o <entity>cancelamento</entity> <aspect>antes do envio</aspect> do <entity>pedido</entity>?
     </question>
-    <question type="">
-        Como funciona a alteração do pedido antes do envio?
+    <question type="como">
+        <type_id>Como</type_id> funciona a <entity>alteração</entity> do <entity>pedido</entity> <aspect>antes do envio</aspect>?
     </question>
-    <question type="">
-        Se precisar trocar um produto adquirido na Black Friday, qual será o valor do meu vale compra?
+    <question type="qual">
+        Se precisar <intention>trocar</intention> um <entity>produto</entity> <aspect>adquirido na Black Friday</aspect>, <type_id>qual</type_id> será o <aspect>valor</aspect> do meu <entity>vale compra</entity>?
     </question>
-    <question type="">
-        Qual o prazo de entrega de compras feitas na Black Friday?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> de <entity>entrega</entity> de compras feitas na <aspect>Black Friday</aspect>?
     </question>
-    <question type="">
-        Como faço para utilizar o Vale Compra da Newsletter?
+    <question type="como">
+        <type_id>Como</type_id> faço para <intention>utilizar</intention> o <aspect>Vale Compra</aspect> da <entity>Newsletter</entity>?
     </question>
-    <question type="">
-        Como funciona o cadastro na Newsletter?
+    <question type="como">
+        <type_id>Como</type_id> <intention>funciona</intention> o <aspect>cadastro</aspect> na <entity>Newsletter</entity>?
     </question>
-    <question type="">
-        Quantas vezes consigo utilizar meu vale compra Newsletter ?
+    <question type="direta">
+        <aspect>Quantas vezes</aspect> consigo <intention>utilizar</intention> meu <entity>vale compra Newsletter</entity>?
     </question>
-    <question type="">
-        Não recebi meu Vale Compra Newsletter, o que fazer?
+    <question type="direta">
+        <aspect>Não recebi</aspect> meu <entity>Vale Compra Newsletter</entity>, o que fazer?
     </question>
-    <question type="">
-        Meu pedido está no status de Recebido Pré-venda, o que significa?
+    <question type="o_que">
+        Meu <entity>pedido</entity> está no <aspect>status de Recebido Pré-venda</aspect>, <type_id>o que</type_id> significa?
     </question>
-    <question type="">
-        O que significa a tag Pré-venda nos produtos ?
+    <question type="o_que">
+        <type_id>O que</type_id> significa a <aspect>tag Pré-venda</aspect> nos <entity>produtos</entity>?
     </question>
-    <question type="">
-        Se eu comprar outros produtos com um modelo de Pré-venda, como fica o envio do pedido?
+    <question type="direta">
+        Se eu <intention>comprar</intention> outros <entity>produtos</entity> com um <entity>modelo de Pré-venda</entity>, como fica o <aspect>envio</aspect> do <entity>pedido</entity>?
     </question>
-    <question type="">
-        Em que momento recebo o número do objeto para acompanhar o rastreamento?
+    <question type="qual">
+        <type_id>Em que</type_id> <entity>momento</entity> <intention>recebo</intention> o <aspect>número</aspect> do <entity>objeto</entity> para <intention>acompanhar</intention> o <entity>rastreamento</entity>?
     </question>
-    <question type="">
-        Onde encontro o número do objeto (rastreamento) de meu pedido?
+    <question type="direta">
+        Onde <intention>encontro</intention> o <aspect>número</aspect> do <entity>objeto</entity> (<entity>rastreamento</entity>) de meu <entity>pedido</entity>?
     </question>
-    <question type="">
-        Por que estou demorando para receber o rastreamento da minha compra?
+    <question type="por_que">
+        <type_id>Por que</type_id> estou <entity>demorando</entity> para <intention>receber</intention> o <aspect>rastreamento</aspect> da minha <entity>compra</entity>?
     </question>
-    <question type="">
-        Por que o rastreamento de minha encomenda está parado, sem atualização?
+    <question type="por_que">
+        <type_id>Por que</type_id> o <aspect>rastreamento</aspect> de minha <entity>encomenda</entity> está <aspect>parado</aspect>, <aspect>sem</aspect> <entity>atualização</entity>?
     </question>
-    <question type="">
-        O rastreamento de minha encomenda está incorreto, o que fazer?
+    <question type="direta">
+        O <aspect>rastreamento</aspect> de minha <entity>encomenda</entity> está <aspect>incorreto</aspect>, o que fazer?
     </question>
-    <question type="">
-        Por que o rastreamento não foi encontrado?
+    <question type="por_que">
+        <type_id>Por que</type_id> o <entity>rastreamento</entity> <relation>não foi</relation> <aspect>encontrado</aspect>?
     </question>
-    <question type="">
-        O rastreamento da minha encomenda está sem movimentação desde o dia da postagem. O que fazer?
+    <question type="direta">
+        O <aspect>rastreamento da minha <entity>encomenda</entity> está <aspect>sem movimentação</aspect> desde o <entity>dia da postagem</entity>. O que fazer?
     </question>
-    <question type="">
-        Consigo trocar o produto pelo mesmo modelo?
+    <question type="direta">
+        Consigo <intention>trocar</intention> o <entity>produto</entity> pelo <aspect>mesmo modelo</aspect>?
     </question>
-    <question type="">
-        Política de Troca e Devolução
+    <question type="direta">
+        <aspect>Política</aspect> de <entity>Troca</entity> e <entity>Devolução</entity>
     </question>
-    <question type="">
-        Se, após abrir meu formulário de troca, não receber nenhum contato da loja, o que faço?
+    <question type="direta">
+        Se, após <intention>abrir</intention> meu <entity>formulário de troca</entity>, não <intention>receber</intention> nenhum <entity>contato da loja</entity>, o que faço?
     </question>
-    <question type="">
-        Qual o prazo que tenho pra solicitar uma troca?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> que tenho pra <intention>solicitar</intention> uma <entity>troca</entity>?
     </question>
-    <question type="">
-        Posso trocar o produto, adquirido na Loja Melissa, em outras lojas?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>trocar</intention> o <entity>produto</entity>, <aspect>adquirido</aspect> na <entity>Loja Melissa</entity>, em <entity>outras lojas</entity>?
     </question>
-    <question type="">
-        Qual o prazo para a solicitação de cancelamento de um pedido?
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para a <entity>solicitação</entity> de <intention>cancelamento</intention> de um <entity>pedido</entity>?
     </question>
-    <question type="">
-        Devo pagar frete para troca?
+    <question type="direta">
+        Devo <intention>pagar</intention> <aspect>frete</aspect> para <entity>troca</entity>?
     </question>
-    <question type="">
-        A cor do meu produto é diferente da imagem do site, devo solicitar a troca?
+    <question type="direta">
+        A <aspect>cor</aspect> do meu <entity>produto</entity> é <aspect>diferente</aspect> da <entity>imagem</entity> do site, devo <intention>solicitar</intention> a <entity>troca</entity>?
     </question>
-    <question type="">
-        Como solicito uma troca de um produto que ganhei de presente?
+    <question type="como">
+        <type_id>Como</type_id> <intention>solicito</intention> uma <aspect>troca</aspect> de um <entity>produto</entity> que ganhei de <aspect>presente</aspect>?
     </question>
-    <question type="">
-        Como receberei meu Vale Compra?
+    <question type="como">
+        <type_id>Como</type_id> <intention>receberei</intention> meu <entity>Vale Compra</entity>?
     </question>
-    <question type="">
-        O que significa o botão TROCA, ao lado dos dados do meu pedido no site?
+    <question type="o_que">
+        <type_id>O que</type_id> significa o <entity>botão TROCA</entity>, ao <aspect>lado dos dados do meu pedido</aspect> no site?
     </question>
-    <question type="">
-        Consigo abrir meu formulário de troca pelo celular?
+    <question type="direta">
+        Consigo <intention>abrir</intention> meu <entity>formulário de troca</entity> pelo <entity>celular</entity>?
     </question>
-    <question type="">
-        Caso receba um modelo diferente do que solicitei em meu pedido, o que devo fazer?
+    <question type="direta">
+        Caso <intention>receba</intention> um <aspect>modelo diferente</aspect> do que <aspect>solicitei</aspect> em meu <entity>pedido</entity>, o que devo fazer?
     </question>
-    <question type="">
-        Se comprei meu produto na promoção, a troca será pelo mesmo produto, ou valor que eu paguei?
+    <question type="direta">
+        Se <intention>comprei</intention> meu <entity>produto</entity> na <aspect>promoção</aspect>, a <entity>troca</entity> será pelo <aspect>mesmo produto</aspect>, ou <aspect>valor</aspect> que eu paguei?
     </question>
-    <question type="">
-        Como proceder para trocar um produto?
+    <question type="como">
+        <type_id>Como</type_id> proceder para <intention>trocar</intention> um <entity>produto</entity>?
     </question>
-    <question type="">
-        Como devo embalar meu produto para enviar para a troca?
+    <question type="como">
+        <type_id>Como</type_id> devo <intention>embalar</intention> meu <entity>produto</entity> para enviar para a <aspect>troca</aspect>?
     </question>
-    <question type="">
-        A Melissa entrega nos finais de semana e feriados?
+    <question type="direta">
+        A Melissa <entity>entrega</entity> nos <entity>finais de semana e feriados</entity>?
     </question>
-    <question type="">
-        O que acontece com meu pedido se a encomenda é extraviada ou roubada do carro dos Correios?
+    <question type="direta">
+        O que acontece com meu <entity>pedido</entity> se a <entity>encomenda</entity> é <aspect>extraviada</aspect> ou <aspect>roubada</aspect> do carro dos <entity>Correios</entity>?
     </question>
-    <question type="">
-        Posso alterar o endereço de entrega após finalizado o pedido?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> o <aspect>endereço</aspect> de <entity>entrega</entity> após <aspect>finalizado</aspect> o pedido?
     </question>
-    <question type="">
-        Quanto tempo leva para eu receber meus produtos?
+    <question type="qual">
+        <type_id>Quanto</type_id> <entity>tempo</entity> leva para eu <intention>receber</intention> meus <entity>produtos</entity>?
     </question>
-    <question type="">
-        Minha encomenda retornou a central, o que fazer?
+    <question type="direta">
+        Minha <entity>encomenda</entity> <aspect>retornou</aspect> a central, o que fazer?
     </question>
-    <question type="">
-        O rastreamento da minha encomenda está sem movimento. O que fazer?
+    <question type="direta">
+        O <entity>rastreamento</entity> da minha <entity>encomenda</entity> <relation>está sem</relation> <aspect>movimento</aspect>. O que fazer?
     </question>
-    <question type="">
-        O que significa a informação no rastreamento de "Áreas com restrição de entrega domiciliar"
+    <question type="o_que">
+        <type_id>O que</type_id> significa a informação no <entity>rastreamento</entity> de <aspect>Áreas com restrição de entrega domiciliar</aspect>
     </question>
-    <question type="">
-        Enviam produtos para fora do Brasil?
+    <question type="direta">
+        <intention>Enviam</intention> <entity>produtos</entity> para <aspect>fora do Brasil</aspect>?
     </question>
-    <question type="">
-        No caso de retirar a encomenda na agência dos Correios, eu preciso ir pessoalmente?
+    <question type="direta">
+        No caso de <intention>retirar</intention> a <entity>encomenda</entity> na agência dos <entity>Correios</entity>, eu <intention>preciso</intention> ir <aspect>pessoalmente</aspect>?
     </question>
-    <question type="">
-        Após meu pedido ser finalizado (pendente), quanto tempo leva para ser enviado e eu receber a encomenda?
+    <question type="direta">
+        Após meu <entity>pedido</entity> ser <aspect>finalizado</aspect> (<aspect>pendente</aspect>), quanto <entity>tempo<entity> leva para ser <aspect>enviado</aspect> e eu <aspect>receber</aspect> a <entity>encomenda</entity>?
     </question>
-    <question type="">
-        O que significa o status Em Análise do Posto Fiscal, no envio por Transportadora?
+    <question type="o_que">
+        <type_id>O que</type_id> significa o status <entity>Em Análise do Posto Fiscal</entity>, no envio por Transportadora?
     </question>
-    <question type="">
-        Quando minha encomenda pode ficar aguardando retirada na agência dos correios?
+    <question type="direta">
+        Quando minha <entity>encomenda</entity> pode ficar <aspect>aguardando</aspect> retirada na agência dos <entity>correios</entity>?
     </question>
-    <question type="">
-        O que significam os status no rastreamento via transportadora -Total Express?
+    <question type="o_que">
+        <type_id>O que</type_id> significam os status no <entity>rastreamento via transportadora -Total Express</entity>?
     </question>
-
-
     <question type="por_que">
         Por que o prazo de entrega de alguns produtos é maior?
     </question>
     <question type="por_que">
         Por que meu comentário sobre o produto não foi aprovado?
     </question>
-    <question type="">
-        Posso comprar pelo telefone?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> pelo <entity>telefone</entity>?
     </question>
-    <question type="">
-        Posso utilizar cupons e vales para produtos marketplace?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> <entity>cupons</entity> e <entity>vales</entity> para <entity>produtos marketplace</entity>?
     </question>
-    <question type="">
-        Meus dados pessoais serão compartilhados?
+    <question type="direta">
+        Meus <entity>dados pessoais</entity> serão <aspect>compartilhados</aspect>?
     </question>
-    <question type="">
-        Comprar no site é seguro?
+    <question type="direta">
+        <intention>Comprar</intention> no <entity>site</entity> é <aspect>seguro</aspect>?
     </question>
-    <question type="">
-        Atraso na entrega
+    <question type="direta">
+        <aspect>Atraso</aspect> na <entity>entrega</entity>
     </question>
-    <question type="">
-        A transportadora tentou realizar a entrega, mas não tinha ninguém para receber. O que faço?
+    <question type="direta">
+        A transportadora tentou realizar a <entity>entrega</entity>, mas não tinha <entity>ninguém</entity> para <aspect>receber</aspect>. O que faço?
     </question>
-    <question type="">
-        Consta no site que o produto foi entregue, mas eu não recebi.
+    <question type="direta">
+        Consta no site que o <entity>produto</entity> foi <aspect>entregue</aspect>, mas eu <aspect>não recebi</aspect>.
     </question>
     <question type="">
         Devolução de valores (ressarcimento)
@@ -957,7 +955,6 @@
     <question type="">
         A transportadora informou que não consegue localizar meu endereço. E agora?
     </question>
-
     <question type="">
         Minha <entity>entrega</entity> está <aspect>retida na fiscalização</aspect>. O que aconteceu?
     </question>

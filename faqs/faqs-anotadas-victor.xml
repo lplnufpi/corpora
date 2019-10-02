@@ -598,6 +598,12 @@
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>pagar</intention> uma <entity>conta</entity> usando o Aplicativo <entity>PagSeguro PagBank</entity>?
+
+
+
+
+
+        
     </question>
     <question type="como">
         <type_id>Como</type_id> validar o Token do Aplicativo PagBank?

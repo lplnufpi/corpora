@@ -20,7 +20,7 @@
     </question> -->
 
     <question type="direta">
-        <intention>Comprei</intention> com a <entity><entity>KOIN</entity></entity>, de quem recebo o <entity>boleto</entity> para <intention>pagar</intention> minha compra?
+        <intention>Comprei</intention> com a <entity>KOIN</entity>, de quem recebo o <entity>boleto</entity> para <intention>pagar</intention> minha compra?
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>funciona</intention> o <intention>cancelamento</intention> após o <aspect>pagamento aprovado</aspect> pela <entity>PicPay</entity>?
@@ -32,7 +32,7 @@
         <type_id>Como</type_id> <intention>comprar</intention> com o <entity>PicPAY</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>PicPay</entity>?
+        <type_id>O que é</type_id> <entity>PicPay</entity>?
     </question>
 
    <!--  <question type="direto">
@@ -40,7 +40,7 @@
     </question> -->
 
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> a <entity>KOIN</entity>?
+        <type_id>O que é</type_id> a <entity>KOIN</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>comprar</intention> com <entity>KOIN</entity>?
@@ -126,289 +126,295 @@
         Para <intention>finalizar</intention> um <entity>pedido</entity> tenho que ser <aspect>cadastrada</aspect> na <entity>Loja Melissa</entity>?
     </question>
     <question type="o_que">
-        <type_id>O que</type_id> significa cada status de meu pedido?
+        <type_id>O que</type_id> significa cada <aspect>status</aspect> de meu <entity>pedido</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> posso acompanhar o andamento de meu pedido?
+        <type_id>Como</type_id> posso <intention>acompanhar</intention> o andamento de meu <entity>pedido</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> fico sabendo que o meu pedido foi aprovado?
+        <type_id>Como</type_id> fico sabendo que o meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> <intention>alterar</intention> meu pedido depois de confirmado?
+        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>pedido</entity> depois de <aspect>confirmado</aspect>?
     </question>
-    <question type="">
-        Pedido pago e não recebi e-mail
+    <question type="direta">
+        <entity>Pedido</entity> <aspect>pago</aspect> e não recebi <entity>e-mail</entity>
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> solicitar que meu pedido venha em pacote de presente?
+        <type_id>Posso</type_id> <intention>solicitar</intention> que meu <entity>pedido</entity> venha em <aspect>pacote de presente</aspect>?
     </question>
-    <question type="">
-        Se meu produto vier sem o saquinho da Melissa, posso receber depois?
+    <question type="direta">
+        Se meu <entity>produto</entity> vier <aspect>sem o saquinho</aspect> da <entity>Melissa</entity>, posso <intention>receber</intention> depois?
     </question>
-    <question type="">
-        O produto que recebi não é o mesmo que <intention>Solicitei</intention> no pedido, o que faço?
+    <question type="direta">
+        O <entity>produto</entity> que recebi <aspect>não é o mesmo</aspect> que Solicitei no <entity>pedido</entity>, o que faço?
     </question>
-    <question type="">
-        Caso meu produto fique indisponível, quais as opções que a loja me oferece?
+    <question type="direta">
+        Caso meu <entity>produto</entity> fique <aspect>indisponível</aspect>, quais as opções que a loja me oferece?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> a vantagem de ter um cadastro na Loja Melissa?
+        <type_id>Qual</type_id> a vantagem de ter um <aspect>cadastro</aspect> na <entity>Loja Melissa</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para <intention>alterar</intention> meus dados cadastrais?
     </question>
-    <question type="">
-        Meus dados estão em segurança?
+    <question type="direta">
+        <entity>Meus dados</entity> estão em <aspect>segurança</aspect>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> faço um cadastro na Loja Melissa?
+        <type_id>Como</type_id> faço um <aspect>cadastro<aspect> na <entity>Loja Melissa</entity>?
     </question>
-    <question type="">
-        Para que serve o SAC?
+    <question type="direta">
+        Para que <aspect>serve</aspect> o <entity>SAC</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> posso entrar em contato com a Loja Melissa.com?
+        <type_id>Como</type_id> posso entrar em <aspect>contato</aspect> com a <entity>Loja Melissa.com</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> a <entity>NuConta</entity>?
+        <type_id>O que é</type_id> a <entity>NuConta</entity>?
     </question>
-    <question type="">
-        Vou precisar passar por algum tipo de análise?
+    <question type="direta">
+        Vou precisar passar por algum tipo de <aspect>análise<aspect>?
     </question>
-    <question type="">
-        Não tem nenhuma tarifa?
+    <question type="direta">
+        <aspect>Não tem</aspect> nenhuma <entity>tarifa</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> faço para ter meu cartão com a função de débito?
+        <type_id>Como</type_id> faço para ter <entity>meu cartão</entity> com a <aspect>função de débito</aspect>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> <intention>fazer</intention> saques com a minha NuConta?
+        <type_id>Posso</type_id> <intention>fazer saques</intention> com a minha <entity>NuConta</entity>?
     </question>
-    <question type="">
-        Existe algum risco em colocar meu dinheiro na NuConta?
+    <question type="direta">
+        Existe <aspect>algum risco</aspect> em <intention>colocar</intention> meu dinheiro na <entity>NuConta</entity>?
     </question>
-    <question type="">
-        A NuConta é uma conta corrente ou conta poupança?
-    </question>
-    <question type="por_que">
-        <type_id>Por que</type_id> iremos cobrar pelo saque?
-    </question>
-    <question type="">
-        <type_id>Quais</type_id> são as tarifas do Cartão Nubank?
-    </question>
-    <question type="">
-        Para quem é o cartão Nubank?
-    </question>
-    <question type="">
-        Se meu pedido for aprovado, qual cartão receberei?
-    </question>
-    <question type="">
-        <type_id>Quais</type_id> são os benefícios do Cartão Nubank?
-    </question>
-    <question type="como">
-        <type_id>Como</type_id> funciona a lista de espera para o Cartão Nubank?
-    </question>
-    <question type="">
-        Tenho o nome "limpo" e não fui aprovado na análise do Nubank. Por que?
+    <question type="direta">
+        A <entity>NuConta</entity> é uma <aspect>conta corrente</aspect> ou <aspect>conta poupança</aspect>?
     </question>
     <question type="por_que">
-        <type_id>Por que</type_id> eu preciso de um smartphone?
-    </question>
-    <question type="">
-        Quem emite o Cartão Nubank?
+        <type_id>Por que</type_id> iremos <aspect>cobrar</aspect> pelo <entity>saque</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id>quer compra pode ser apagada?
+        <type_id>Quais</type_id> são as <aspect>tarifas</aspect> do <entity>Cartão Nubank</entity>?
+    </question>
+    <question type="direta">
+        Para quem é o <entity>cartão Nubank</entity>?
+    </question>
+    <question type="direta">
+        Se meu <entity>pedido</entity> for <aspect>aprovado</aspect>, qual <entity>cartão</entity> receberei?
+    </question>
+    <question type="direta">
+        <type_id>Quais</type_id> são os <aspect>benefícios</aspect> do <entity>Cartão Nubank</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> funciona a <aspect>lista de espera</aspect> para o <entity>Cartão Nubank</entity>?
     </question>
     <question type="por_que">
-        <type_id>Por que</type_id> assinar o Nubank Rewards?
+        Tenho o <aspect>nome "limpo"</aspect> e não fui <aspect>aprovado</aspect> na <entity>análise do Nubank</entity>. Por que?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> eu <aspect>preciso</aspect> de um <entity>smartphone</entity>?
+    </question>
+    <question type="direta">
+        Quem emite o <entity>Cartão Nubank</entity>?
+    </question>
+    <question type="direta">
+        Qualquer <entity>compra</entity> pode ser <aspect>apagada</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> <intention>assinar</intention> o <entity>Nubank Rewards</entity>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> cancelar o Nubank Rewards a qualquer momento?
+        <type_id>Posso</type_id> <intention>cancelar</intention> o <entity>Nubank Rewards</entity> a qualquer momento?
     </question>
     <question type="como">
-        <type_id>Como</type_id> assino o Nubank Rewards?
+        <type_id>Como</type_id> <intention>assino</intention> o <entity>Nubank Rewards</entity>?
     </question>
-    <question type="">
-        Estou sem saldo disponível para assinar o programa. E agora?
+    <question type="direta">
+        Estou sem <aspect>saldo disponível</aspect> para <intention>assinar</intention> o <entity>programa</entity>. E agora?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>Nubank</entity>?
+        <type_id>O que é</type_id> o <entity>Nubank</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> o Nubank ganha dinheiro se não cobra tarifas?
+        <type_id>Como</type_id> o <entity>Nubank</entity> <aspect>ganha dinheiro</aspect> se não cobra <aspect>tarifas</aspect>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> a <entity>Conta PJ</entity>?
+        <type_id>O que é</type_id> a <entity>Conta PJ</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> faço para participar do teste da Conta PJ?
+        <type_id>Como</type_id> faço para <intention>participar</intention> do teste da <entity>Conta PJ</entity>?
     </question>
-    <question type="">
-        A Conta PJ tem alguma tarifa?
+    <question type="direta">
+        A <entity>Conta PJ</entity> tem alguma <aspect>tarifa</aspect>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> a diferença entre a NuConta e a Conta PJ?
+        <type_id>Qual</type_id> a diferença entre a <entity>NuConta</entity> e a <entity>Conta PJ</entity>?
     </question>
-    <question type="">
-        Quem pode participar dos testes da Conta PJ?
+   <!--  <question type="direta">
+        Quem pode <intention>participar</intention> dos testes da <entity>Conta PJ</entity>?
+    </question> -->
+    <question type="direta">
+        Quem realiza a <aspect>montagem</aspect> do meu <entity>Produto</entity>?
     </question>
-    <question type="">
-        Quem realiza a montagem do meu Produto?
-    </question>
-    <question type="">
-        Há cobrança para o serviço de Montagem?
+    <question type="direta">
+        Há <aspect>cobrança</aspect> para o <entity>serviço de Montagem</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> Funciona o Fluxo de Montagem
+        <type_id>Como</type_id> Funciona o <entity>Fluxo de Montagem</entity>
     </question>
-    <question type="">
-        Quando o Montador é acionado para montar meu produto?
-    </question>
-    <question type="posso">
-        <type_id>Posso</type_id> agendar uma data específica para a montagem?
+    <question type="direta">
+        Quando o <entity>Montador</entity> é acionado para <intention>montar</intention> meu <entity>produto<entity>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> marcar turno? (manhã ou tarde).
+        <type_id>Posso</type_id> <intention>agendar</intention> uma <aspect>data específica</aspect> para a <entity>montagem</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>marcar</intention> <aspect>turno</aspect>? (manhã ou tarde).
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> a <entity>Nota Fiscal Eletrônica – NF-e</entity>?
+        <type_id>O que é</type_id> a <entity>Nota Fiscal Eletrônica – NF-e</entity>?
     </question>
-    <question type="">
-        O Que é uma DANFE e onde localizo o numero da Chave de Acesso?
-    </question>
-    <question type="como">
-        <type_id>Como</type_id> solicito a segunda via da Nota fiscal e qual o prazo para o recebimento do documento?
+    <question type="o_que">
+        <type_id>O Que é</type_id> uma <entity>DANFE</entity> e onde localizo o <aspect>numero</aspect> da <entity>Chave de Acesso</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> acesso o site da SEFAZ para imprimir minha nota fiscal eletrônica?
+        <type_id>Como</type_id> <intention>solicito</intention> a <aspect>segunda via</aspect> da <entity>Nota fiscal</entity> e qual o <aspect>prazo</aspect> para o recebimento do documento?
     </question>
     <question type="como">
-        <type_id>Como</type_id> solicito o XML da Nota Fiscal Eletrônica?
+        <type_id>Como</type_id> <intention>acesso</intention> o site da <entity>SEFAZ</entity> para <intention>imprimir</intention> minha <entity>nota fiscal eletrônica</entity>?
     </question>
-    <question type="">
-        Existe plano anual?
+    <question type="como">
+        <type_id>Como</type_id> <intention>solicito</intention> o <aspect>XML</aspect> da <entity>Nota Fiscal Eletrônica</entity>?
     </question>
-    <question type="">
+    <question type="existe">
+        <type_id>Existe</type_id> <entity>plano anual</entity>?
+    </question>
+
+    <!-- <question type="direto">
         Na primeira visita: o que devo levar?
-    </question>
+    </question> -->
+
     <question type="qual">
-        <type_id>Qual</type_id> a idade mínima para a matrícula?
+        <type_id>Qual</type_id> a <aspect>idade mínima</aspect> para a <entity>matrícula</entity>?
     </question>
-    <question type="">
-        É obrigatório?
+    <question type="direta">
+        É <aspect>obrigatório</aspect>?
     </question>
-    <question type="">
-        Quando tenho que renovar?
+    <question type="direta">
+        Quando tenho que <intention>renovar</intention>?
     </question>
-    <question type="">
-        Que tipo de atestado é necessário?
-    </question>
+
+    <!-- <question type="direta">
+        Que tipo de <entity>atestado</entity> é necessário?
+    </question> -->
+
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>PAR-Q</entity>?
+        <type_id>O que é</type_id> o <entity>PAR-Q</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> <intention>fazer</intention> o exame médico?
+        <type_id>Como</type_id> <intention>fazer</intention> o <entity>exame médico</entity>?
     </question>
-    <question type="">
-        Tem vestiário?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>vestiário</entity>?
     </question>
-    <question type="">
-        Tem lugar para tomar banho?
-    </question>
+
+    <!-- <question type="direta">
+        Tem lugar para <intention>tomar</intention> <entity>banho</entity>?
+    </question> -->
+
     <question type="como">
-        <type_id>Como</type_id> <intention>usar</intention> os armários?
+        <type_id>Como</type_id> <intention>usar</intention> os <entity>armários</entity>?
     </question>
-    <question type="">
-        Tem estacionamento?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>estacionamento</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> cadeado devo <intention>usar</intention>?
+        <type_id>Qual</type_id> <entity>cadeado</entity> devo <intention>usar</intention>?
     </question>
-    <question type="">
-        Tem bicicletário?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>bicicletário</entity>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> alugar um armário?
+        <type_id>Posso</type_id> <intention>alugar</intention> um <entity>armário</entity>?
     </question>
-    <question type="">
-        Tem aulas?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity>?
     </question>
-    <question type="">
-        Tem professor?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>professor</entity>?
     </question>
-    <question type="">
-        Tem piscina?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>piscina</entity>?
     </question>
-    <question type="">
-        Tem aulas de luta?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity> de <aspect>luta</aspect>?
     </question>
-    <question type="">
-        Tem aulas de ginástica?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity> de <aspect>ginástica</aspect>?
     </question>
-    <question type="">
-        Tem treino coletivo?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>treino</entity> <aspect>coletivo</aspect>?
     </question>
-    <question type="">
-        Tem aulas de dança?
-    </question>
-    <question type="posso">
-        <type_id>Posso</type_id> levar meu personal?
-    </question>
-    <question type="">
-        Tem espaço kids?
-    </question>
-    <question type="">
-        O professor acompanha meu treino?
-    </question>
-    <question type="">
-        A Smart Fit possui atendimento telefônico?
-    </question>
-    <question type="">
-        <type_id>Quais</type_id> são os horários de funcionamento?
-    </question>
-    <question type="">
-        Abre aos finais de semana?
-    </question>
-    <question type="">
-        Abre aos feriados?
-    </question>
-    <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>freepass</entity>?
-    </question>
-    <question type="">
-        <type_id>Quais</type_id> unidades participam?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity> de dança?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> <intention>utilizar</intention> mais de um Free Pass?
+        <type_id>Posso</type_id> <intention>levar</intention> meu <entity>personal</entity>?
     </question>
-    <question type="">
-        Quem pode solicitar o freepass?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>espaço kids</entity>?
+    </question>
+    <question type="direta">
+        O <entity>professor</entity> <aspect>acompanha</aspect> meu treino?
+    </question>
+    <question type="existe">
+        A <entity>Smart Fit</entity> possui <aspect>atendimento telefônico</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>horários de funcionamento</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Abre</aspect> aos <entity>finais de semana</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Abre</aspect> aos <entity>feriados</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>manutenção anual</entity>?
+        <type_id>O que é</type_id> o <entity>freepass</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> o valor da manutenção anual?
+        <type_id>Quais</type_id> <entity>unidades</entity> <aspect>participam</aspect>?
     </question>
-    <question type="">
-        Quando será cobrado no plano Black?
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> mais de um <entity>Free Pass</entity>?
     </question>
-    <question type="">
-        Quando será cobrado no plano Smart?
+    <question type="direta">
+        Quem pode <intention>solicitar</intention> o <entity>freepass</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>taxa de adesão</entity>?
+        <type_id>O que é</type_id> <entity>manutenção anual</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> o valor da taxa da adesão?
+        <type_id>Qual</type_id> o <aspect>valor</aspect> da <entity>manutenção anual</entity>?
+    </question>
+    <question type="direta">
+        Quando será <aspect>cobrado</aspect> no <entity>plano Black</entity>?
+    </question>
+    <question type="direta">
+        Quando será <aspect>cobrado</aspect> no <entity>plano Smart</entity>?
+    </question>
+    <question type="o_que">
+        <type_id>O que é</type_id> <entity>taxa de adesão</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> a data de cobrança?
+        <type_id>Qual</type_id> o <aspect>valor</aspect> da <entity>taxa da adesão</entity>?
     </question>
-    <question type="">
-        <type_id>Quais</type_id> são as formas de pagamento?
+    <question type="qual">
+        <type_id>Qual</type_id> a <entity>data de cobrança</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>formas de pagamento</entity>?
     </question>
     <question type="posso">
         <type_id>Posso</type_id> <intention>usar</intention> o cartão de outra pessoa?
@@ -419,179 +425,179 @@
     <question type="posso">
         <type_id>Posso</type_id> <intention>pagar</intention> em boleto?
     </question>
-    <question type="">
-        <type_id>Quais</type_id> as opções para a data de cobrança?
+    <question type="qual">
+        <type_id>Quais</type_id> as opções para a <entity>data de cobrança</entity>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> escolher a data de cobrança ?
+        <type_id>Posso</type_id> <intention>escolher</intention> a <entity>data de cobrança</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> cancelar o meu plano Smart?
+        <type_id>Como</type_id> <intention>cancelar</intention> o meu <entity>plano Smart</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> cancelar o meu plano Black?
+        <type_id>Como</type_id> <intention>cancelar</intention> o meu <entity>plano Black</entity>?
     </question>
-    <question type="">
-        Tem multa para cancelar o plano Smart?
+    <question type="existe">
+        <type_id>Tem</type_id> <aspect>multa</aspect> para <intention>cancelar</intention> o <entity>plano Smart</entity>?
     </question>
-    <question type="">
-        Tem multa para cancelar o plano Black?
+    <question type="existe">
+        <type_id>Tem</type_id> <aspect>multa</aspect> para <intention>cancelar</intention> o <entity>plano Black</entity>?
     </question>
-    <question type="">
-        Quando devo solicitar o cancelamento?
+    <question type="direta">
+        Quando devo <intention>solicitar</intention> o <entity>cancelamento</entity>?
     </question>
-    <question type="">
-        Quando devo solicitar o cancelamento - RJ?
+    <question type="direta">
+        Quando devo <intention>solicitar</intention> o <entity>cancelamento - RJ</entity>?
     </question>
-    <question type="">
-        Existe trancamento?
+    <question type="existe">
+        <type_id>Existe</type_id> <entity>trancamento</entity>?
     </question>
-    <question type="">
-        Existe período de férias?
+    <question type="existe">
+        <type_id>Existe</type_id> <entity>período de férias</entity>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> trancar por motivos médicos ?
+        <type_id>Posso</type_id> <intention>trancar</intention> por <entity>motivos médicos</entity> ?
     </question>
     <question type="o_que">
-        Eu tenho cobranças em aberto ? <type_id>O que</type_id> devo <intention>fazer</intention>?
+        Eu tenho <entity>cobranças</entity> em <aspect>aberto</aspect> ? <type_id>O que</type_id> devo <intention>fazer</intention>?
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>pagar</intention>?
     </question>
-    <question type="">
-        Parei de ir na academia, por que estão me cobrando?
+    <question type="direta">
+        <intention>Parei</intention> de ir na <entity>academia</entity>, por que estão me <aspect>cobrando</aspect>?
     </question>
-    <question type="">
-        Cancelei e ainda veio mais uma cobrança, por que?
+    <question type="direta">
+        <aspect>Cancelei</aspect> e ainda veio mais uma <entity>cobrança</entity>, por que?
     </question>
     <question type="como">
-        <type_id>Como</type_id> contratar um novo plano?
+        <type_id>Como</type_id> <intention>contratar</intention> um novo <entity>plano</entity>?
     </question>
-    <question type="">
-        Tenho que <intention>pagar</intention> uma nova taxa de adesão?
+    <question type="direta">
+        Tenho que <intention>pagar</intention> uma nova <entity>taxa de adesão</entity>?
     </question>
-    <question type="">
-        Onde posso contratar ?
+    <question type="direta">
+        Onde posso <intention>contratar</intention> ?
     </question>
     <question type="qual">
         <type_id>Qual</type_id> cadeado devo <intention>usar</intention>?
     </question>
-    <question type="">
-        Tem bicicletário?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>bicicletário</entity>?
     </question>
-    <question type="">
-        Tem estacionamento?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>estacionamento</entity>?
     </question>
-    <question type="">
-        Tem gaiola / agachamento livre?
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>gaiola / agachamento</entity> livre?
     </question>
     <question type="como">
-        <type_id>Como</type_id> trocar meu treino?
+        <type_id>Como</type_id> <intention>trocar</intention> meu <entity>treino</entity>?
     </question>
-    <question type="">
-        Eu preciso agendar meu treino?
+    <question type="direta">
+        Eu preciso <intention>agendar</intention> meu <entity>treino</entity>?
     </question>
-    <question type="">
-        Tenho que trocar meu treino com o mesmo professor?
+    <question type="direta">
+        Tenho que <intention>trocar</intention> meu <entity>treino</entity> com o mesmo <aspect>professor</aspect>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> levar meu personal?
+        <type_id>Posso</type_id> <intention>levar</intention> meu <entity>personal</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> mudar do plano Smart para o plano Black ?
+        <type_id>Como</type_id> <intention>mudar</intention> do <entity>plano Smart</entity> para o <entity>plano Black</entity> ?
     </question>
     <question type="como">
-        <type_id>Como</type_id> faço para falar com o PagSeguro?
+        <type_id>Como</type_id> faço para <intention>falar</intention> com o <entity>PagSeguro</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> altero meus dados no PagSeguro?
+        <type_id>Como</type_id> <intention>altero</intention> <aspect>meus dados</aspect> no <entity>PagSeguro</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> encerrar minha conta PagSeguro?
+        <type_id>Como</type_id> <intention>encerrar</intention> <aspect>minha conta</aspect> <entity>PagSeguro</entity>?
     </question>
     <question type="o_que">
-        Não consigo acessar minha conta. <type_id>O que</type_id> <intention>fazer</intention>?
+        <aspect>Não consigo</aspect> <intention>acessar</intention> <entity>minha conta</entity>. <type_id>O que</type_id> <intention>fazer</intention>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> ativo minha conta no PagSeguro?
+        <type_id>Como</type_id> <aspect>ativo</aspect> <entity>minha conta</entity> no <entity>PagSeguro</entity>?
     </question>
-    <question type="">
-        Para <intention>usar</intention> os serviços preciso me <intention>cadastrar</intention> no PagSeguro?
+    <question type="direta">
+        Para <intention>usar</intention> os <entity>serviços</entity> preciso me <intention>cadastrar</intention> no <entity>PagSeguro</entity>?
     </question>
-    <question type="">
-        Tenho que assinar o UOL para <intention>usar</intention> o PagSeguro?
-    </question>
-    <question type="como">
-        <type_id>Como</type_id> ativo minha conta no PagSeguro?
+    <question type="direta">
+        Tenho que <intention>assinar</intention> o <entity>UOL</entity> para <intention>usar</intention> o <entity>PagSeguro</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> me cadastro no PagSeguro?
+        <type_id>Como</type_id> <intention>ativo</intention> <entity>minha conta</entity> no <entity>PagSeguro</entity>?
     </question>
-    <question type="">
-        Meu e-mail já consta como cadastrado no PagSeguro. Como devo proceder?
+    <question type="como">
+        <type_id>Como</type_id> me <intention>cadastro</intention> no <entity>PagSeguro</entity>?
     </question>
-    <question type="">
-        Preciso ser Pessoa Jurídica para vender com a Moderninha?
+    <question type="como">
+        Meu <entity>e-mail</entity> já consta como <aspect>cadastrado</aspect> no <entity>PagSeguro</entity>. <type_id>Como</type_id> devo <intention>proceder</intention>?
+    </question>
+    <question type="direta">
+        Preciso ser <entity>Pessoa Jurídica</entity> para <intention>vender</intention> com a <entity>Moderninha</entity>?
     </question>
     <question type="o_que">
-        <type_id>O que</type_id> significa "Cadastro de Vendedores"?
+        <type_id>O que</type_id> significa "<entity>Cadastro de Vendedores</entity>"?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> a diferença entre as contas Pessoal, Vendedor e Empresarial?
-    </question>
-    <question type="">
-        Tenho uma conta Pessoal, mas tenho interesse em vender pelo PagSeguro. Como devo proceder?
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre as <entity>contas Pessoal</entity>, <entity>Vendedor</entity> e <entity>Empresarial</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> vejo o limite da minha conta do PagSeguro?
+        Tenho uma <entity>conta Pessoal</entity>, mas tenho interesse em <intention>vender</intention> pelo <entity>PagSeguro<entity/>. <type_id>Como</type_id> devo proceder?
     </question>
     <question type="como">
-        <type_id>Como</type_id> altero meus dados no PagSeguro?
+        <type_id>Como</type_id> vejo o <aspect>limite</aspect> da <entity>minha conta</entity> do <entity>PagSeguro</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> <intention>altero</intention> <aspect>meus dados</aspect> no <entity>PagSeguro</entity>?
     </question>
     <question type="o_que">
-        Tenho uma conta Vendedor, mas não gostaria que meu nome aparecesse para meus clientes. <type_id>O que</type_id> <intention>fazer</intention>?
+        Tenho uma <entity>conta Vendedor</entity>, mas não gostaria que meu <aspect>nome</aspect> aparecesse para meus <entity>clientes</entity>. <type_id>O que</type_id> <intention>fazer</intention>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> um <entity>e-mail adicional</entity>?
+        <type_id>O que é</type_id> um <entity>e-mail adicional</entity>?
     </question>
     <question type="o_que">
-        Não consigo acessar minha conta. <type_id>O que</type_id> <intention>fazer</intention>?
+        Não consigo <intention>acessar</intention> <entity>minha conta</entity>. <type_id>O que</type_id> <intention>fazer</intention>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> <intention>alterar</intention> minha senha no PagSeguro?
-    </question>
-    <question type="">
-        Esqueci a minha senha. Como faço para recuperar?
+        <type_id>Como</type_id> <intention>alterar</intention> <aspect>minha senha</aspect> no <entity>PagSeguro</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> encerrar minha conta PagSeguro?
+        Esqueci a <entity>minha senha</entity>. <type_id>Como</type_id> faço para <intention>recuperar</intention>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> desbloquear e receber a senha do Cartão da Conta?
+        <type_id>Como</type_id> <intention>encerrar</intention> <entity>minha conta PagSeguro</entity>?
+    </question>
+    <question type="como">
+        <type_id>Como</type_id> <intention>desbloquear</intention> e <intention>receber</intention> a <aspect>senha</aspect> do <entity>Cartão da Conta</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Cartão da Conta</entity>?
+        <type_id>O que é</type_id> <entity>Cartão da Conta</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> faço para transferir o saldo para a conta bancária?
+        <type_id>Como</type_id> faço para <intention>transferir</intention> o <aspect>saldo</aspect> para a <entity>conta bancária</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> <intention>cadastrar</intention> uma nova conta bancária?
+        <type_id>Como</type_id> <intention>cadastrar</intention> uma <aspect>nova</aspect> <entity>conta bancária</entity>?
     </question>
     <question type="">
-        <type_id>Quais</type_id> são os prazos de transferências?
+        <type_id>Quais</type_id> são os <aspect>prazos</aspect> de <entity>transferências</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> recarrego o meu Cartão Pré-Pago?
-    </question>
-    <question type="">
-        <type_id>Quais</type_id> são os tipos de contas bancárias aceitas para transferências no PagSeguro?
+        <type_id>Como</type_id> <intention>recarrego</intention> o meu <entity>Cartão Pré-Pago</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> o horário limite para Pagamento de Contas?
+        <type_id>Quais</type_id> são os <entity>tipos de contas bancárias</entity> <aspect>aceitas</aspect> para <entity>transferências</entity> no <entity>PagSeguro</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>horário limite</aspect> para <entity>Pagamento de Contas</entity>?
     </question>
     <question type="como">
-        <type_id>Como</type_id> <intention>pagar</intention> uma conta usando o Aplicativo PagSeguro PagBank?
+        <type_id>Como</type_id> <intention>pagar</intention> uma <entity>conta</entity> usando o Aplicativo <entity>PagSeguro PagBank</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> validar o Token do Aplicativo PagBank?
@@ -603,7 +609,7 @@
         Consigo imprimir o comprovante de uma conta paga pelo Aplicativo PagBank?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> e como <intention><intention>fazer</intention></intention> uma <entity>Transferência para Contato</entity>?
+        <type_id>O que é</type_id> e como <intention><intention>fazer</intention></intention> uma <entity>Transferência para Contato</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço uma recarga de celular?
@@ -630,7 +636,7 @@
         Quando recebo o dinheiro do Empréstimo PagBank que <intention>Solicitei</intention>?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> é a validade da proposta de Empréstimo PagBank?
+        <type_id>Qualé a validade da proposta de Empréstimo PagBank?
     </question>
     <question type="qual">
         <type_id>Qual</type_id> o prazo para <intention>fazer</intention> a portabilidade de salário?
@@ -654,7 +660,7 @@
         Onde posso <intention>usar</intention> o QR Code?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>Aponte e Pag (QR Code)</entity>?
+        <type_id>O que é</type_id> o <entity>Aponte e Pag (QR Code)</entity>?
     </question>
     <question type="">
         <type_id>Quais</type_id> os cuidados devo ter com meu QR Code impresso?
@@ -663,7 +669,7 @@
         <type_id>Como</type_id> faço para <intention>comprar</intention> com Aponte e Pag (QR Code)?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> a <entity>Transferência TED</entity>?
+        <type_id>O que é</type_id> a <entity>Transferência TED</entity>?
     </question>
     <question type="">
         <type_id>Qual</type_id> a diferença entre Transferência e Transferência Instantânea?
@@ -672,13 +678,13 @@
         Para <type_id>Quais</type_id> instituições posso <intention>fazer</intention> uma TED?
     </question>
     <question type="como">
-        <type_id>Como</type_id> cancelar uma TED?
+        <type_id>Como</type_id> <intention>cancelar</intention> uma TED?
     </question>
     <question type="">
         Quando preencho os dados errados o dinheiro da TED é devolvido?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>aplicativo PagBank</entity>?
+        <type_id>O que é</type_id> o <entity>aplicativo PagBank</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> vejo o saldo do Cartão Pré-Pago no Aplicativo PagBank?
@@ -696,7 +702,7 @@
         <type_id>Como</type_id> verificar minha conta bancária?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Verificação de Conta</entity>?
+        <type_id>O que é</type_id> <entity>Verificação de Conta</entity>?
     </question>
     <question type="">
         Não tenho conta bancária. Como verifico minha conta PagSeguro?
@@ -708,19 +714,19 @@
         <type_id>Posso</type_id> enviar meu documento em qual formato?
     </question>
    <!--  <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> saldo bloqueado na minha Conta do Pagseguro?
+        <type_id>O que é</type_id> saldo bloqueado na minha Conta do Pagseguro?
     </question> -->
     <question type="como">
         <type_id>Como</type_id> faço o cadastro ou alteração do meu Celular Seguro?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>"Código de Segurança" via SMS</entity> e para que serve?
+        <type_id>O que é</type_id> o <entity>"Código de Segurança" via SMS</entity> e para que serve?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Celular Seguro</entity>?
+        <type_id>O que é</type_id> <entity>Celular Seguro</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>SMS Token</entity>?
+        <type_id>O que é</type_id> <entity>SMS Token</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> visualizo os relatórios de vendas da Minha Minizinha no aplicativo PagSeguro Vendas?
@@ -738,10 +744,10 @@
         <type_id>Como</type_id> consulto se meu dinheiro está disponível na Conta PagSeguro?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Disputa</entity>?
+        <type_id>O que é</type_id> <entity>Disputa</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Moderação</entity>?
+        <type_id>O que é</type_id> <entity>Moderação</entity>?
     </question>
     <question type="">
         Quem pode abrir uma Disputa?
@@ -762,13 +768,13 @@
         <type_id>Como</type_id> rastrear o envio de um produto ou serviço que comprei pelo Pagseguro?
     </question>
     <question type="como">
-        <type_id>Como</type_id> cancelar minha compra?
+        <type_id>Como</type_id> <intention>cancelar</intention> minha compra?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> é o prazo para que meu pagamento seja compensado?
+        <type_id>Qualé o prazo para que meu pagamento seja compensado?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>grupo de testes</entity>?
+        <type_id>O que é</type_id> <entity>grupo de testes</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para testar novos produtos do PagSeguro?
@@ -780,13 +786,13 @@
         <type_id>Como</type_id> faço para instalar o aplicativo PagSeguro Vendas Beta para iOS?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>TestFlight</entity>?
+        <type_id>O que é</type_id> <entity>TestFlight</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> recarrego o meu Cartão Pré-Pago?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> cancelar uma transferência?
+        <type_id>Posso</type_id> <intention>cancelar</intention> uma transferência?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para transferir o saldo para a conta bancária?
@@ -825,7 +831,7 @@
         <type_id>Como</type_id> faço o pagamento de Empréstimo PagBank?
     </question>
     <question type="como">
-        <type_id>Como</type_id> solicito a 2ª via de boleto do Empréstimo PagBank?
+        <type_id>Como</type_id> <intention>solicito</intention> a 2ª via de boleto do Empréstimo PagBank?
     </question>
     <question type="como">
         <type_id>Como</type_id> quitar meu Empréstimo PagBank?
@@ -834,7 +840,7 @@
         Não paguei o Empréstimo PagBank e minha Conta foi bloqueada. E agora?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Verificação de Conta</entity>?
+        <type_id>O que é</type_id> <entity>Verificação de Conta</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> verificar minha conta bancária?
@@ -855,34 +861,34 @@
         <type_id>Quais</type_id> são os documentos aceitos para verificar minha conta Pessoa Jurídica?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> é o prazo para constar um depósito em minha conta bancária?
+        <type_id>Qualé o prazo para constar um depósito em minha conta bancária?
     </question>
     <question type="como">
         <type_id>Como</type_id> informar os valores depositados na minha conta bancária?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>saldo bloqueado</entity> na minha Conta do Pagseguro?
+        <type_id>O que é</type_id> <entity>saldo bloqueado</entity> na minha Conta do Pagseguro?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço o cadastro ou alteração do meu Celular Seguro?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> o <entity>"Código de Segurança" via SMS</entity> e para que serve?
+        <type_id>O que é</type_id> o <entity>"Código de Segurança" via SMS</entity> e para que serve?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Celular Seguro</entity>?
+        <type_id>O que é</type_id> <entity>Celular Seguro</entity>?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>SMS Token</entity>?
+        <type_id>O que é</type_id> <entity>SMS Token</entity>?
     </question>
     <question type="o_que">
         Não estou recebendo o SMS Token para realizar uma transação. <type_id>O que</type_id> devo <intention>fazer</intention>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> receber o SMS Token para realizar minhas operações fora do Brasil?
+        <type_id>Posso</type_id> <intention>receber</intention> o SMS Token para realizar minhas operações fora do Brasil?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Token de Voz</entity>?
+        <type_id>O que é</type_id> <entity>Token de Voz</entity>?
     </question>
     <question type="">
         Os dados do cartão de crédito do meu cliente ficam armazenados no meu celular ou tablet?
@@ -903,7 +909,7 @@
         <type_id>Como</type_id> identificar um e-mail que não foi enviado pelo PagSeguro?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>phishing</entity>?
+        <type_id>O que é</type_id> <entity>phishing</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> visualizo os relatórios de vendas da Minha Minizinha no aplicativo PagSeguro Vendas?
@@ -924,13 +930,13 @@
         <type_id>Como</type_id> exporto as minhas vendas na conta PagSeguro?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Nota Fiscal Eletrônica (NF-e)</entity> e para quê serve?
+        <type_id>O que é</type_id> <entity>Nota Fiscal Eletrônica (NF-e)</entity> e para quê serve?
     </question>
     <question type="como">
         <type_id>Como</type_id> gerar a Nota Fiscal de Devolução para troca?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Contestação</entity>?
+        <type_id>O que é</type_id> <entity>Contestação</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para inserir comprovantes em uma contestação?
@@ -939,7 +945,7 @@
         <type_id>O que</type_id> <intention>fazer</intention> quando há contestação de uma venda feita pelo Leitor de Crédito?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Moderação</entity>?
+        <type_id>O que é</type_id> <entity>Moderação</entity>?
     </question>
     <question type="">
         Quem pode abrir uma Disputa?
@@ -951,7 +957,7 @@
         Encerrei uma disputa. Ela pode ser reaberta?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> <entity>Disputa</entity>?
+        <type_id>O que é</type_id> <entity>Disputa</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> adiciono um comprovante na Disputa?
@@ -969,7 +975,7 @@
         <type_id>Quais</type_id> documentos são aceitos para comprovar a entrega de um produto ou serviço?
     </question>
     <question type="o_que">
-        <type_id><type_id>O que</type_id> é</type_id> um <entity>Caso Jurídico</entity>?
+        <type_id>O que é</type_id> um <entity>Caso Jurídico</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para inserir comprovantes em um Caso Jurídico?
@@ -1005,10 +1011,10 @@
         <type_id>Como</type_id> confirmo se minha compra está cancelada?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> é o prazo para compensação de boleto bancário?
+        <type_id>Qualé o prazo para compensação de boleto bancário?
     </question>
     <question type="qual">
-        <type_id>Qual</type_id> é o prazo para que meu pagamento seja compensado?
+        <type_id>Qualé o prazo para que meu pagamento seja compensado?
     </question>
     <question type="posso">
         <type_id>Posso</type_id> parcelar uma compra no boleto?

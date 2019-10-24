@@ -1,0 +1,83 @@
+<questions>
+    <question type="existe">
+        <type_id>Existe</type_id> algum <aspect>risco</aspect> em <intention>colocar</intention> meu dinheiro na <entity>NuConta</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Existe</type_id> <entity>plano anual</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>vestiário</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>estacionamento</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>bicicletário</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>professor</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>piscina</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity> de <aspect>luta</aspect>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity> de <aspect>ginástica</aspect>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>treino</entity> <aspect>coletivo</aspect>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>aulas</entity> de dança?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>espaço kids</entity>?
+    </question>
+    <question type="existe">
+        A <entity>Smart Fit</entity> possui <aspect>atendimento telefônico</aspect>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <aspect>multa</aspect> para <intention>cancelar</intention> o <entity>plano Smart</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <aspect>multa</aspect> para <intention>cancelar</intention> o <entity>plano Black</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Existe</type_id> <entity>trancamento</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Existe</type_id> <entity>período de férias</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>bicicletário</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>estacionamento</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Tem</type_id> <entity>gaiola / agachamento</entity> livre?
+    </question>
+    <question type="existe">
+        Meu <entity>produto</entity> <type_id>terá</type_id> <aspect>serviço de montagem</aspect>?
+    </question>
+    <question type="existe">
+        A <entity>Ricardo Eletro</entity> <type_id>possui</type_id> <entity>Nota Fiscal Paulista</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Há</type_id> <aspect>cobrança</aspect> de <entity>frete</entity>?
+    </question>
+    <question type="existe">
+        <type_id>Há</type_id> um <aspect>limite</aspect> de <entity>livros</entity> por <entity>compra</entity>?
+    </question>
+    <question type="existe">
+        O <entity>site</entity> <type_id>possui</type_id> <aspect>vale presente</aspect>?
+    </question>
+    <question type="existe">
+        O <entity>site</entity> <type_id>faz</type_id> <entity>entrega internacional</entity>?
+    </question>
+</questions>

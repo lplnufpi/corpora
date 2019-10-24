@@ -32,7 +32,7 @@
     <question type="o_que">
         <type_id>O que é</type_id> <entity>PicPay</entity>?
     </question>
-    <question type="direto">
+    <question type="direta">
         Preciso <intention>fazer</intention> um <aspect>cadastro</aspect> na <entity>Koin</entity> antes de <intention>finalizar</intention> minha <entity>compra</entity>?
     </question>
     <question type="o_que">
@@ -80,7 +80,7 @@
     <question type="direta">
         Quando os <entity>pontos</entity> ficarão <aspect>disponíveis</aspect> para eu <intention>usar</intention>?
     </question>
-    <question type="direto">
+    <question type="direta">
         <entity>Minhas milhas</entity> têm <aspect>prazo de validade</aspect>?
     </question>
     <question type="posso">
@@ -176,8 +176,8 @@
     <question type="posso">
         <type_id>Posso</type_id> <intention>fazer saques</intention> com a minha <entity>NuConta</entity>?
     </question>
-    <question type="direta">
-        Existe <aspect>algum risco</aspect> em <intention>colocar</intention> meu dinheiro na <entity>NuConta</entity>?
+    <question type="existe">
+        <type_id>Existe</type_id> algum <aspect>risco</aspect> em <intention>colocar</intention> meu dinheiro na <entity>NuConta</entity>?
     </question>
     <question type="direta">
         A <entity>NuConta</entity> é uma <aspect>conta corrente</aspect> ou <aspect>conta poupança</aspect>?
@@ -1448,7 +1448,7 @@
     <question type="posso">
         <type_id>Posso</type_id> <intention>comprar</intention> o <entity>presente</entity> em uma <entity>loja física</entity>?
     </question>
-    <question type="exite">
+    <question type="existe">
         <type_id>Há</type_id> <aspect>cobrança</aspect> de <entity>frete</entity>?
     </question>
     <question type="como">

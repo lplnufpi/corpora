@@ -1,0 +1,194 @@
+<questions>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> <entity>meu boleto</entity> após o <aspect>vencimento</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>endereço</entity> após <aspect>finalizar</aspect> meu pedido com <entity>KOIN</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> produtos na <entity>promoção Frete Grátis</entity> com <entity>minhas milhas</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>usar</intention> <aspect>pontos de outra pessoa</aspect> para <intention>pagar</intention> <entity>minhas compras</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> os <entity>produtos em promoção</entity> com as <entity>minhas milhas</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> <entity>minhas compras</entity> com <entity>pontos</entity> e <entity>reais</entity> no mesmo <entity>pedido</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> <entity>Vale Compra</entity> de desconto novamente, se o <entity>pedido</entity> for <aspect>cancelado</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>pedido</entity> depois de <aspect>confirmado</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>solicitar</intention> que meu <entity>pedido</entity> venha em <aspect>pacote de presente</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>fazer saques</intention> com a minha <entity>NuConta</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>cancelar</intention> o <entity>Nubank Rewards</entity> a qualquer momento?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>agendar</intention> uma <aspect>data específica</aspect> para a <entity>montagem</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>marcar</intention> <aspect>turno</aspect>? (manhã ou tarde).
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alugar</intention> um <entity>armário</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>levar</intention> meu <entity>personal</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> mais de um <entity>Free Pass</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>usar</intention> o cartão de outra pessoa?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> em dinheiro?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> em boleto?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>escolher</intention> a <entity>data de cobrança</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>trancar</intention> por <entity>motivos médicos</entity> ?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>levar</intention> meu <entity>personal</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>fazer</intention> a <aspect>portabilidade</aspect> em mais de um <entity>salário</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>enviar</intention> meu <entity>documento</entity> em qual <aspect>formato</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>cancelar</intention> uma <entity>transferência</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>enviar</intention> meu <entity>documento</entity> em qual <aspect>formato</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>receber</intention> o <entity>SMS Token</entity> para <intention>realizar</intention> minhas <entity>operações</entity> fora do Brasil?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>parcelar</intention> uma <entity>compra</entity> no <entity>boleto</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> <aspect>parcelado</aspect> pelo <entity>aplicativo PagBank</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> pelo <entity>Televendas</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>adicionar</intention> outro <entity>produto ao meu pedido</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>endereço de entrega<entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> a <aspect>forma de pagamento</aspect> do meu <entity>pedido</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> o meu <entity>pedido</entity> em <aspect>dois cartões</aspect>? Existe alguma regra?
+    </question>
+    <question type="posso">
+        O meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>, <type_id>posso</type_id> <intention>alterar</intention> a <aspect>forma de pagamento</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> meu <entity>pedido</entity> no <aspect>boleto</aspect> e no <aspect>cartão</aspect>?
+    </question>
+    <question type="posso">
+        Quero realizar uma compra, <type_id>possa</type_id> <intention>agendar</intention> a <entity>entrega de um produto</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>retirar</intention> os <entity>presentes</entity> que ganhei pela <entity>Lista de Casamento</entity> nas <entity>lojas físicas</entity> da RicardoEletro.com?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>converter</intention> meus <entity>presentes</entity> em <entity>vales-troca</entity>? Como devo proceder?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>somar</intention> os <entity>vales-troca</entity> para <intention>comprar</intention> um <entity>produto de maior valor</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> o <entity>vale-troca</entity> nas lojas físicas?
+    </question>
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>usar</intention> o <entity>bônus</entity> e o <entity>vale-troca</entity> na <aspect>mesma</aspect> <entity>compra</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> o <entity>presente</entity> em uma <entity>loja física</entity>?
+    </question>
+    <question type="posso">
+        Após <aspect>concluir</aspect> a <entity>compra</entity>, <type_id>posso</type_id> <intention>alterar</intention> a <aspect>forma de envio</aspect>?
+    </question>
+    <question type="posso">
+        Quero <intention>comprar</intention> mais <entity>livros</entity> com o <aspect>mesmo vendedor</aspect>, <type_id>é possível</type_id>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>reservar</intention> <entity>livros</entity> para <aspect>comprar depois</aspect>?
+    </question>
+    <question type="posso">
+        Não encontrei o <entity>livro</entity> no site, <type_id>posso</type_id> <intention>encomendar</intention>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> efetuar a <intention>troca</intention> de um <entity>produto</entity> <aspect>adquirido</aspect> através do <entity>site</entity> em alguma <entity>loja física</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>parcelar</intention> o <aspect>valor</aspect> da minha <entity>compra</entity>?
+    </question>
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>editar</intention> os <aspect>dados</aspect> do <entity>boleto</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>parcelar</intention> o <aspect>valor</aspect> da minha <entity>compra</entity>?
+    </question>
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>editar</intention> os <aspect>dados</aspect> do <entity>boleto</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>pagar</intention> com <entity>Vale Cultura</entity>?
+    </question>
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>comprar</intention> no <entity>site</entity> e <intention>retirar</intention> na <entity>loja física</entity>?
+    </question>
+    <question type="posso">
+        <type_id>É possível</type_id> <intention>aderir</intention> a <entity>Fatura Digital</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>trocar</intention> ou <intention>devolver</intention> os <entity>produtos</entity> <aspect>comprados pela Internet</aspect>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> na <entity>Loja Virtual</entity> e <intention>trocar</intention> na <entity>Loja Física</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>trocar</intention> o <entity>produto</entity>, <aspect>adquirido</aspect> na <entity>Loja Melissa</entity>, em <entity>outras lojas</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> o <aspect>endereço</aspect> de <entity>entrega</entity> após <aspect>finalizado</aspect> o pedido?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>comprar</intention> pelo <entity>telefone</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>utilizar</intention> <entity>cupons</entity> e <entity>vales</entity> para <entity>produtos marketplace</entity>?
+    </question>
+    <question type="posso">
+        <type_id>Posso</type_id> <intention>alterar</intention> a <entity>forma de pagamento</entity> após o <aspect>fechamento</aspect> do <entity>pedido</entity>?
+    </question>
+    <question type="posso">
+        Posso <intention>trocar</intention> os <entity>produtos</entity> nas <entity>lojas físicas</entity> da Ricardo Eletro?
+    </question>
+    <question type="posso">
+        Fiz <entity>compras</entity> via <entity>boleto</entity> em <aspect>mais</aspect> de um <entity>vendedor</entity>, se um deles <aspect>não tiver</aspect> o <entity>livro</entity> posso <intention>emitir<intention> um <entity>novo boleto<entity>?
+    </question>
+</questions>

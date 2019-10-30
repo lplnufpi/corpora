@@ -34,7 +34,7 @@ for filename in filenames:
                     markeds[-1] = markeds[-1][:-1]
 
                     markeds = [w for w in markeds if w not in stopwords]
-                    no_stopwords.append('*{}*'.format(' '.join(markeds)))
+                    no_stopwords.append('< {} >'.format(' '.join(markeds)))
                 else:
                     if word not in stopwords:
                         no_stopwords.append(word)

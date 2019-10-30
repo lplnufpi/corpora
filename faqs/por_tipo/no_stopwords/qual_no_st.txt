@@ -1,74 +1,74 @@
-_ Quais _ *formas pagamento* disponíveis
-_ Qual _ *prazo aprovação* após *compra finalizada* *PicPAy*
-_ Qual _ pontuação mínima preciso *fechar* pedido *Milhas*
-_ Qual _ vantagem ter *cadastro* *Loja Melissa*
-_ Quais _ são *tarifas* *Cartão Nubank*
-_ Qual _ diferença *NuConta* *Conta PJ*
-_ Qual _ *idade mínima* *matrícula*
-_ Qual _ *cadeado* devo *usar*
-_ Quais _ são *horários funcionamento*
-_ Quais _ *unidades* *participam*
-_ Qual _ *valor* *manutenção anual*
-_ Qual _ *valor* *taxa adesão*
-_ Qual _ *data cobrança*
-_ Quais _ são *formas pagamento*
-_ Quais _ opções *data cobrança*
-_ Qual _ cadeado devo *usar*
-_ Qual _ *diferença* *contas Pessoal* *Vendedor* *Empresarial*
-_ Quais _ são *prazos* *transferências*
-_ Quais _ são *tipos contas bancárias* *aceitas* *transferências* *PagSeguro*
-_ Qual _ *horário limite* *Pagamento Contas*
-_ Qual _ é *validade proposta* *Empréstimo PagBank*
-_ Qual _ *prazo* *fazer* *portabilidade salário*
-_ Quais _ *cuidados* devo ter *QR Code* *impresso*
-_ Qual _ *diferença* *Transferência* *Transferência Instantânea*
-Para _ Quais _ *instituições* posso *fazer* *TED*
-_ Quais _ *contas bancárias* são *aceitas* *PagSeguro*
-_ Qual _ *diferença* *encomenda* *PAC* *SEDEX*
-_ Qual é _ *prazo* *pagamento* seja *compensado*
-_ Quais _ são tipos *contas bancárias* *aceitas* *transferências* *PagSeguro*
-_ Quais _ são *documentos* *aceitos* *verificar* *conta Pessoa Física*
-_ Quais _ são *documentos* *aceitos* *verificar* *conta Pessoa Jurídica*
-_ Qual é _ *prazo* constar *depósito* *conta bancária*
-_ Quais _ *documentos* são *aceitos* *comprovar* *entrega* *produto* *serviço*
-_ Qual _ *diferença* encomenda *PAC* *SEDEX*
-_ Quais _ são *status* *pagamento* via *PagSeguro*
-_ Quais _ vantagens *usar* *PagSeguro* *comprar*
-_ Qual é _ prazo *compensação* *boleto bancário*
-_ Qual é _ prazo *pagamento* seja *compensado*
-_ Quais _ são *dicas* comprar *Black Friday*
-_ Quais _ são *tipos frete* *disponíveis*
-_ Quais _ são *opções frete* *produtos marketplace*
-_ Quais _ são *condições frete*
-_ Qual _ é *prazo entrega* *pedido*
-_ Quais _ são *formas pagamento* aceitas site
-_ Qual _ é *prazo vencimento* *boleto bancário*
-_ Qual _ é *prazo* *confirmação pagamento*
-_ Quais_ são *opções reembolso* *devolução*
-_ Quais _ *formas pagamento* *disponíveis*
-_ Qual _ *prazo aprovação* *pedido*
-_ Quais _ *formas pagamento* disponíveis *compras Black Friday*
-_ Quais _ são *prazos entrega* *site*
-_ Qual _ *prazo* *emissão nota fiscal*
-_ Qual _ *prazo resolução* *troca*
-_ Quais _ *formas pagamento* posso utilizar
-_ Qual _ *prazo utilização* *vale-troca*
-_ Qual _ *prazo aprovação* *pedido*
-_ Quais _ são *vantagens* *Lista Casamento* RicardoEletro.com
-_ Quais _ são *formas pagamento*
-_ Qual _ *prazo* *solicitar* *cancelamento* *troca* *devolução*
-_ Quais _ *formas pagamento* aceitas *site*
-_ Qual _ é *prazo entrega*
-_ Qual _ *diferença* *formas envio*
-_ Quais_ *regiões* *entrega*
-_ Qual_ é *melhor* *data compra*
-_ Quais_ *contatos* *horários* *Central Atendimento*
-_ Qual_ *prazo recebimento* novo *cartão* *2ª via* *cartão adicional*
-_ Qual_ *telefone contato* *Loja Física*
-_ Qual _ *prazo* *troca* *loja física*
-Se precisar *trocar* *produto* *adquirido Black Friday* _ qual _ será *valor* *vale compra*
-_ Qual _ *prazo* *entrega* compras feitas *Black Friday*
-_ Em que _ *momento* *recebo* *número* *objeto* *acompanhar* *rastreamento*
-_ Qual _ *prazo* tenho *solicitar* *troca*
-_ Qual _ *prazo* *solicitação* *cancelamento* *pedido*
-_ Quanto _ *tempo* leva *receber* *produtos*
+_ Quais _ < formas pagamento > disponíveis
+_ Qual _ < prazo aprovação > após < compra finalizada > < PicPAy >
+_ Qual _ pontuação mínima preciso < fechar > pedido < Milhas >
+_ Qual _ vantagem ter < cadastro > < Loja Melissa >
+_ Quais _ são < tarifas > < Cartão Nubank >
+_ Qual _ diferença < NuConta > < Conta PJ >
+_ Qual _ < idade mínima > < matrícula >
+_ Qual _ < cadeado > devo < usar >
+_ Quais _ são < horários funcionamento >
+_ Quais _ < unidades > < participam >
+_ Qual _ < valor > < manutenção anual >
+_ Qual _ < valor > < taxa adesão >
+_ Qual _ < data cobrança >
+_ Quais _ são < formas pagamento >
+_ Quais _ opções < data cobrança >
+_ Qual _ cadeado devo < usar >
+_ Qual _ < diferença > < contas Pessoal > < Vendedor > < Empresarial >
+_ Quais _ são < prazos > < transferências >
+_ Quais _ são < tipos contas bancárias > < aceitas > < transferências > < PagSeguro >
+_ Qual _ < horário limite > < Pagamento Contas >
+_ Qual _ é < validade proposta > < Empréstimo PagBank >
+_ Qual _ < prazo > < fazer > < portabilidade salário >
+_ Quais _ < cuidados > devo ter < QR Code > < impresso >
+_ Qual _ < diferença > < Transferência > < Transferência Instantânea >
+Para _ Quais _ < instituições > posso < fazer > < TED >
+_ Quais _ < contas bancárias > são < aceitas > < PagSeguro >
+_ Qual _ < diferença > < encomenda > < PAC > < SEDEX >
+_ Qual é _ < prazo > < pagamento > seja < compensado >
+_ Quais _ são tipos < contas bancárias > < aceitas > < transferências > < PagSeguro >
+_ Quais _ são < documentos > < aceitos > < verificar > < conta Pessoa Física >
+_ Quais _ são < documentos > < aceitos > < verificar > < conta Pessoa Jurídica >
+_ Qual é _ < prazo > constar < depósito > < conta bancária >
+_ Quais _ < documentos > são < aceitos > < comprovar > < entrega > < produto > < serviço >
+_ Qual _ < diferença > encomenda < PAC > < SEDEX >
+_ Quais _ são < status > < pagamento > via < PagSeguro >
+_ Quais _ vantagens < usar > < PagSeguro > < comprar >
+_ Qual é _ prazo < compensação > < boleto bancário >
+_ Qual é _ prazo < pagamento > seja < compensado >
+_ Quais _ são < dicas > comprar < Black Friday >
+_ Quais _ são < tipos frete > < disponíveis >
+_ Quais _ são < opções frete > < produtos marketplace >
+_ Quais _ são < condições frete >
+_ Qual _ é < prazo entrega > < pedido >
+_ Quais _ são < formas pagamento > aceitas site
+_ Qual _ é < prazo vencimento > < boleto bancário >
+_ Qual _ é < prazo > < confirmação pagamento >
+_ Quais_ são < opções reembolso > < devolução >
+_ Quais _ < formas pagamento > < disponíveis >
+_ Qual _ < prazo aprovação > < pedido >
+_ Quais _ < formas pagamento > disponíveis < compras Black Friday >
+_ Quais _ são < prazos entrega > < site >
+_ Qual _ < prazo > < emissão nota fiscal >
+_ Qual _ < prazo resolução > < troca >
+_ Quais _ < formas pagamento > posso utilizar
+_ Qual _ < prazo utilização > < vale-troca >
+_ Qual _ < prazo aprovação > < pedido >
+_ Quais _ são < vantagens > < Lista Casamento > RicardoEletro.com
+_ Quais _ são < formas pagamento >
+_ Qual _ < prazo > < solicitar > < cancelamento > < troca > < devolução >
+_ Quais _ < formas pagamento > aceitas < site >
+_ Qual _ é < prazo entrega >
+_ Qual _ < diferença > < formas envio >
+_ Quais_ < regiões > < entrega >
+_ Qual_ é < melhor > < data compra >
+_ Quais_ < contatos > < horários > < Central Atendimento >
+_ Qual_ < prazo recebimento > novo < cartão > < 2ª via > < cartão adicional >
+_ Qual_ < telefone contato > < Loja Física >
+_ Qual _ < prazo > < troca > < loja física >
+Se precisar < trocar > < produto > < adquirido Black Friday > _ qual _ será < valor > < vale compra >
+_ Qual _ < prazo > < entrega > compras feitas < Black Friday >
+_ Em que _ < momento > < recebo > < número > < objeto > < acompanhar > < rastreamento >
+_ Qual _ < prazo > tenho < solicitar > < troca >
+_ Qual _ < prazo > < solicitação > < cancelamento > < pedido >
+_ Quanto _ < tempo > leva < receber > < produtos >

@@ -1,64 +1,64 @@
-_ Posso _ *pagar* *boleto* após *vencimento*
-_ Posso _ *alterar* *endereço* após *finalizar* pedido *KOIN*
-_ Posso _ *comprar* produtos *promoção Frete Grátis* *milhas*
-_ Posso _ *usar* *pontos outra pessoa* *pagar* *compras*
-_ Posso _ *comprar* *produtos promoção* *milhas*
-_ Posso _ *pagar* *compras* *pontos* *reais* *pedido*
-_ Posso _ *utilizar* *Vale Compra* desconto novamente *pedido* for *cancelado*
-_ Posso _ *alterar* *pedido* *confirmado*
-_ Posso _ *solicitar* *pedido* venha *pacote presente*
-_ Posso _ *fazer saques* *NuConta*
-_ Posso _ *cancelar* *Nubank Rewards* qualquer momento
-_ Posso _ *agendar* *data específica* *montagem*
-_ Posso _ *marcar* *turno* (manhã tarde).
-_ Posso _ *alugar* *armário*
-_ Posso _ *levar* *personal*
-_ Posso _ *utilizar* *Free Pass*
-_ Posso _ *usar* cartão outra pessoa
-_ Posso _ *pagar* dinheiro
-_ Posso _ *pagar* boleto
-_ Posso _ *escolher* *data cobrança*
-_ Posso _ *trancar* *motivos médicos*
-_ Posso _ *levar* *personal*
-_ Posso _ *fazer* *portabilidade* *salário*
-_ Posso _ *enviar* *documento* *formato*
-_ Posso _ *cancelar* *transferência*
-_ Posso _ *enviar* *documento* *formato*
-_ Posso _ *receber* *SMS Token* *realizar* *operações* fora Brasil
-_ Posso _ *parcelar* *compra* *boleto*
-_ Posso _ *comprar* *parcelado* *aplicativo PagBank*
-_ Posso _ *comprar* *Televendas*
-_ Posso _ *adicionar* outro *produto pedido*
-_ Posso _ *alterar* *endereço entrega*
-_ Posso _ *alterar* *forma pagamento* *pedido*
-_ Posso _ *pagar* *pedido* *dois cartões* Existe alguma regra
-O *pedido* *não foi* *aprovado* _ posso _ *alterar* *forma pagamento*
-_ Posso _ *pagar* *pedido* *boleto* *cartão*
-Quero realizar compra _ possa _ *agendar* *entrega produto*
-_ Posso _ *retirar* *presentes* ganhei *Lista Casamento* *lojas físicas* RicardoEletro.com
-_ Posso _ *converter* *presentes* *vales-troca* Como devo proceder
-_ Posso _ *somar* *vales-troca* *comprar* *produto maior valor*
-_ Posso _ *utilizar* *vale-troca* lojas físicas
-_ É possível _ *usar* *bônus* *vale-troca* *mesma* *compra*
-_ Posso _ *comprar* *presente* *loja física*
-Após *concluir* *compra* _ posso _ *alterar* *forma envio*
-Quero *comprar* *livros* *vendedor* _ é possível _
-_ Posso _ *reservar* *livros* *comprar*
-Não encontrei *livro* site _ posso _ *encomendar*
-_ Posso _ efetuar *troca* *produto* *adquirido* através *site* alguma *loja física*
-_ Posso _ *parcelar* *valor* *compra*
-_ É possível _ *editar* *dados* *boleto*
-_ Posso _ *parcelar* *valor* *compra*
-_ É possível _ *editar* *dados* *boleto*
-_ Posso _ *pagar* *Vale Cultura*
-_ É possível _ *comprar* *site* *retirar* *loja física*
-_ É possível _ *aderir* *Fatura Digital*
-_ Posso _ *trocar* *devolver* *produtos* *comprados Internet*
-_ Posso _ *comprar* *Loja Virtual* *trocar* *Loja Física*
-_ Posso _ *trocar* *produto* *adquirido* *Loja Melissa* *outras lojas*
-_ Posso _ *alterar* *endereço* *entrega* após *finalizado* pedido
-_ Posso _ *comprar* *telefone*
-_ Posso _ *utilizar* *cupons* *vales* *produtos marketplace*
-_ Posso _ *alterar* *forma pagamento* após *fechamento* *pedido*
-_ Posso _ *trocar* *produtos* *lojas físicas* Ricardo Eletro
-Fiz *compras* via *boleto* ** *vendedor* *não tiver* *livro* _ posso _ *emitir* *novo boleto*
+_ Posso _ < pagar > < boleto > após < vencimento >
+_ Posso _ < alterar > < endereço > após < finalizar > pedido < KOIN >
+_ Posso _ < comprar > produtos < promoção Frete Grátis > < milhas >
+_ Posso _ < usar > < pontos outra pessoa > < pagar > < compras >
+_ Posso _ < comprar > < produtos promoção > < milhas >
+_ Posso _ < pagar > < compras > < pontos > < reais > < pedido >
+_ Posso _ < utilizar > < Vale Compra > desconto novamente < pedido > for < cancelado >
+_ Posso _ < alterar > < pedido > < confirmado >
+_ Posso _ < solicitar > < pedido > venha < pacote presente >
+_ Posso _ < fazer saques > < NuConta >
+_ Posso _ < cancelar > < Nubank Rewards > qualquer momento
+_ Posso _ < agendar > < data específica > < montagem >
+_ Posso _ < marcar > < turno > (manhã tarde).
+_ Posso _ < alugar > < armário >
+_ Posso _ < levar > < personal >
+_ Posso _ < utilizar > < Free Pass >
+_ Posso _ < usar > cartão outra pessoa
+_ Posso _ < pagar > dinheiro
+_ Posso _ < pagar > boleto
+_ Posso _ < escolher > < data cobrança >
+_ Posso _ < trancar > < motivos médicos >
+_ Posso _ < levar > < personal >
+_ Posso _ < fazer > < portabilidade > < salário >
+_ Posso _ < enviar > < documento > < formato >
+_ Posso _ < cancelar > < transferência >
+_ Posso _ < enviar > < documento > < formato >
+_ Posso _ < receber > < SMS Token > < realizar > < operações > fora Brasil
+_ Posso _ < parcelar > < compra > < boleto >
+_ Posso _ < comprar > < parcelado > < aplicativo PagBank >
+_ Posso _ < comprar > < Televendas >
+_ Posso _ < adicionar > outro < produto pedido >
+_ Posso _ < alterar > < endereço entrega >
+_ Posso _ < alterar > < forma pagamento > < pedido >
+_ Posso _ < pagar > < pedido > < dois cartões > Existe alguma regra
+O < pedido > < não foi > < aprovado > _ posso _ < alterar > < forma pagamento >
+_ Posso _ < pagar > < pedido > < boleto > < cartão >
+Quero realizar compra _ possa _ < agendar > < entrega produto >
+_ Posso _ < retirar > < presentes > ganhei < Lista Casamento > < lojas físicas > RicardoEletro.com
+_ Posso _ < converter > < presentes > < vales-troca > Como devo proceder
+_ Posso _ < somar > < vales-troca > < comprar > < produto maior valor >
+_ Posso _ < utilizar > < vale-troca > lojas físicas
+_ É possível _ < usar > < bônus > < vale-troca > < mesma > < compra >
+_ Posso _ < comprar > < presente > < loja física >
+Após < concluir > < compra > _ posso _ < alterar > < forma envio >
+Quero < comprar > < livros > < vendedor > _ é possível _
+_ Posso _ < reservar > < livros > < comprar >
+Não encontrei < livro > site _ posso _ < encomendar >
+_ Posso _ efetuar < troca > < produto > < adquirido > através < site > alguma < loja física >
+_ Posso _ < parcelar > < valor > < compra >
+_ É possível _ < editar > < dados > < boleto >
+_ Posso _ < parcelar > < valor > < compra >
+_ É possível _ < editar > < dados > < boleto >
+_ Posso _ < pagar > < Vale Cultura >
+_ É possível _ < comprar > < site > < retirar > < loja física >
+_ É possível _ < aderir > < Fatura Digital >
+_ Posso _ < trocar > < devolver > < produtos > < comprados Internet >
+_ Posso _ < comprar > < Loja Virtual > < trocar > < Loja Física >
+_ Posso _ < trocar > < produto > < adquirido > < Loja Melissa > < outras lojas >
+_ Posso _ < alterar > < endereço > < entrega > após < finalizado > pedido
+_ Posso _ < comprar > < telefone >
+_ Posso _ < utilizar > < cupons > < vales > < produtos marketplace >
+_ Posso _ < alterar > < forma pagamento > após < fechamento > < pedido >
+_ Posso _ < trocar > < produtos > < lojas físicas > Ricardo Eletro
+Fiz < compras > via < boleto > <  > < vendedor > < não tiver > < livro > _ posso _ < emitir > < novo boleto >

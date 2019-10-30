@@ -1,27 +1,27 @@
-_ Existe _ algum *risco* *colocar* dinheiro *NuConta*
-_ Existe _ *plano anual*
-_ Tem _ *vestiário*
-_ Tem _ *estacionamento*
-_ Tem _ *bicicletário*
-_ Tem _ *aulas*
-_ Tem _ *professor*
-_ Tem _ *piscina*
-_ Tem _ *aulas* *luta*
-_ Tem _ *aulas* *ginástica*
-_ Tem _ *treino* *coletivo*
-_ Tem _ *aulas* dança
-_ Tem _ *espaço kids*
-A *Smart Fit* possui *atendimento telefônico*
-_ Tem _ *multa* *cancelar* *plano Smart*
-_ Tem _ *multa* *cancelar* *plano Black*
-_ Existe _ *trancamento*
-_ Existe _ *período férias*
-_ Tem _ *bicicletário*
-_ Tem _ *estacionamento*
-_ Tem _ *gaiola / agachamento* livre
-Meu *produto* _ terá _ *serviço montagem*
-A *Ricardo Eletro* _ possui _ *Nota Fiscal Paulista*
-_ Há _ *cobrança* *frete*
-_ Há _ *limite* *livros* *compra*
-O *site* _ possui _ *vale presente*
-O *site* _ faz _ *entrega internacional*
+_ Existe _ algum < risco > colocar < dinheiro > < NuConta >
+_ Existe _ < plano anual >
+_ Tem _ < vestiário >
+_ Tem _ < estacionamento >
+_ Tem _ < bicicletário >
+_ Tem _ < aulas >
+_ Tem _ < professor >
+_ Tem _ < piscina >
+_ Tem _ < aulas > < luta >
+_ Tem _ < aulas > < ginástica >
+_ Tem _ < treino > < coletivo >
+_ Tem _ < aulas > dança
+_ Tem _ < espaço kids >
+A < Smart Fit > possui < atendimento telefônico >
+_ Tem _ < multa > < cancelar > < plano Smart >
+_ Tem _ < multa > < cancelar > < plano Black >
+_ Existe _ < trancamento >
+_ Existe _ < período férias >
+_ Tem _ < bicicletário >
+_ Tem _ < estacionamento >
+_ Tem _ < gaiola / agachamento > livre
+Meu < produto > _ terá _ < serviço montagem >
+A < Ricardo Eletro > _ possui _ < Nota Fiscal Paulista >
+_ Há _ < cobrança > < frete >
+_ Há _ < limite > < livros > < compra >
+O < site > _ possui _ < vale presente >
+O < site > _ faz _ < entrega internacional >

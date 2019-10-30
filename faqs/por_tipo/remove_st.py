@@ -1,5 +1,4 @@
 import re
-import nltk
 from stopwords import stopwords
 
 def get_index_last(i, words):

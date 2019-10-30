@@ -1,0 +1,44 @@
+<questions>
+    <question type="por_que">
+        <type_id>Por que</type_id> iremos <aspect>cobrar</aspect> pelo <entity>saque</entity>?
+    </question>
+    <question type="por_que">
+        Tenho o <aspect>nome "limpo"</aspect> e não fui <aspect>aprovado</aspect> na <entity>análise do Nubank</entity>. Por que?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> eu <aspect>preciso</aspect> de um <entity>smartphone</entity>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> <intention>assinar</intention> o <entity>Nubank Rewards</entity>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>documento</entity> não foi <aspect>aprovado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>foi</relation> <aspect>cancelado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>pedido</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> estou <entity>demorando</entity> para <intention>receber</intention> o <aspect>rastreamento</aspect> da minha <entity>compra</entity>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> o <aspect>rastreamento</aspect> de minha <entity>encomenda</entity> está <aspect>parado</aspect>, <aspect>sem</aspect> <entity>atualização</entity>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> o <entity>rastreamento</entity> <relation>não foi</relation> <aspect>encontrado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> o <aspect>prazo</aspect> de <entity>entrega</entity> de alguns <entity>produtos</entity> é <relation>maior</relation>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> meu <entity>comentário</entity> sobre o <entity>produto</entity> <relation>não foi</relation> <aspect>aprovado</aspect>?
+    </question>
+    <question type="por_que">
+        <type_id>Por que</type_id> <relation>não posso</relation> <intention>trocar</intention> <entity>produtos dos lojistas<entity> pelos itens do <entity>Pontofrio.com</entity>?
+    </question>
+</questions>

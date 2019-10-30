@@ -1,0 +1,64 @@
+_ Posso _ *pagar* *meu boleto* após o *vencimento*?
+_ Posso _ *alterar* meu *endereço* após *finalizar* meu pedido com *KOIN*?
+_ Posso _ *comprar* produtos na *promoção Frete Grátis* com *minhas milhas*?
+_ Posso _ *usar* *pontos de outra pessoa* para *pagar* *minhas compras*?
+_ Posso _ *comprar* os *produtos em promoção* com as *minhas milhas*?
+_ Posso _ *pagar* *minhas compras* com *pontos* e *reais* no mesmo *pedido*?
+_ Posso _ *utilizar* *Vale Compra* de desconto novamente, se o *pedido* for *cancelado*?
+_ Posso _ *alterar* meu *pedido* depois de *confirmado*?
+_ Posso _ *solicitar* que meu *pedido* venha em *pacote de presente*?
+_ Posso _ *fazer saques* com a minha *NuConta*?
+_ Posso _ *cancelar* o *Nubank Rewards* a qualquer momento?
+_ Posso _ *agendar* uma *data específica* para a *montagem*?
+_ Posso _ *marcar* *turno*? (manhã ou tarde).
+_ Posso _ *alugar* um *armário*?
+_ Posso _ *levar* meu *personal*?
+_ Posso _ *utilizar* mais de um *Free Pass*?
+_ Posso _ *usar* o cartão de outra pessoa?
+_ Posso _ *pagar* em dinheiro?
+_ Posso _ *pagar* em boleto?
+_ Posso _ *escolher* a *data de cobrança*?
+_ Posso _ *trancar* por *motivos médicos* ?
+_ Posso _ *levar* meu *personal*?
+_ Posso _ *fazer* a *portabilidade* em mais de um *salário*?
+_ Posso _ *enviar* meu *documento* em qual *formato*?
+_ Posso _ *cancelar* uma *transferência*?
+_ Posso _ *enviar* meu *documento* em qual *formato*?
+_ Posso _ *receber* o *SMS Token* para *realizar* minhas *operações* fora do Brasil?
+_ Posso _ *parcelar* uma *compra* no *boleto*?
+_ Posso _ *comprar* *parcelado* pelo *aplicativo PagBank*?
+_ Posso _ *comprar* pelo *Televendas*?
+_ Posso _ *adicionar* outro *produto ao meu pedido*?
+_ Posso _ *alterar* meu *endereço de entrega*?
+_ Posso _ *alterar* a *forma de pagamento* do meu *pedido*?
+_ Posso _ *pagar* o meu *pedido* em *dois cartões*? Existe alguma regra?
+O meu *pedido* *não foi* *aprovado*, _ posso _ *alterar* a *forma de pagamento*?
+_ Posso _ *pagar* meu *pedido* no *boleto* e no *cartão*?
+Quero realizar uma compra, _ possa _ *agendar* a *entrega de um produto*?
+_ Posso _ *retirar* os *presentes* que ganhei pela *Lista de Casamento* nas *lojas físicas* da RicardoEletro.com?
+_ Posso _ *converter* meus *presentes* em *vales-troca*? Como devo proceder?
+_ Posso _ *somar* os *vales-troca* para *comprar* um *produto de maior valor*?
+_ Posso _ *utilizar* o *vale-troca* nas lojas físicas?
+_ É possível _ *usar* o *bônus* e o *vale-troca* na *mesma* *compra*?
+_ Posso _ *comprar* o *presente* em uma *loja física*?
+Após *concluir* a *compra*, _ posso _ *alterar* a *forma de envio*?
+Quero *comprar* mais *livros* com o *mesmo vendedor*, _ é possível _?
+_ Posso _ *reservar* *livros* para *comprar depois*?
+Não encontrei o *livro* no site, _ posso _ *encomendar*?
+_ Posso _ efetuar a *troca* de um *produto* *adquirido* através do *site* em alguma *loja física*?
+_ Posso _ *parcelar* o *valor* da minha *compra*?
+_ É possível _ *editar* os *dados* do *boleto*?
+_ Posso _ *parcelar* o *valor* da minha *compra*?
+_ É possível _ *editar* os *dados* do *boleto*?
+_ Posso _ *pagar* com *Vale Cultura*?
+_ É possível _ *comprar* no *site* e *retirar* na *loja física*?
+_ É possível _ *aderir* a *Fatura Digital*?
+_ Posso _ *trocar* ou *devolver* os *produtos* *comprados pela Internet*?
+_ Posso _ *comprar* na *Loja Virtual* e *trocar* na *Loja Física*?
+_ Posso _ *trocar* o *produto*, *adquirido* na *Loja Melissa*, em *outras lojas*?
+_ Posso _ *alterar* o *endereço* de *entrega* após *finalizado* o pedido?
+_ Posso _ *comprar* pelo *telefone*?
+_ Posso _ *utilizar* *cupons* e *vales* para *produtos marketplace*?
+_ Posso _ *alterar* a *forma de pagamento* após o *fechamento* do *pedido*?
+_ Posso _ *trocar* os *produtos* nas *lojas físicas* da Ricardo Eletro?
+Fiz *compras* via *boleto* em *mais* de um *vendedor*, se um deles *não tiver* o *livro* _ posso _ *emitir* um *novo boleto*?

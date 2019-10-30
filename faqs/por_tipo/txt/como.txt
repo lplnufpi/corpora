@@ -1,0 +1,233 @@
+_ Como _ *pagar* com *cartão de crédito*?
+_ Como _ *pagar* com *boleto bancário*?
+Quero *usar* *boleto*, mas *não tenho* *impressora*, _ como _ devo proceder?
+_ Como _ *funciona* o *cancelamento* após o *pagamento aprovado* pela *PicPay*?
+_ Como _ *comprar* com o *PicPAY*?
+_ Como _ *comprar* com *KOIN*?
+Recebi meu *pedido* que *adquiri* através da *forma de pagamento* *KOIN*, o que faço agora?
+_ Como _ funciona o *pagamento* por *Paypal*?
+_ Como _ faço pra *finalizar* um pedido com *minhas milhas*?
+_ Como _ faço para *ver quantos pontos* eu já tenho?
+_ Como _ *Utilizar* um *Vale Compra*
+_ Como _ *fazer* meu *pedido*?
+_ Como _ sei se meu *pedido* foi *realizado*?
+_ Como _ posso *acompanhar* o andamento de meu *pedido*?
+_ Como _ fico sabendo que o meu *pedido* foi *aprovado*?
+_ Como _ faço para *alterar* meus dados cadastrais?
+_ Como _ faço um *cadastro* na *Loja Melissa*?
+_ Como _ posso entrar em *contato* com a *Loja Melissa.com*?
+_ Como _ faço para ter *meu cartão* com a *função de débito*?
+_ Como _ funciona a *lista de espera* para o *Cartão Nubank*?
+_ Como _ *assino* o *Nubank Rewards*?
+_ Como _ o *Nubank* *ganha dinheiro* se não cobra *tarifas*?
+_ Como _ faço para *participar* do teste da *Conta PJ*?
+_ Como _ Funciona o *Fluxo de Montagem*
+_ Como _ *solicito* a *segunda via* da *Nota fiscal* e qual o *prazo* para o recebimento do documento?
+_ Como _ *acesso* o site da *SEFAZ* para *imprimir* minha *nota fiscal eletrônica*?
+_ Como _ *solicito* o *XML* da *Nota Fiscal Eletrônica*?
+_ Como _ *fazer* o *exame médico*?
+_ Como _ *usar* os *armários*?
+_ Como _ *cancelar* o meu *plano Smart*?
+_ Como _ *cancelar* o meu *plano Black*?
+_ Como _ *pagar*?
+_ Como _ *contratar* um novo *plano*?
+_ Como _ *trocar* meu *treino*?
+_ Como _ *mudar* do *plano Smart* para o *plano Black* ?
+_ Como _ faço para *falar* com o *PagSeguro*?
+_ Como _ *altero* *meus dados* no *PagSeguro*?
+_ Como _ *encerrar* *minha conta* *PagSeguro*?
+_ Como _ *ativo* *minha conta* no *PagSeguro*?
+_ Como _ *ativo* *minha conta* no *PagSeguro*?
+_ Como _ me *cadastro* no *PagSeguro*?
+Meu *e-mail* já consta como *cadastrado* no *PagSeguro*. _ Como _ devo *proceder*?
+Tenho uma *conta Pessoal*, mas tenho interesse em *vender* pelo *PagSeguro*. _ Como _ devo proceder?
+_ Como _ vejo o *limite* da *minha conta* do *PagSeguro*?
+_ Como _ *altero* *meus dados* no *PagSeguro*?
+_ Como _ *alterar* *minha senha* no *PagSeguro*?
+Esqueci a *minha senha*. _ Como _ faço para *recuperar*?
+_ Como _ *encerrar* *minha conta PagSeguro*?
+_ Como _ *desbloquear* e *receber* a *senha* do *Cartão da Conta*?
+_ Como _ faço para *transferir* o *saldo* para a *conta bancária*?
+_ Como _ *cadastrar* uma *nova* *conta bancária*?
+_ Como _ *recarrego* o meu *Cartão Pré-Pago*?
+_ Como _ *pagar* uma *conta* usando o Aplicativo *PagSeguro PagBank*?
+_ Como _ *validar* o *Token* do Aplicativo *PagBank*?
+_ Como _ faço uma *recarga de celular*?
+_ Como _ escolho um outro *valor de recarga* para *celular*?
+_ Como _ *funciona* o *Empréstimo PagBank*?
+_ Como _ faço o *pagamento* de *Empréstimo PagBank*?
+_ Como _ *troco* o *salário* que recebo no *PagSeguro* para outra *instituição financeira*?
+_ Como _ *vendo* por *QR Code*?
+_ Como _ faço para *comprar* com *Aponte e Pag (QR Code)*?
+_ Como _ *cancelar* uma *TED*?
+_ Como _ vejo o *saldo* do *Cartão Pré-Pago* no *Aplicativo PagBank*?
+_ Como _ *consulto* o *extrato* do *Cartão Pré-Pago* no *Aplicativo PagBank*?
+_ Como _ *recuperar* a *senha* do *Cartão* no *Aplicativo PagSeguro PagBank*?
+_ Como _ faço uma *venda* por *boleto*?
+_ Como _ *verificar* minha *conta bancária*?
+*Não tenho* *conta bancária*. _ Como _ *verifico* minha *conta PagSeguro*?
+_ Como _ faço o *cadastro* ou *alteração* do meu *Celular Seguro*?
+_ Como _ *visualizo* os *relatórios de vendas* da *Minha Minizinha* no *aplicativo PagSeguro Vendas*?
+_ Como _ *imprimir* o *fechamento de caixa* na *Moderninha Pro*?
+_ Como _ *extrair* o *relatório de vendas*?
+_ Como _ *consulto* se meu *dinheiro* está *disponível* na *Conta PagSeguro*?
+_ Como _ faço um *estorno*?
+_ Como _ *rastrear* o envio de um *produto* ou *serviço* que *comprei* pelo *Pagseguro*?
+_ Como _ *cancelar* *minha compra*?
+_ Como _ faço para *testar* novos *produtos* do *PagSeguro*?
+_ Como _ faço para *fazer* parte do *grupo de testes*?
+_ Como _ faço para *instalar* o aplicativo *PagSeguro Vendas Beta* para *iOS*?
+_ Como _ *recarrego* o meu *Cartão Pré-Pago*?
+_ Como _ faço para *transferir* o *saldo* para a *conta bancária*?
+_ Como _ *cadastrar* uma *nova* *conta bancária*?
+_ Como _ *excluir* uma *conta bancária* da *minha Conta* do *PagSeguro*?
+_ Como _ *habilito* a *transferência automática* para o meu *Cartão Pré-Pago*?
+_ Como _ faço uma *transferência* entre *contas PagSeguro*?
+_ Como _ *depositar* *dinheiro* na *Conta PagBank*?
+_ Como _ faço o *pagamento* de *Empréstimo PagBank*?
+_ Como _ *solicito* a *2ª via de boleto* do *Empréstimo PagBank*?
+_ Como _ *quitar* meu *Empréstimo PagBank*?
+_ Como _ *verificar* minha *conta bancária*?
+*Não tenho* *conta bancária*. _ Como _ *verifico* minha *conta PagSeguro*?
+_ Como _ *informar* os *valores depositados* na *minha conta bancária*?
+_ Como _ faço o *cadastro* ou *alteração* do meu *Celular Seguro*?
+_ Como _ *identificar* um *e-mail* que não foi *enviado* pelo *PagSeguro*?
+_ Como _ *visualizo* os *relatórios de vendas* da *Minha Minizinha* no *aplicativo PagSeguro Vendas*?
+_ Como _ *imprimir* o *fechamento de caixa* na *Moderninha Pro*?
+_ Como _ *extrair* o *relatório de vendas*?
+_ Como _ *consulto* se meu *dinheiro* está *disponível* na *Conta PagSeguro*?
+_ Como _ *exporto* as *minhas vendas* na *conta PagSeguro*?
+_ Como _ *gerar* a *Nota Fiscal de Devolução* para troca?
+_ Como _ faço para *inserir* *comprovantes* em uma *contestação*?
+_ Como _ *adiciono* um *comprovante* na *Disputa*?
+_ Como _ *abrir* uma *Disputa*?
+_ Como _ *encerro* uma *Disputa*?
+O *comprador* *abriu* uma *Disputa*. _ Como _ devo proceder?
+_ Como _ faço para *inserir* *comprovantes* em um *Caso Jurídico*?
+_ Como _ *rastrear* o *envio* de um *produto* ou *serviço* que *comprei* pelo *Pagseguro*?
+_ Como _ *acompanho* o *status* do meu *pagamento*?
+Meu *pagamento* por *depósito em conta* foi *estornado*, _ Como _ devo proceder?
+_ Como _ faço um *estorno*?
+_ Como _ *confirmo* se *minha compra* está *cancelada*?
+_ Como _ faço para *saber* meu *e-mail de cadastro*?
+_ Como _ faço para *recuperar* minha *senha*?
+_ Como _ faço para *realizar* um *pedido*?
+_ Como _ faço para *achar* o *produto* que quero?
+_ Como _ *encontro* um *produto*?
+_ Como _ faço para *alterar* meu *endereço de entrega*?
+_ Como _ *recuperar* o *código do meu vale-troca*?
+_ Como _ faço para *utilizar* *vales e cupons*?
+_ Como _ é *feita* a *entrega de produtos*?
+_ Como_  *funciona* o *Retira Fácil*?
+_ Como_  *funciona* o *Frete Garantido Amanhã*?
+_ Como _ posso *acompanhar* a *entrega* de meu pedido?
+_ Como _ *funcionam* as *embalagens para presentes*?
+_ Como _ faço para *cadastrar* meu *cartão de crédito*?
+_ Como _ faço para *comprar* no *cartão de débito*?
+_ Como _ faço para *imprimir* a *segunda via de meu boleto*?
+_ Como _ faço para *cancelar* minha *compra*?
+_ Como _ faço para *solicitar* uma *devolução*?
+_ Como _ faço para *solicitar* uma *troca*?
+_ Como _ faço para *utilizar* um *vale-troca*?
+_ Como _ faço para *acompanhar* minha *entrega*?
+_ Como _ *agendar* a minha *entrega*?
+_ Como _ *altero* o meu *endereço*?
+_ Como _ é feita a *entrega*?
+_ Como _ faço para *saber* se meu *pedido* foi *aprovado*?
+_ Como _ *imprimir* a *2ª via do Boleto Bancário*?
+_ Como _ é *feita* a *troca de produtos de lojistas*?
+_ Como _ faço para *trocar* um *produto*?
+_ Como _ *solicitar* a *2ª via da Nota Fiscal Eletrônica (NF-e)*?
+_ Como _ *solicitar* *carta de correção* para a minha *Nota Fiscal*?
+_ Como _ *alterar* meu *cadastro*?
+_ Como _ *recuperar* minha *senha* ou meu *e-mail*?
+_ Como _ *alterar* meu *cadastro*?
+_ Como _ é feita a *troca* de *produtos de lojistas*?
+_ Como _ faço para *saber* se meu *pedido* foi *aprovado*?
+_ Como _ *solicitar* a *2ª via da Nota Fiscal Eletrônica (NF-e)*?
+_ Como _ faço para *cancelar* uma *entrega*?
+_ Como _ *recuperar* minha *senha* ou meu *e-mail*?
+_ Como _ me *cadastrar* no *site*?
+_ Como _ *atualizo* meus *dados cadastrais*?
+Sei minha *senha*, mas quero *alterá-la*. _ Como _ faço?
+*Troquei* de *e-mail*. _ Como _ devo proceder?
+_ Como _ *comprar*?
+_ Como _ me *cadastrar* no *site*?
+_ Como _ *consultar* meus *pedidos no site*?
+*Não quero mais receber* *e-mails promocionais*. _ Como _ faço?
+_ Como _ *acompanho* minha *entrega*?
+_ Como _ *funciona* a *cobrança de frete*?
+_ Como _ *solicitar* a *segunda via da nota fiscal* de meu pedido?
+Fiz uma compra e estou arrependido(a). _ Como _ faço para *cancelar* minha *entrega*?
+_ Como _ faço para *trocar* um *produto*?
+_ Como _ faço a *devolução* de um *produto*?
+_ Como _ faço para *utilizar* o meu *vale troca*?
+_ Como _ *imprimir* a *2ª via do Boleto Bancário*?
+_ Como _ *saber* se meu *pedido* foi *aprovado*?
+Não consegui *imprimir* o *boleto*, o que é necessário fazer?
+Não consigo *usar* meu *vale troca*. O que faço?
+Fiz uma *compra* com *vale-troca* e *cartão*, mas o cartão foi *reprovado*. _ Como _ proceder?
+Fiz *compra* com *vale-trocas* e *boleto*, mas *esqueci* de *pagar* o boleto. _ Como _ proceder?
+Fiz o *pagamento* do *boleto* em *duplicidade*. _ Como _ proceder?
+_ Como _ *adquirir* o *seguro Garantia Estendida*?
+_ Como _ *obter* a *2ª via do bilhete de seguro Garantia Estendida*?
+_ Como _ *adquirir* o *seguro contra roubo e furto*?
+_ Como _ *obter* a *2ª via da apólice de seguro contra roubo e furto*?
+_ Como _ *funciona* a *montagem de móveis*?
+_ Como _ *funciona* a *cobrança de frete*?
+_ Como _ *identificar* um *produto oferecido por um Vendedor parceiro / Marketplace*?
+_ Como _ *acompanhar* uma *compra feita com um parceiro de Marketplace*?
+_ Como _ faço para me *cadastrar* na *Lista de Casamento*? Existe algum *custo* para isto?
+_ Como _ faço para *divulgar* a minha *Lista de Casamento*?
+_ Como _ faço para *adicionar* *produtos* em minha *Lista de Casamento*?
+_ Como _ *alterar* os *meus dados*? E os *dados do casamento*?
+_ Como _ *cadastrar* um *novo endereço*?
+_ Como _ faço para *receber* meus *presentes*?
+Quero *receber* meus *convitinhos*. _ Como_  faço?
+_ Como _ *saberei* que fui *presenteado*?
+_ Como _ *realizar* as *trocas* ou *devoluções*?
+_ Como _ *funciona* o *bônus de 5%*?
+_ Como _ *encontrar* uma *lista de presentes*?
+_ Como _ *escolher* e *comprar* um *presente*?
+_ Como _ *saberei* que os *noivos* *receberam* meu *presente*?
+_ Como _ *acompanhar* meu *pedido*?
+_ Como _ *comprar* na *Estante Virtual*?
+_ Como _ *acompanhar* meu *pedido*?
+_ Como _ *comprar* na *Estante Virtual*?
+_ Como _ *saber* se um *livro* está *disponível*?
+_ Como _ *buscar* um *livro*?
+_ Como _ *saber* o *estado de conservação* do *livro*?
+_ Como _ *retirar* *livros* do *carrinho*?
+_ Como _ *avaliar* ou *fazer* uma *reclamação* sobre um *vendedor*?
+_ Como _ *criar* uma *lista de desejos* com meus *livros favoritos*?
+*Cadastrei* um *livro* no *"Encontre para mim"*, _ como_  vou *saber* se o *livro* está *disponível*?
+_ Como _ *trocar* um *livro*?
+_ Como _ *cancelar*, *trocar* ou *devolver* a minha *compra*?
+_ Como _ faço para *imprimir* um *boleto*?
+Comprando: _ Como _ *emito* a *segunda via do boleto*?
+_ Como _ faço para *imprimir* um *boleto*?
+Preciso de *comprovante* da *compra*, _ como _ *receber*?
+_ Como _ o *frete* é *calculado*?
+Não quero *receber* *emails* *promocionais*, _ como _ me *descadastro*?
+Sou *comprador*, _ como _ *altero* meus *dados cadastrais*?
+Sou comprador: _ Como _ *altero* o *endereço* de *entrega*?
+_ Como _ *sair* e *deslogar* da *minha conta*?
+_ Como _ *excluir* meu *cadastro*?
+Eu tenho *garantia* de *compra*? _ Como _ funciona?
+_ Como _ *falar* com o *Vendedor*?
+Sou comprador: _ Como _ *falar* com a *Estante Virtual*?
+_ Como _ *enviar* meu *currículo*?
+_ Como _ *proceder* em caso de *perda* ou *roubo* do *Cartão*?
+_ Como _ *fazer* *alterações* de *dados*?
+_ Como _ *realizar* o *pagamento* da *fatura*?
+_ Como _ *conseguir* a *2ª via* da *fatura*?
+_ Como _ faço para *trabalhar* na *Marisa*?
+Quero *trocar* meu produto, _ como _ proceder?
+_ Como _ funciona o *cancelamento* *antes do envio* do *pedido*?
+_ Como _ funciona a *alteração* do *pedido* *antes do envio*?
+_ Como _ faço para *utilizar* o *Vale Compra* da *Newsletter*?
+_ Como _ *funciona* o *cadastro* na *Newsletter*?
+_ Como _ *solicito* uma *troca* de um *produto* que ganhei de *presente*?
+_ Como _ *receberei* meu *Vale Compra*?
+_ Como _ proceder para *trocar* um *produto*?
+_ Como _ devo *embalar* meu *produto* para enviar para a *troca*?

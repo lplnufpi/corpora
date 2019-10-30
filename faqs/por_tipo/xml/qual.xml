@@ -1,0 +1,224 @@
+<questions>
+    <question type="qual">
+        <type_id>Quais</type_id> as <entity>formas de pagamento</entity> disponíveis?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo para aprovação</aspect> após a <aspect>compra finalizada</aspect> com <entity>PicPAy</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a pontuação mínima que preciso pra <intention>fechar</intention> um pedido com <entity>minhas Milhas</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a vantagem de ter um <aspect>cadastro</aspect> na <entity>Loja Melissa</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <aspect>tarifas</aspect> do <entity>Cartão Nubank</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a diferença entre a <entity>NuConta</entity> e a <entity>Conta PJ</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>idade mínima</aspect> para a <entity>matrícula</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> <entity>cadeado</entity> devo <intention>usar</intention>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>horários de funcionamento</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> <entity>unidades</entity> <aspect>participam</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>valor</aspect> da <entity>manutenção anual</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>valor</aspect> da <entity>taxa da adesão</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <entity>data de cobrança</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>formas de pagamento</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> as opções para a <entity>data de cobrança</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> cadeado devo <intention>usar</intention>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre as <entity>contas Pessoal</entity>, <entity>Vendedor</entity> e <entity>Empresarial</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <aspect>prazos</aspect> de <entity>transferências</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>tipos de contas bancárias</entity> <aspect>aceitas</aspect> para <entity>transferências</entity> no <entity>PagSeguro</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>horário limite</aspect> para <entity>Pagamento de Contas</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> é a <aspect>validade da proposta</aspect> de <entity>Empréstimo PagBank</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para <intention>fazer</intention> a <entity>portabilidade de salário</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> os <intention>cuidados</intention> devo ter com meu <entity>QR Code</entity> <aspect>impresso</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre <entity>Transferência</entity> e <entity>Transferência Instantânea</entity>?
+    </question>
+    <question type="qual">
+        Para <type_id>Quais</type_id> <entity>instituições</entity> posso <intention>fazer</intention> uma <entity>TED</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> <entity>contas bancárias</entity> são <aspect>aceitas</aspect> no <entity>PagSeguro</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre <entity>encomenda</entity> <entity>PAC</entity> e <entity>SEDEX</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual é</type_id> o <aspect>prazo</aspect> para que meu <entity>pagamento</entity> seja <aspect>compensado</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os tipos de <entity>contas bancárias</entity> <aspect>aceitas</aspect> para <entity>transferências</entity> no <entity>PagSeguro</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>documentos</entity> <aspect>aceitos</aspect> para <intention>verificar</intention> minha <entity>conta Pessoa Física</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>documentos</entity> <aspect>aceitos</aspect> para <intention>verificar</intention> minha <entity>conta Pessoa Jurídica</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual é</type_id> o <aspect>prazo</aspect> para constar um <entity>depósito</entity> em minha <entity>conta bancária</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> <entity>documentos</entity> são <aspect>aceitos</aspect> para <aspect>comprovar</aspect> a <entity>entrega</entity> de um <entity>produto</entity> ou <entity>serviço</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre encomenda <entity>PAC</entity> e <entity>SEDEX</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <aspect>status</aspect> de um <entity>pagamento</entity> via <entity>PagSeguro</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> as vantagens de <intention>usar</intention> o <entity>PagSeguro</entity> para <intention>comprar</intention>?
+    </question>
+    <question type="qual">
+        <type_id>Qual é</type_id> o prazo para <aspect>compensação</aspect> de <entity>boleto bancário</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual é</type_id> o prazo para que meu <entity>pagamento</entity> seja <aspect>compensado</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <aspect>dicas</aspect> para comprar na <entity>Black Friday</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <entity>tipos de frete</entity> <aspect>disponíveis</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <aspect>opções de frete</aspect> para <entity>produtos marketplace</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>condições de frete</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> é o <aspect>prazo de entrega</aspect> do <entity>meu pedido</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>formas de pagamento</entity> aceitas no site?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> é o <aspect>prazo de vencimento</aspect> do <entity>boleto bancário</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> é o <aspect>prazo</aspect> para <entity>confirmação de pagamento</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais<type_id> são as <aspect>opções de reembolso</aspect> para uma <entity>devolução<entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> as <entity>formas de pagamento</entity> <aspect>disponíveis</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo para a aprovação</aspect> do meu <entity>pedido</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> as <aspect>formas de pagamento</aspect> disponíveis para <entity>compras na Black Friday</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são os <aspect>prazos de entrega</aspect> do <entity>site</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para <entity>emissão de nota fiscal</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo de resolução</aspect> da minha <entity>troca</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> as <entity>formas de pagamento</entity> que posso utilizar?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo de utilização</aspect> do <entity>vale-troca</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo para aprovação</aspect> do meu <entity>pedido</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <aspect>vantagens</aspect> da <entity>Lista de Casamento</entity> da RicardoEletro.com?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> são as <entity>formas de pagamento</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <entity>prazo</entity> para <intention>solicitar</intention> o <entity>cancelamento</entity>, <entity>troca</entity> e <entity>devolução</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais</type_id> as <aspect>formas de pagamento</aspect> aceitas pelo <entity>site</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> é o <entity>prazo de entrega</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> a <aspect>diferença</aspect> entre as <entity>formas de envio</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais<type_id> as <aspect>regiões</aspect> de <entity>entrega</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual<type_id> é minha <aspect>melhor</aspect> <entity>data de compra</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quais<type_id> os <aspect>contatos</aspect> e <aspect>horários</aspect> da <entity>Central de Atendimento</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual<type_id> o <aspect>prazo para recebimento</aspect> de novo <entity>cartão</entity>, <entity>2ª via</entity> ou <entity>cartão adicional</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual<type_id> o <aspect>telefone de contato</aspect> da <entity>Loja Física</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para <intention>troca</intention> em uma <entity>loja física</entity>?
+    </question>
+    <question type="qual">
+        Se precisar <intention>trocar</intention> um <entity>produto</entity> <aspect>adquirido na Black Friday</aspect>, <type_id>qual</type_id> será o <aspect>valor</aspect> do meu <entity>vale compra</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> de <entity>entrega</entity> de compras feitas na <aspect>Black Friday</aspect>?
+    </question>
+    <question type="qual">
+        <type_id>Em que</type_id> <entity>momento</entity> <intention>recebo</intention> o <aspect>número</aspect> do <entity>objeto</entity> para <intention>acompanhar</intention> o <entity>rastreamento</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> que tenho pra <intention>solicitar</intention> uma <entity>troca</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Qual</type_id> o <aspect>prazo</aspect> para a <entity>solicitação</entity> de <intention>cancelamento</intention> de um <entity>pedido</entity>?
+    </question>
+    <question type="qual">
+        <type_id>Quanto</type_id> <entity>tempo</entity> leva para eu <intention>receber</intention> meus <entity>produtos</entity>?
+    </question>
+</questions>

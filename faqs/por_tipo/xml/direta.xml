@@ -1,0 +1,533 @@
+<questions>
+    <question type="direta">
+        Solicitei o <entity>envio</entity> de meu <entity>pedido</entity> por <entity>Transportadora</entity>, porque foi <aspect>despachado</aspect> pelos <entity>Correios</entity>?
+    </question>
+    <question type="direta">
+        <intention>Comprei</intention> com a <entity>KOIN</entity>, de quem recebo o <entity>boleto</entity> para <intention>pagar</intention> minha compra?
+    </question>
+    <question type="direta">
+        Preciso <intention>fazer</intention> um <aspect>cadastro</aspect> na <entity>Koin</entity> antes de <intention>finalizar</intention> minha <entity>compra</entity>?
+    </question>
+    <question type="direta">
+        Se o <entity>pedido</entity> que <aspect>finalizei</aspect> com milhas for <aspect>cancelado</aspect>, o que acontece com minhas <entity>milhas</entity>?
+    </question>
+    <question type="direta">
+        Preciso me <intention>cadastrar</intention> no <entity>Milhagem Melissa</entity>?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>finalizado</aspect> com <entity>milhas</entity>, gera mais <entity>milhas</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Quantos pontos</aspect> custam cada <entity>produto</entity>?
+    </question>
+    <question type="direta">
+        Quando os <entity>pontos</entity> ficarão <aspect>disponíveis</aspect> para eu <intention>usar</intention>?
+    </question>
+    <question type="direta">
+        <entity>Minhas milhas</entity> têm <aspect>prazo de validade</aspect>?
+    </question>
+    <question type="direta">
+        Caso <intention>mude</intention> meu <entity>e-mail</entity> eu perco meus <entity>pontos</entity>?
+    </question>
+    <question type="direta">
+        Se não <intention>utilizar</intention> todo o valor do <entity>Vale Compra</entity> no mesmo <entity>pedido</entity>, poderei <intention>utilizar</intention> o mesmo código com o valor restante?
+    </question>
+    <question type="direta">
+        Meu <entity>cupom de frete grátis</entity> é <aspect>válido</aspect> para qual <aspect>tipo de envio</aspect>?
+    </question>
+    <question type="direta">
+        <intention>Adicionar</intention> o <entity>produto</entity> no carrinho, me garante a <aspect>reserva</aspect> do <entity>produto</entity> e <aspect>finalização</aspect> do <entity>pedido</entity>?
+    </question>
+    <question type="direta">
+        Para <intention>finalizar</intention> um <entity>pedido</entity> tenho que ser <aspect>cadastrada</aspect> na <entity>Loja Melissa</entity>?
+    </question>
+    <question type="direta">
+        <entity>Pedido</entity> <aspect>pago</aspect> e não recebi <entity>e-mail</entity>
+    </question>
+    <question type="direta">
+        Se meu <entity>produto</entity> vier <aspect>sem o saquinho</aspect> da <entity>Melissa</entity>, posso <intention>receber</intention> depois?
+    </question>
+    <question type="direta">
+        O <entity>produto</entity> que recebi <aspect>não é o mesmo</aspect> que Solicitei no <entity>pedido</entity>, o que faço?
+    </question>
+    <question type="direta">
+        Caso meu <entity>produto</entity> fique <aspect>indisponível</aspect>, quais as opções que a loja me oferece?
+    </question>
+    <question type="direta">
+        <entity>Meus dados</entity> estão em <aspect>segurança</aspect>?
+    </question>
+    <question type="direta">
+        Para que <aspect>serve</aspect> o <entity>SAC</entity>?
+    </question>
+    <question type="direta">
+        Vou precisar passar por algum tipo de <aspect>análise<aspect>?
+    </question>
+    <question type="direta">
+        <aspect>Não tem</aspect> nenhuma <entity>tarifa</entity>?
+    </question>
+    <question type="direta">
+        A <entity>NuConta</entity> é uma <aspect>conta corrente</aspect> ou <aspect>conta poupança</aspect>?
+    </question>
+    <question type="direta">
+        Para quem é o <entity>cartão Nubank</entity>?
+    </question>
+    <question type="direta">
+        Se meu <entity>pedido</entity> for <aspect>aprovado</aspect>, qual <entity>cartão</entity> receberei?
+    </question>
+    <question type="direta">
+        <type_id>Quais</type_id> são os <aspect>benefícios</aspect> do <entity>Cartão Nubank</entity>?
+    </question>
+    <question type="direta">
+        Quem emite o <entity>Cartão Nubank</entity>?
+    </question>
+    <question type="direta">
+        Qualquer <entity>compra</entity> pode ser <aspect>apagada</aspect>?
+    </question>
+    <question type="direta">
+        Estou sem <aspect>saldo disponível</aspect> para <intention>assinar</intention> o <entity>programa</entity>. E agora?
+    </question>
+    <question type="direta">
+        A <entity>Conta PJ</entity> tem alguma <aspect>tarifa</aspect>?
+    </question>
+    <question type="direta">
+        Quem pode <intention>participar</intention> dos testes da <entity>Conta PJ</entity>?
+    </question>
+    <question type="direta">
+        Quem realiza a <aspect>montagem</aspect> do meu <entity>Produto</entity>?
+    </question>
+    <question type="direta">
+        Há <aspect>cobrança</aspect> para o <entity>serviço de Montagem</entity>?
+    </question>
+    <question type="direta">
+        Quando o <entity>Montador</entity> é acionado para <intention>montar</intention> meu <entity>produto<entity>?
+    </question>
+    <question type="direta">
+        Na <entity>primeira visita</entity>: o que devo levar?
+    </question>
+    <question type="direta">
+        É <aspect>obrigatório</aspect>?
+    </question>
+    <question type="direta">
+        Quando tenho que <intention>renovar</intention>?
+    </question>
+    <question type="direta">
+        Que tipo de <entity>atestado</entity> é necessário?
+    </question>
+    <question type="direta">
+        Tem lugar para <intention>tomar</intention> <entity>banho</entity>?
+    </question>
+    <question type="direta">
+        O <entity>professor</entity> <aspect>acompanha</aspect> meu treino?
+    </question>
+    <question type="direta">
+        <aspect>Abre</aspect> aos <entity>finais de semana</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Abre</aspect> aos <entity>feriados</entity>?
+    </question>
+    <question type="direta">
+        Quem pode <intention>solicitar</intention> o <entity>freepass</entity>?
+    </question>
+    <question type="direta">
+        Quando será <aspect>cobrado</aspect> no <entity>plano Black</entity>?
+    </question>
+    <question type="direta">
+        Quando será <aspect>cobrado</aspect> no <entity>plano Smart</entity>?
+    </question>
+    <question type="direta">
+        Quando devo <intention>solicitar</intention> o <entity>cancelamento</entity>?
+    </question>
+    <question type="direta">
+        Quando devo <intention>solicitar</intention> o <entity>cancelamento - RJ</entity>?
+    </question>
+    <question type="direta">
+        <intention>Parei</intention> de ir na <entity>academia</entity>, por que estão me <aspect>cobrando</aspect>?
+    </question>
+    <question type="direta">
+        <aspect>Cancelei</aspect> e ainda veio mais uma <entity>cobrança</entity>, por que?
+    </question>
+    <question type="direta">
+        Tenho que <intention>pagar</intention> uma nova <entity>taxa de adesão</entity>?
+    </question>
+    <question type="direta">
+        Onde posso <intention>contratar</intention> ?
+    </question>
+    <question type="direta">
+        Eu preciso <intention>agendar</intention> meu <entity>treino</entity>?
+    </question>
+    <question type="direta">
+        Tenho que <intention>trocar</intention> meu <entity>treino</entity> com o mesmo <aspect>professor</aspect>?
+    </question>
+    <question type="direta">
+        Para <intention>usar</intention> os <entity>serviços</entity> preciso me <intention>cadastrar</intention> no <entity>PagSeguro</entity>?
+    </question>
+    <question type="direta">
+        Tenho que <intention>assinar</intention> o <entity>UOL</entity> para <intention>usar</intention> o <entity>PagSeguro</entity>?
+    </question>
+    <question type="direta">
+        Preciso ser <entity>Pessoa Jurídica</entity> para <intention>vender</intention> com a <entity>Moderninha</entity>?
+    </question>
+    <question type="direta">
+        O <aspect>nome</aspect> do <entity>recebedor</entity> aparece na <aspect>identificação</aspect> do <entity>boleto</entity>?
+    </question>
+    <question type="direta">
+        Consigo <intention>imprimir</intention> o <entity>comprovante</entity> de uma <aspect>conta paga</aspect> pelo Aplicativo <entity>PagBank</entity>?
+    </question>
+    <question type="direta">
+        Após <entity>recarga</entity> o <aspect>valor</aspect> é <aspect>bloqueado</aspect> ou <aspect>retirado da Conta</aspect>?
+    </question>
+    <question type="direta">
+        Quando recebo o <aspect>dinheiro</aspect> do <entity>Empréstimo PagBank</entity> que <intention>Solicitei</intention>?
+    </question>
+    <question type="direta">
+        Onde posso <intention>usar</intention> o <entity>QR Code</entity>?
+    </question>
+    <question type="direta">
+        Quando <intention>preencho</intention> os <aspect>dados errados</aspect> o <entity>dinheiro</entity> da <entity>TED</entity> é <intention>devolvido</intention>?
+    </question>
+    <question type="direta">
+        Onde <intention>visualizo</intention> o <entity>extrato</entity> do meu <entity>Cartão Pré-Pago</entity>?
+    </question>
+    <question type="direta">
+        Quem pode <intention>abrir</intention> uma <entity>Disputa</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Encerrei</aspect> uma <entity>disputa</entity>. Ela pode ser <intention>reaberta</intention>?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido de transferência</entity> foi <aspect>cancelado</aspect>. E agora?
+    </question>
+    <question type="direta">
+        Consigo <intention>fazer</intention> uma <entity>transferência</entity> e <intention>recuperar</intention> o <entity>saldo</entity> <aspect>negativo</aspect>?
+    </question>
+    <question type="direta">
+        Consigo <intention>fazer</intention> uma <entity>transferência</entity> e <intention>recuperar</intention> o <entity>saldo negativo</entity>?
+    </question>
+    <question type="direta">
+        Consigo <intention>fazer</intention> uma <entity>transferência</entity> e <intention>recuperar</intention> o <entity>saldo negativo</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Não paguei</aspect> o <entity>Empréstimo PagBank</entity> e <entity>minha Conta</entity> foi <aspect>bloqueada</aspect>. E agora?
+    </question>
+    <question type="direta">
+        Os <aspect>dados</aspect> do <entity>cartão de crédito</entity> do meu <entity>cliente</entity> ficam <aspect>armazenados</aspect> no meu <entity>celular</entity> ou <entity>tablet</entity>?
+    </question>
+    <question type="direta">
+        O <entity>sistema de compra</entity> pela <entity>internet</entity> é <aspect>seguro</aspect>?
+    </question>
+    <question type="direta">
+        <entity>Vendas</entity> por <entity>celular</entity> ou <entity>tablet</entity> são <aspect>seguras</aspect>?
+    </question>
+    <question type="direta">
+        O <entity>PagSeguro</entity> tem alguma <aspect>regra de uso</aspect>?
+    </question>
+    <question type="direta">
+        Onde <intention>visualizo</intention> o <aspect>extrato</aspect> do meu <entity>Cartão Pré-Pago</entity>?
+    </question>
+    <question type="direta">
+        Quem pode <intention>abrir</intention> uma <entity>Disputa</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Encerrei</aspect> uma <entity>disputa</entity>. Ela pode ser <intention>reaberta</intention>?
+    </question>
+    <question type="direta">
+        <aspect>Prazos</aspect> e <aspect>locais</aspect> de <entity>entrega</entity>
+    </question>
+    <question type="direta">
+        <entity>Entrega Expressa</entity> e <entity>Super Expressa</entity>
+    </question>
+    <question type="direta">
+        <entity>Frete</entity>
+    </question>
+    <question type="direta">
+        <entity>Cartão de crédito</entity> Pontofrio
+    </question>
+    <question type="direta">
+        <aspect>Termos</aspect> e <aspect>Condições</aspect> de <entity>uso</entity>
+    </question>
+    <question type="direta">
+        <intention>Comprei</intention> e me <aspect>arrependi</aspect>. E agora?
+    </question>
+    <question type="direta">
+        Fale conosco
+    </question>
+    <question type="direta">
+        <aspect>Atraso</aspect> na <entity>entrega</entity>
+    </question>
+    <question type="direta">
+        <intention>Saiba</intention> tudo sobre o <entity>Retira Fácil</entity>
+    </question>
+    <question type="direta">
+        <entity>E-mails promocionais</entity>
+    </question>
+    <question type="direta">
+        <aspect>Cupons promocionais</aspect> de <entity>sites parceiros</entity>
+    </question>
+    <question type="direta">
+        Ainda não recebi meu pedido e a <entity>data de entrega</entity> está <aspect>atrasada</aspect>
+    </question>
+    <question type="direta">
+        Soluções corporativas B2B
+    </question>
+    <question type="direta">
+        Para <intention>comprar</intention> o <entity>presente</entity> <intention>preciso</intention> me <intention>cadastrar</intention>? Como funciona o cadastro?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
+    </question>
+    <question type="direta">
+        <intention>Solicitei</intention> uma <entity>troca</entity>. Em <aspect>quanto tempo</aspect> <intention>receberei</intention> meu <entity>produto</entity>?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> foi <aspect>aprovado</aspect>?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>não foi entregue no prazo</aspect>, o que devo fazer?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> ainda <aspect>não foi enviado</aspect>, o que devo fazer?
+    </question>
+    <question type="direta">
+        Quero mais <aspect>informações</aspect> sobre o <entity>livro<entity>, como faço?
+    </question>
+    <question type="direta">
+        Não consigo <intention>encontrar</intention> um <entity>livro</entity>, o que fazer?
+    </question>
+    <question type="direta">
+        Preciso <intention>informar</intention> <entity>CPF</entity> para <intention>comprar</intention>?
+    </question>
+    <question type="direta">
+        <intention>Marquei</intention> que <intention>recebi<intention> meu <entity>pedido</entity> por <aspect>engano</aspect> o que fazer?
+    </question>
+    <question type="direta">
+        A <entity>Estante</entity> <intention>faz</intention> <entity>ações</entity> no <entity>Black Friday</entity>?
+    </question>
+    <question type="direta">
+        O <entity>livro</entity> que eu comprei veio com <aspect>defeito</aspect> de <aspect>fabricação</aspect>, o que fazer?
+    </question>
+    <question type="direta">
+        Comprando: Tenho quantos <entity>dias</entity> para <intention>pagar</intention> o <entity>boleto</entity> de uma <entity>compra</entity>?
+    </question>
+    <question type="direta">
+        Comprando: Como <intention>emito</intention> a <entity>segunda via do boleto</entity>?
+    </question>
+    <question type="direta">
+        Em <aspect>quanto tempo</aspect> o meu <entity>pagamento</entity> é <aspect>confirmado</aspect>?
+    </question>
+    <question type="direta">
+        Comprando: Tenho <aspect>quantos dias</aspect> para <intention>pagar</intention> o <aspect>boleto</aspect> de uma <entity>compra</entity>?
+    </question>
+    <question type="direta">
+        Em <aspect>quanto tempo</aspect> o meu <entity>pagamento</entity> é <aspect>confirmado<aspect>?
+    </question>
+    <question type="direta">
+        <intention>Paguei</intention> o <entity>boleto</entity>, mas meu <entity>pagamento</entity> <aspect>não foi confirmado</aspect>. O que fazer?
+    </question>
+    <question type="direta">
+        Recebi um <entity>e-mail</entity> de <aspect>problemas</aspect> no meu <entity>pagamento</entity> <aspect>com cartão</aspect>, o que eu faço?
+    </question>
+    <question type="direta">
+        <aspect>Esqueci</aspect> minha <entity>senha</entity>, como faço?
+    </question>
+    <question type="direta">
+        <intention>Comprar</intention> na <entity>Estante Virtual</entity> é <aspect>seguro</aspect>?
+    </question>
+    <question type="direta">
+        Sobre a <entity>Marisa</entity>
+    </question>
+    <question type="direta">
+        <aspect>Produtos exclusivos</aspect> para <entity>loja virtual</entity>
+    </question>
+    <question type="direta">
+        <entity>Empréstimo Saque</entity> tá na Mão
+    </question>
+    <question type="direta">
+        <entity>SAX Financeira</entity>
+    </question>
+    <question type="direta">
+        Nosso <entity>SAC</entity>
+    </question>
+    <question type="direta">
+        <entity>Trocas</entity> e <entity>Devoluções</entity>
+    </question>
+    <question type="direta">
+        <aspect>Troca</aspect> de <entity>produtos</entity>
+    </question>
+    <question type="direta">
+        <aspect>Política</aspect> de <entity>Trocas</entity> e <entity>Devoluções</entity>
+    </question>
+    <question type="direta">
+        <aspect>Formas</aspect> de <entity>Ressarcimento</entity>
+    </question>
+    <question type="direta">
+        <aspect>Quantas vezes</aspect> consigo <intention>utilizar</intention> meu <entity>vale compra Newsletter</entity>?
+    </question>
+    <question type="direta">
+        <aspect>Não recebi</aspect> meu <entity>Vale Compra Newsletter</entity>, o que fazer?
+    </question>
+    <question type="direta">
+        Se eu <intention>comprar</intention> outros <entity>produtos</entity> com um <entity>modelo de Pré-venda</entity>, como fica o <aspect>envio</aspect> do <entity>pedido</entity>?
+    </question>
+    <question type="direta">
+        Onde <intention>encontro</intention> o <aspect>número</aspect> do <entity>objeto</entity> (<entity>rastreamento</entity>) de meu <entity>pedido</entity>?
+    </question>
+    <question type="direta">
+        O <aspect>rastreamento</aspect> de minha <entity>encomenda</entity> está <aspect>incorreto</aspect>, o que fazer?
+    </question>
+    <question type="direta">
+        O <aspect>rastreamento da minha <entity>encomenda</entity> está <aspect>sem movimentação</aspect> desde o <entity>dia da postagem</entity>. O que fazer?
+    </question>
+    <question type="direta">
+        Consigo <intention>trocar</intention> o <entity>produto</entity> pelo <aspect>mesmo modelo</aspect>?
+    </question>
+    <question type="direta">
+        <aspect>Política</aspect> de <entity>Troca</entity> e <entity>Devolução</entity>
+    </question>
+    <question type="direta">
+        Se, após <intention>abrir</intention> meu <entity>formulário de troca</entity>, não <intention>receber</intention> nenhum <entity>contato da loja</entity>, o que faço?
+    </question>
+    <question type="direta">
+        Devo <intention>pagar</intention> <aspect>frete</aspect> para <entity>troca</entity>?
+    </question>
+    <question type="direta">
+        A <aspect>cor</aspect> do meu <entity>produto</entity> é <aspect>diferente</aspect> da <entity>imagem</entity> do site, devo <intention>solicitar</intention> a <entity>troca</entity>?
+    </question>
+    <question type="direta">
+        Consigo <intention>abrir</intention> meu <entity>formulário de troca</entity> pelo <entity>celular</entity>?
+    </question>
+    <question type="direta">
+        Caso <intention>receba</intention> um <aspect>modelo diferente</aspect> do que <aspect>solicitei</aspect> em meu <entity>pedido</entity>, o que devo fazer?
+    </question>
+    <question type="direta">
+        Se <intention>comprei</intention> meu <entity>produto</entity> na <aspect>promoção</aspect>, a <entity>troca</entity> será pelo <aspect>mesmo produto</aspect>, ou <aspect>valor</aspect> que eu paguei?
+    </question>
+    <question type="direta">
+        A Melissa <entity>entrega</entity> nos <entity>finais de semana e feriados</entity>?
+    </question>
+    <question type="direta">
+        O que acontece com meu <entity>pedido</entity> se a <entity>encomenda</entity> é <aspect>extraviada</aspect> ou <aspect>roubada</aspect> do carro dos <entity>Correios</entity>?
+    </question>
+    <question type="direta">
+        Minha <entity>encomenda</entity> <aspect>retornou</aspect> a central, o que fazer?
+    </question>
+    <question type="direta">
+        O <entity>rastreamento</entity> da minha <entity>encomenda</entity> <relation>está sem</relation> <aspect>movimento</aspect>. O que fazer?
+    </question>
+    <question type="direta">
+        <intention>Enviam</intention> <entity>produtos</entity> para <aspect>fora do Brasil</aspect>?
+    </question>
+    <question type="direta">
+        No caso de <intention>retirar</intention> a <entity>encomenda</entity> na agência dos <entity>Correios</entity>, eu <intention>preciso</intention> ir <aspect>pessoalmente</aspect>?
+    </question>
+    <question type="direta">
+        Após meu <entity>pedido</entity> ser <aspect>finalizado</aspect> (<aspect>pendente</aspect>), quanto <entity>tempo<entity> leva para ser <aspect>enviado</aspect> e eu <aspect>receber</aspect> a <entity>encomenda</entity>?
+    </question>
+    <question type="direta">
+        Quando minha <entity>encomenda</entity> pode ficar <aspect>aguardando</aspect> retirada na agência dos <entity>correios</entity>?
+    </question>
+    <question type="direta">
+        Meus <entity>dados pessoais</entity> serão <aspect>compartilhados</aspect>?
+    </question>
+    <question type="direta">
+        <intention>Comprar</intention> no <entity>site</entity> é <aspect>seguro</aspect>?
+    </question>
+    <question type="direta">
+        <aspect>Atraso</aspect> na <entity>entrega</entity>
+    </question>
+    <question type="direta">
+        A transportadora tentou realizar a <entity>entrega</entity>, mas não tinha <entity>ninguém</entity> para <aspect>receber</aspect>. O que faço?
+    </question>
+    <question type="direta">
+        Consta no site que o <entity>produto</entity> foi <aspect>entregue</aspect>, mas eu <aspect>não recebi</aspect>.
+    </question>
+    <question type="direta">
+        <aspect>Devolução</aspect> de <entity>valores</entity> (<aspect>ressarcimento</aspect>)
+    </question>
+    <question type="direta">
+        <relation>Não recebi</relation> <aspect>todos os itens</aspect> do meu <entity>pedido</entity>. O que eu faço?
+    </question>
+    <question type="direta">
+        Tudo o que você precisa <intention>saber</intention> sobre a <entity>Black Friday</entity>
+    </question>
+    <question type="direta">
+        <intention>Saiba</intention> mais sobre a <entity>Black Friday</entity>
+    </question>
+    <question type="direta">
+        <aspect>Quantos itens<aspect> do <entity>mesmo produto</entity> eu posso <intention>comprar</intention>?
+    </question>
+    <question type="direta">
+        <intention>Comprei</intention> um <entity>produto</entity> e me <aspect>arrependi</aspect>. O que fazer?
+    </question>
+    <question type="direta">
+        <intention>Esqueci</intention> minha <entity>senha</entity>. O que faço?
+    </question>
+    <question type="direta">
+        <intention>Esqueci</intention> meu <entity>e-mail<entity>. E agora?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>não consta</aspect> no <entity>site</entity>, o que faço?
+    </question>
+    <question type="direta">
+        Estou com <aspect>dificuldades</aspect> em <intention>comprar</intention>, o que fazer?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>não consta</aspect> no <entity>site</entity>, o que faço?
+    </question>
+    <question type="direta">
+        A transportadora tentou realizar a <entity>entrega</entity> do meu <entity>pedido</entity>, mas não tinha <aspect>ninguém para receber</aspect>. O que faço?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> teve um <aspect>insucesso de entrega</aspect> e <intention>retornou</intention> ao <entity>Centro de Distribuição</entity>. O que faço?
+    </question>
+    <question type="direta">
+        Recebi o <entity>pedido</entity> <aspect>incompleto</aspect> (<aspect>faltando</aspect> <entity>brinde</entity>, <entity>peça</entity> ou <entity>acessório</entity>). Como devo proceder?
+    </question>
+    <question type="direta">
+        Comprei vários <entity>produtos</entity>. Eles <intention>serão</intention> <aspect>entregues</aspect> todos <aspect>juntos</aspect>?
+    </question>
+    <question type="direta">
+        O <entity>produto</entity> que recebi é <aspect>diferente</aspect> do comprado. O que faço?
+    </question>
+    <question type="direta">
+        A transportadora informou que <aspect>não consegue</aspect> <intention>localizar</intention> meu <entity>endereço</entity>. E agora?
+    </question>
+    <question type="direta">
+        Minha <entity>entrega</entity> está <aspect>retida na fiscalização</aspect>. O que aconteceu?
+    </question>
+    <question type="direta">
+        Meu <entity>produto</entity> chegou <aspect>faltando acessórios</aspect>. O que devo fazer?
+    </question>
+    <question type="direta">
+        Recebi um <entity>produto</entity> com <aspect>defeito</aspect>. O que devo fazer?
+    </question>
+    <question type="direta">
+        Comprei um <entity>produto</entity> e me <aspect>arrependi</aspect>. O que faço?
+    </question>
+    <question type="direta">
+        A <entity>coleta</entity> do meu produto está <aspect>atrasada</aspect>. O que faço?
+    </question>
+    <question type="direta">
+        A <entity>transportadora</entity> tentou realizar a <entity>coleta</entity> do <entity>produto</entity>, mas não tinha <entity>ninguém</entity> no <entity>endereço</entity>. Eles tentarão nova coleta?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> ainda está em <aspect>análise</aspect>. O que fazer?
+    </question>
+    <question type="direta">
+        Recebi um <entity>e-mail</entity> falando que meu <entity>pedido</entity> foi <aspect>cancelado</aspect> por falta de <aspect>confirmação de dados</aspect>, O que aconteceu?
+    </question>
+    <question type="direta">
+        Minha <entity>compra</entity> foi <aspect>cancelada</aspect>, mas <aspect>paguei</aspect>. O que devo fazer?
+    </question>
+    <question type="direta">
+        <aspect>Quando</aspect> e <aspect>onde</aspect> os <entity>presentes</entity> serão <aspect>entregues</aspect>?
+    </question>
+    <question type="direta">
+        Solicitei uma <entity>troca<entity>. Em <aspect>quanto tempo</aspect> <intention>receberei</intention> meu <entity>produto</entity>?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> <aspect>não foi entregue no prazo</aspect>, o que devo fazer?
+    </question>
+    <question type="direta">
+        Meu <entity>pedido</entity> ainda <aspect>não foi enviado</aspect>, o que devo fazer?
+    </question>
+</questions>

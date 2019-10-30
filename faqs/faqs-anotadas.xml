@@ -1047,13 +1047,13 @@
         <type_id>Quais</type_id> são as <aspect>opções de frete</aspect> para <entity>produtos marketplace</entity>?
     </question>
     <question type="o_que">
-        <type_id>O que é<type_id> o <entity>Retira Fácil</entity>?
+        <type_id>O que é</type_id> o <entity>Retira Fácil</entity>?
     </question>
     <question type="como">
-        <type_id>Como<type_id> <intention>funciona</intention> o <entity>Retira Fácil</entity>?
+        <type_id>Como</type_id> <intention>funciona</intention> o <entity>Retira Fácil</entity>?
     </question>
     <question type="como">
-        <type_id>Como<type_id> <intention>funciona</intention> o <entity>Frete Garantido Amanhã</entity>?
+        <type_id>Como</type_id> <intention>funciona</intention> o <entity>Frete Garantido Amanhã</entity>?
     </question>
     <question type="o_que">
         <type_id>O que é</type_id> o <entity>Frete Hoje</entity>?
@@ -1104,7 +1104,7 @@
         <type_id>Como</type_id> faço para <intention>solicitar</intention> uma <entity>troca</entity>?
     </question>
     <question type="qual">
-        <type_id>Quais<type_id> são as <aspect>opções de reembolso</aspect> para uma <entity>devolução<entity>?
+        <type_id>Quais</type_id> são as <aspect>opções de reembolso</aspect> para uma <entity>devolução</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para <intention>utilizar</intention> um <entity>vale-troca</entity>?
@@ -1227,7 +1227,7 @@
         <type_id>Como</type_id> <intention>atualizo</intention> meus <entity>dados cadastrais</entity>?
     </question>
     <question type="como">
-        Sei minha <entity>senha<entity>, mas quero <intention>alterá-la</intention>. <type_id>Como</type_id> faço?
+        Sei minha <entity>senha</entity>, mas quero <intention>alterá-la</intention>. <type_id>Como</type_id> faço?
     </question>
     <question type="como">
         <intention>Troquei</intention> de <entity>e-mail</entity>. <type_id>Como</type_id> devo proceder?
@@ -1269,7 +1269,7 @@
         <type_id>Como</type_id> <intention>funciona</intention> a <entity>cobrança de frete</entity>?
     </question>
     <question type="posso">
-        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>endereço de entrega<entity>?
+        <type_id>Posso</type_id> <intention>alterar</intention> meu <entity>endereço de entrega</entity>?
     </question>
     <question type="direta">
         Ainda não recebi meu pedido e a <entity>data de entrega</entity> está <aspect>atrasada</aspect>
@@ -1332,7 +1332,7 @@
         <type_id>Posso</type_id> <intention>pagar</intention> meu <entity>pedido</entity> no <aspect>boleto</aspect> e no <aspect>cartão</aspect>?
     </question>
     <question type="o_que">
-        Fiz o <entity>pagamento<entity> com <entity>dois cartões</entity> e um foi <aspect>reprovado<aspect>. <type_id>O que</type_id> acontece?
+        Fiz o <entity>pagamento</entity> com <entity>dois cartões</entity> e um foi <aspect>reprovado</aspect>. <type_id>O que</type_id> acontece?
     </question>
     <question type="como">
         Não consigo <intention>usar</intention> meu <entity>vale troca</entity>. O que faço?
@@ -1413,7 +1413,7 @@
         <type_id>Posso</type_id> <intention>retirar</intention> os <entity>presentes</entity> que ganhei pela <entity>Lista de Casamento</entity> nas <entity>lojas físicas</entity> da RicardoEletro.com?
     </question>
     <question type="como">
-        Quero <intention>receber</intention> meus <entity>convitinhos</entity>. <type_id>Como<type_id> faço?
+        Quero <intention>receber</intention> meus <entity>convitinhos</entity>. <type_id>Como</type_id> faço?
     </question>
     <question type="como">
         <type_id>Como</type_id> <intention>saberei</intention> que fui <aspect>presenteado</aspect>?
@@ -1538,7 +1538,7 @@
         <type_id>Como</type_id> <intention>criar</intention> uma <entity>lista de desejos</entity> com meus <entity>livros favoritos</entity>?
     </question>
     <question type="como">
-        <intention>Cadastrei</intention> um <entity>livro</entity> no <entity>"Encontre para mim"</entity>, <type_id>como<type_id> vou <intention>saber<intention> se o <entity>livro</entity> está <aspect>disponível</aspect>?
+        <intention>Cadastrei</intention> um <entity>livro</entity> no <entity>"Encontre para mim"</entity>, <type_id>como</type_id> vou <intention>saber<intention> se o <entity>livro</entity> está <aspect>disponível</aspect>?
     </question>
     <question type="direta">
         A <entity>Estante</entity> <intention>faz</intention> <entity>ações</entity> no <entity>Black Friday</entity>?
@@ -1622,7 +1622,7 @@
         <type_id>Qual</type_id> a <aspect>diferença</aspect> entre as <entity>formas de envio</entity>?
     </question>
     <question type="qual">
-        <type_id>Quais<type_id> as <aspect>regiões</aspect> de <entity>entrega</entity>?
+        <type_id>Quais</type_id> as <aspect>regiões</aspect> de <entity>entrega</entity>?
     </question>
     <question type="posso">
         <type_id>É possível</type_id> <intention>comprar</intention> no <entity>site</entity> e <intention>retirar</intention> na <entity>loja física</entity>?
@@ -1682,13 +1682,13 @@
         <type_id>Como</type_id> <intention>conseguir</intention> a <aspect>2ª via</aspect> da <entity>fatura</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual<type_id> é minha <aspect>melhor</aspect> <entity>data de compra</entity>?
+        <type_id>Qual</type_id> é minha <aspect>melhor</aspect> <entity>data de compra</entity>?
     </question>
     <question type="qual">
-        <type_id>Quais<type_id> os <aspect>contatos</aspect> e <aspect>horários</aspect> da <entity>Central de Atendimento</entity>?
+        <type_id>Quais</type_id> os <aspect>contatos</aspect> e <aspect>horários</aspect> da <entity>Central de Atendimento</entity>?
     </question>
     <question type="qual">
-        <type_id>Qual<type_id> o <aspect>prazo para recebimento</aspect> de novo <entity>cartão</entity>, <entity>2ª via</entity> ou <entity>cartão adicional</entity>?
+        <type_id>Qual</type_id> o <aspect>prazo para recebimento</aspect> de novo <entity>cartão</entity>, <entity>2ª via</entity> ou <entity>cartão adicional</entity>?
     </question>
     <question type="direta">
         Sobre a <entity>Marisa</entity>
@@ -1700,7 +1700,7 @@
         <aspect>Produtos exclusivos</aspect> para <entity>loja virtual</entity>
     </question>
     <question type="qual">
-        <type_id>Qual<type_id> o <aspect>telefone de contato</aspect> da <entity>Loja Física</entity>?
+        <type_id>Qual</type_id> o <aspect>telefone de contato</aspect> da <entity>Loja Física</entity>?
     </question>
     <question type="como">
         <type_id>Como</type_id> faço para <intention>trabalhar</intention> na <entity>Marisa</entity>?
@@ -2006,6 +2006,6 @@
         Meu <entity>pedido</entity> ainda <aspect>não foi enviado</aspect>, o que devo fazer?
     </question>
     <question type="posso">
-        Fiz <entity>compras</entity> via <entity>boleto</entity> em <aspect>mais</aspect> de um <entity>vendedor</entity>, se um deles <aspect>não tiver</aspect> o <entity>livro</entity> posso <intention>emitir<intention> um <entity>novo boleto<entity>?
+        Fiz <entity>compras</entity> via <entity>boleto</entity> em <aspect>mais</aspect> de um <entity>vendedor</entity>, se um deles <aspect>não tiver</aspect> o <entity>livro</entity> posso <intention>emitir</intention> um <entity>novo boleto<entity>?
     </question>
 </questions>

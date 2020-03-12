@@ -1,0 +1,8 @@
+V                                                             364
+N                                                             45
+PCP                                                           5
+ADJ                                                           3
+V N                                                           1
+V PROADJ N                                                    1
+NPROP                                                         1
+ADV V V                                                       1

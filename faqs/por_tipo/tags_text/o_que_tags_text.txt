@@ -1,0 +1,80 @@
+*NPROP*                                                     *PicPay*
+*NPROP*                                                     *KOIN*
+V PROSUB *N* *PCP*                                          significa cada *status* *pedido*
+*NPROP*                                                     *NuConta*
+*NPROP*                                                     *Nubank*
+*V NPROP*                                                   *Conta PJ*
+*N N ADJ PU NPROP*                                          *Nota Fiscal Eletrônica – NF-e*
+*NPROP* ADV-KS N *N* *N N*                                  *DANFE* onde localizo *numero* *Chave Acesso*
+*NPROP*                                                     *PAR-Q*
+*N*                                                         *freepass*
+*N ADJ*                                                     *manutenção anual*
+*N N*                                                       *taxa adesão*
+PROPESS V *N* *PCP* V *V*                                   Eu tenho *cobranças* *aberto*  devo *fazer*
+*ADV ADV* *V* *N* *V*                                       *Não consigo* *acessar* *conta* *fazer*
+V N N N N                                                   significa "*Cadastro Vendedores*"
+V *V N* ADV V *N* V *N* *V*                                 Tenho *conta Vendedor* não gostaria *nome* aparecesse *clientes* *fazer*
+*N ADJ*                                                     *e-mail adicional*
+ADV ADV *V* *N* *V*                                         Não consigo *acessar* *conta* *fazer*
+*NPROP NPROP*                                               *Cartão Conta*
+V *N N*                                                     fazer *Transferência Contato*
+V *N ADJ* *N PCP* V *V*                                     Fiz *recarga celular* *número errado* devo *fazer*
+PROPESS *N* ADV ADV V *ADJ* V *V*                           O *empréstimo* ainda não está *disponível* posso *fazer*
+PREP *N* *N* *N* V *PCP* N                                  A *solicitação* *portabilidade* *salário* foi *reprovada* acontece*
+V *N* V *N ADJ*                                             faço *salário* está *valor incorreto*
+*NPROP NPROP PU NPROP NPROP PU*                             *Aponte Pag (QR Code)*
+*N NPROP*                                                   *Transferência TED*
+*N NPROP*                                                   *aplicativo PagBank*
+*N V*                                                       *Verificação Conta*
+N PCP V NPROP                                               saldo bloqueado Conta Pagseguro
+*N NPROP NPROP NPROP PREP NPROP* V                          *"Código Segurança" via SMS* serve
+*NPROP NPROP*                                               *Celular Seguro*
+*N N*                                                       *SMS Token*
+*N*                                                         *Disputa*
+*N*                                                         *Moderação*
+ADV ADV *V* *N* *N* N                                       Não consigo *entrar* *acordo* *vendedor* faç*
+*N N*                                                       *grupo testes*
+*NPROP*                                                     *TestFlight*
+*N V*                                                       *Verificação Conta*
+*N PCP* *N NPROP*                                           *saldo bloqueado* *Conta Pagseguro*
+*N NPROP NPROP NPROP PREP NPROP* V                          *"Código Segurança" via SMS* serve
+*NPROP NPROP*                                               *Celular Seguro*
+*N N*                                                       *SMS Token*
+*ADV V* V *N N* *V* *N* V *V*                               *Não estou* recebendo *SMS Token* *realizar* *transação* devo *fazer*
+*N N*                                                       *Token Voz*
+V *N N*                                                     são *notificações sistema*
+*N*                                                         *phishing*
+*N N ADJ PU NPROP PU* PROSUB V                              *Nota Fiscal Eletrônica (NF-e)* quê serve
+*N*                                                         *Contestação*
+*V* V *N* *N* PCP *N N*                                     *fazer* há *contestação* *venda* feita *Leitor Crédito*
+*N*                                                         *Moderação*
+*ADV ADV* *V* N *N* N                                       *Não consigo* *entrar* acordo *vendedor* faç*
+*N*                                                         *Disputa*
+*NPROP NPROP*                                               *Caso Jurídico*
+V *NPROP NPROP PU NPROP PU PU*                              significa *Aviso Recebimento (A.R.)*
+PROSUB *N* ADV V *PCP* V *V*                                Meu *produto/serviço* não foi *entregue* posso *fazer*
+*N*                                                         *marketplace*
+_ PROPESS N *V ADJ*                                         _ O é_ *Retira Fácil*
+*N ADV*                                                     *Frete Hoje*
+V *PCP N*                                                   significa *pedido análise*
+V *N ADJ ADJ*                                               é *nota fiscal eletrônica*
+V *NPROP*                                                   é *DANFE*
+V *NPROP NPROP NPROP*                                       é *Nota Fiscal Paulista*
+V *N N ADJ*                                                 é *Nota Fiscal Eletrônica*
+V *NPROP*                                                   é *Danfe*
+V *N N* *V*                                                 é *cupom desconto* *utilizar*
+V *N* *NUM N* V *PCP* N                                     Fiz *pagamento* *dois cartões* foi *reprovado* acontec*
+V *N PCP*                                                   é *Garantia Estendida*
+V *N PREP N N*                                              é *proteção contra roubo furto*
+V *N* PU *N N*                                              é *Marketplace* / *Vendedor parceiro*
+V *N N* V                                                   é *Lista Casamento* funciona
+V *N V*                                                     é *compra expressa*
+V *N ADJ*                                                   é *capa ilustrativa*
+*V* N *N* *PCP*                                             *verificar* ato *entrega* *pedido*
+V *NPROP*                                                   é *Marisa.com.br*
+PROSUB *PCP* V *N PCP N* V                                  Meu *pedido* está *status Recebido Pré-venda*  significa
+V *N N* *N*                                                 significa *tag Pré-venda* *produtos*
+V *N N* *N PCP PCP* N                                       significa *botão TROCA* *lado dados pedido* site
+V N *N* *N ADJ N ADJ*                                       significa informação *rastreamento* *Áreas restrição entrega domiciliar*
+V N *PREP N NPROP NPROP* N N                                significa status *Em Análise Posto Fiscal* envio Transportadora
+V N *N PREP N NPROP NPROP*                                  significam status *rastreamento via transportadora -Total Express*

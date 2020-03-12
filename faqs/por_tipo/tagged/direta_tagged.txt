@@ -1,0 +1,176 @@
+Solicitei/V *envio/N* *pedido/PCP* *Transportadora/N* porque/KS foi/V *despachado/PCP* *Correios/N*
+*Comprei/V* *KOIN/NPROP* recebo/V *boleto/N* *pagar/V* compra/N
+Preciso/ADJ *fazer/V* *cadastro/N* *Koin/NPROP* antes/ADV *finalizar/V* *compra/N*
+Se/KS *pedido/PCP* *finalizei/N* milhas/N for/V *cancelado/PCP* acontece/V *milhas/N*
+Preciso/ADJ *cadastrar/V* *Milhagem/NPROP Melissa/NPROP*
+Meu/PROSUB *pedido/PCP* *finalizado/PCP* *milhas/N* gera/V *milhas/N*
+*Quantos/PROADJ pontos/N* custam/V cada/PROSUB *produto/N*
+Quando/KS *pontos/N* ficarão/V *disponíveis/ADJ* *usar/V*
+*Minhas/PROADJ milhas/N* têm/V *prazo/N validade/PCP*
+Caso/N *mude/V* *e-mail/N* perco/V *pontos/N*
+Se/KS não/ADV *utilizar/V* todo/PROSUB valor/N *Vale/NPROP Compra/NPROP* *pedido/PCP* poderei/V *utilizar/V* código/N valor/N restante/ADJ
+Meu/PROSUB *cupom/N frete/N grátis/ADJ* é/V *válido/ADJ* *tipo/N envio/N*
+*Adicionar/V* *produto/N* carrinho/N garante/V *reserva/N* *produto/N* *finalização/N* *pedido/PCP*
+Para/PREP *finalizar/V* *pedido/PCP* tenho/V ser/V *cadastrada/PCP* *Loja/N Melissa/NPROP*
+*Pedido/N* *pago/PCP* não/ADV recebi/V *e-mail/N*
+Se/KS *produto/N* vier/V *saquinho/N* *Melissa/NPROP* posso/V *receber/V*
+O/PROPESS *produto/N* recebi/V *não/ADV é/V* Solicitei/V *pedido/PCP* faço/V
+Caso/N *produto/N* fique/V *indisponível/ADJ* quais/PRO-KS opções/N loja/N oferece/V
+*Meus/PROADJ dados/N* estão/V *segurança/N*
+Para/PREP *serve/V* *SAC/N*
+Vou/V precisar/V passar/V algum/PROSUB tipo/N *análise/N*
+*Não/ADV* nenhuma/PROADJ *tarifa/N*
+A/PREP *NuConta/NPROP* é/V *conta/N corrente/ADJ* *conta/V poupança/N*
+Para/PREP é/V *cartão/N Nubank/NPROP*
+Se/KS *pedido/PCP* for/V *aprovado/PCP* *cartão/N* receberei/V
+Quem/PRO-KS emite/V *Cartão/NPROP Nubank/NPROP*
+Qualquer/PROADJ *compra/N* pode/V ser/V *apagada/PCP*
+Estou/V *saldo/N disponível/ADJ* *assinar/V* *programa*E/N agor/N*
+A/PREP *Conta/V PJ/NPROP* alguma/PROADJ *tarifa/N*
+Quem/PRO-KS pode/V *participar/V* testes/N *Conta/V PJ/NPROP*
+Quem/PRO-KS realiza/V *montagem/N* *Produto/N*
+Há/V *cobrança/N* *serviço/N Montagem/NPROP*
+Quando/KS *Montador/N* é/V acionado/PCP *montar/V* *produto/N*
+Na/PREP+ART *primeira/ADJ visita*/N :/PU devo/V leva/V*
+É/V *obrigatório/ADJ*
+Quando/KS tenho/V *renovar/V*
+Que/KS tipo/N *atestado/PCP* é/V necessário/ADJ
+Tem/V lugar/N *tomar/V* *banho/N*
+O/PROPESS *professor/N* *acompanha/V* treino/N
+*Abre/V* *finais/ADJ semana/N*
+*Abre/V* *feriados/N*
+Quem/PRO-KS pode/V *solicitar/V* *freepass/N*
+Quando/KS será/V *cobrado/PCP* *plano/N Black/NPROP*
+Quando/KS será/V *cobrado/PCP* *plano/N Smart/NPROP*
+Quando/KS devo/V *solicitar/V* *cancelamento/N*
+Quando/KS devo/V *solicitar/V* *cancelamento/N -/PU RJ/NPROP*
+*Parei/V* ir/V *academia/N* estão/V *cobrando/V*
+*Cancelei/NPROP* ainda/ADV veio/V *cobrança/N*
+Tenho/V *pagar/V* nova/ADJ *taxa/N adesão/N*
+Onde/ADV posso/V *contratar/V*
+Eu/PROPESS preciso/ADJ *agendar/V* *treino/N*
+Tenho/V *trocar/V* *treino/N* *professor/N*
+Para/PREP *usar/V* *serviços/N* preciso/ADJ *cadastrar/V* *PagSeguro/NPROP*
+Tenho/V *assinar/V* *UOL/NPROP* *usar/V* *PagSeguro/NPROP*
+Preciso/ADJ ser/V *Pessoa/NPROP Jurídica/NPROP* *vender/V* *Moderninha/NPROP*
+O/PROPESS *nome/N* *recebedor/N* aparece/V *identificação/N* *boleto/N*
+Consigo/PREP+PROPESS *imprimir/V* *comprovante/N* *conta/N paga/PCP* Aplicativo/N *PagBank/NPROP*
+Após/PREP *recarga/N* *valor/N* é/V *bloqueado/PCP* *retirado/PCP Conta/N*
+Quando/KS recebo/V *dinheiro/N* *Empréstimo/NPROP PagBank/NPROP* *Solicitei/V*
+Onde/ADV posso/V *usar/V* *QR/N Code/N*
+Quando/KS *preencho/N* *dados/N errados/PCP* *dinheiro/N* *TED/NPROP* é/V *devolvido/PCP*
+Onde/ADV *visualizo/N* *extrato/N* *Cartão/N Pré-Pago/N*
+Quem/PRO-KS pode/V *abrir/V* *Disputa/N*
+*Encerrei/NPROP* *disputa*Ela/NPROP pode/V ser/V *reaberta/N*
+Meu/PROSUB *pedido/PCP transferência/N* foi/V *cancelado*E/N agor/N*
+Consigo/PREP+PROPESS *fazer/V* *transferência/N* *recuperar/V* *saldo/N* *negativo/ADJ*
+Consigo/PREP+PROPESS *fazer/V* *transferência/N* *recuperar/V* *saldo/N negativo/ADJ*
+Consigo/PREP+PROPESS *fazer/V* *transferência/N* *recuperar/V* *saldo/N negativo/ADJ*
+*Não/ADV paguei/V* *Empréstimo/NPROP PagBank/NPROP* *Conta/V* foi/V *bloqueada*E/N agor/N*
+Os/PROSUB *dados/N* *cartão/N crédito/N* *cliente/N* ficam/V *armazenados/PCP* *celular/ADJ* *tablet/N*
+O/PROPESS *sistema/N compra/V* *internet/N* é/V *seguro/N*
+*Vendas/N* *celular/ADJ* *tablet/N* são/V *seguras/ADJ*
+O/PROPESS *PagSeguro/NPROP* alguma/PROADJ *regra/N uso/N*
+Onde/ADV *visualizo/N* *extrato/N* *Cartão/N Pré-Pago/N*
+Quem/PRO-KS pode/V *abrir/V* *Disputa/N*
+*Encerrei/NPROP* *disputa*Ela/NPROP pode/V ser/V *reaberta/N*
+*Prazos/N* *locais/N* *entrega/N*
+*Entrega/N Expressa/V* *Super/NPROP Expressa/NPROP*
+*Frete/N*
+*Cartão/N crédito/N* Pontofrio/N
+*Termos/N* *Condições/N* *uso/N*
+*Comprei/V* *arrependi*E/N agor/N*
+Fale/V conosco/ADV
+*Atraso/N* *entrega/N*
+*Saiba/V* tudo/PROSUB sobre/PREP *Retira/V Fácil/ADJ*
+*E-mails/N promocionais/ADJ*
+*Cupons/N promocionais/ADJ* *sites/N parceiros/ADJ*
+Ainda/ADV não/ADV recebi/V pedido/PCP *data/N entrega/N* está/V *atrasada/PCP*
+Soluções/N corporativas/ADJ B2B/N
+Para/PREP *comprar/V* *presente/ADJ* *preciso/ADJ* *cadastrar/V* Como/ADV funciona/V cadastro/N
+Meu/PROSUB *pedido/PCP* foi/V *aprovado/PCP*
+*Solicitei/V* *troca*Em/ADV *quanto/ADV tempo/ADV* *receberei/V* *produto/N*
+Meu/PROSUB *pedido/PCP* foi/V *aprovado/PCP*
+Meu/PROSUB *pedido/PCP* *não/ADV foi/V entregue/PCP prazo/N* devo/V fazer/V
+Meu/PROSUB *pedido/PCP* ainda/ADV *não/ADV foi/V enviado/PCP* devo/V fazer/V
+Quero/V *informações/N* sobre/PREP *livro/N* faço/V
+Não/ADV consigo/ADV *encontrar/V* *livro/N* fazer/V
+Preciso/ADJ *informar/V* *CPF/N* *comprar/V*
+*Marquei/V* *recebi/V* *pedido/PCP* *engano/N* fazer/V
+A/PREP *Estante/N* *faz/V* *ações/N* *Black/N Friday/NPROP*
+O/PROPESS *livro/N* comprei/V veio/V *defeito/N* *fabricação/N* fazer/V
+Comprando/V :/PU Tenho/V quantos/PROSUB *dias/N* *pagar/V* *boleto/N* *compra/N*
+Comprando/V :/PU Como/ADV *emito/N* *segunda/N via/PREP boleto/N*
+Em/PREP *quanto/PROADJ tempo/N* *pagamento/N* é/V *confirmado/PCP*
+Comprando/V :/PU Tenho/V *quantos/PROADJ dias/N* *pagar/V* *boleto/N* *compra/N*
+Em/PREP *quanto/PROADJ tempo/N* *pagamento/N* é/V *confirmado/PCP*
+*Paguei/V* *boleto/N* *pagamento/N* *não/ADV foi/V confirmado*O/NPROP faze/V*
+Recebi/V *e-mail/N* *problemas/N* *pagamento/N* *cartão/N* faço/V
+*Esqueci/V* *senha/N* faço/V
+*Comprar/V* *Estante/N Virtual/ADJ* é/V *seguro/N*
+Sobre/PREP *Marisa/NPROP*
+*Produtos/N exclusivos/ADJ* *loja/N virtual/ADJ*
+*Empréstimo/N Saque/N* tá/V Mão/N
+*SAX/NPROP Financeira/NPROP*
+Nosso/PROADJ *SAC/N*
+*Trocas/N* *Devoluções/N*
+*Troca/N* *produtos/N*
+*Política/N* *Trocas/N* *Devoluções/N*
+*Formas/N* *Ressarcimento/N*
+*Quantas/PROADJ vezes/N* consigo/ADV *utilizar/V* *vale/V compra/N Newsletter/NPROP*
+*Não/ADV recebi/V* *Vale/NPROP Compra/NPROP Newsletter/NPROP* fazer/V
+Se/KS *comprar/V* outros/PROSUB *produtos/N* *modelo/N Pré-venda/N* fica/V *envio/N* *pedido/PCP*
+Onde/ADV *encontro/N* *número/N* *objeto/N* (/PU *rastreamento*/N )/PU *pedido/PCP*
+O/PROPESS *rastreamento/N* *encomenda/N* está/V *incorreto/ADJ* fazer/V
+O/PROPESS *rastreamento/N *encomenda/PCP* está/V *movimentação/N* desde/PREP *dia/N postagem*O/NPROP faze/V*
+Consigo/PREP+PROPESS *trocar/V* *produto/N* *modelo/N*
+*Política/N* *Troca/N* *Devolução/N*
+Se/KS após/PREP *abrir/V* *formulário/N troca/V* não/ADV *receber/V* nenhum/PROADJ *contato/N loja/N* faço/V
+Devo/V *pagar/V* *frete/N* *troca/N*
+A/PREP *cor/N* *produto/N* é/V *diferente/ADJ* *imagem/N* site/N devo/V *solicitar/V* *troca/N*
+Consigo/PREP+PROPESS *abrir/V* *formulário/N troca/V* *celular/ADJ*
+Caso/N *receba/V* *modelo/N diferente/ADJ* *solicitei/V* *pedido/PCP* devo/V fazer/V
+Se/KS *comprei/V* *produto/N* *promoção/N* *troca/N* será/V *produto/N* *valor/N* paguei/V
+A/PREP Melissa/NPROP *entrega/N* *finais/ADJ semana/N feriados/N*
+O/PROPESS acontece/V *pedido/PCP* *encomenda/N* é/V *extraviada/PCP* *roubada/PCP* carro/N *Correios/N*
+Minha/PROSUB *encomenda/N* *retornou/V* central/ADJ fazer/V
+O/PROPESS *rastreamento/N* *encomenda/N* *está/V* *movimento*O/NPROP faze/V*
+*Enviam/V* *produtos/N* *fora/ADV Brasil/NPROP*
+No/PREP+ART caso/N *retirar/V* *encomenda/N* agência/N *Correios/N* *preciso/ADJ* ir/V *pessoalmente/ADV*
+Após/PREP *pedido/PCP* ser/V *finalizado/PCP* (/PU *pendente*/N )/PU quanto/ADV *tempo/N* leva/V ser/V *enviado/PCP* *receber/V* *encomenda/N*
+Quando/KS *encomenda/N* pode/V ficar/V *aguardando/V* retirada/PCP agência/N *correios/N*
+Meus/PROSUB *dados/N pessoais/ADJ* serão/V *compartilhados/PCP*
+*Comprar/V* *site/N* é/V *seguro/N*
+*Atraso/N* *entrega/N*
+A/PREP transportadora/N tentou/V realizar/V *entrega/N* não/ADV tinha/V *ninguém/PROSUB* *receber*O/N faç/N*
+Consta/V site/N *produto/N* foi/V *entregue/PCP* *não/ADV recebi*/V*
+*Devolução/N* *valores/N* (/PU *ressarcimento*/N )/PU
+*Não/ADV recebi/V* *todos/PROADJ itens/N* *pedido*O/N faç/N*
+Tudo/PROSUB precisa/V *saber/V* sobre/PREP *Black/N Friday/NPROP*
+*Saiba/V* sobre/PREP *Black/N Friday/NPROP*
+*Quantos/PROADJ itens/N* *produto/N* posso/V *comprar/V*
+*Comprei/V* *produto/N* *arrependi*O/NPROP faze/V*
+*Esqueci/V* *senha*O/N faç/N*
+*Esqueci/V* *e-mail*E/N agor/N*
+Meu/PROSUB *pedido/PCP* *não/ADV consta/V* *site/N* faço/V
+Estou/V *dificuldades/N* *comprar/V* fazer/V
+Meu/PROSUB *pedido/PCP* *não/ADV consta/V* *site/N* faço/V
+A/PREP transportadora/N tentou/V realizar/V *entrega/N* *pedido/PCP* não/ADV tinha/V *ninguém/PROSUB receber*O/NPROP faç/N*
+Meu/PROSUB *pedido/PCP* teve/V *insucesso/N entrega/V* *retornou/V* *Centro/N Distribuição*O/N faç/N*
+Recebi/V *pedido/PCP* *incompleto/ADJ* (/PU *faltando*/N *brinde/N* *peça/N* *acessório*/N )/PU Como/KS devo/PROPESS procede/V*
+Comprei/V vários/PROADJ *produtos*Eles/N *serão/N* *entregues/PCP* todos/PROSUB *juntos/ADJ*
+O/PROPESS *produto/N* recebi/V é/V *diferente/ADJ* compradoO/NPROP faço/V
+A/PREP transportadora/N informou/V *não/ADV consegue/V* *localizar/V* *endereço*E/N agor/N*
+Minha/PROSUB *entrega/N* está/V *retida/PCP fiscalização*O/NPROP acontece/V*
+Meu/PROSUB *produto/N* chegou/V *faltando/V acessórios*O/NPROP devo/V faze/V*
+Recebi/V *produto/N* *defeito*O/NPROP devo/V faze/V*
+Comprei/V *produto/N* *arrependi*O/N faç/N*
+A/PREP *coleta/N* produto/N está/V *atrasada*O/N faç/N*
+A/PREP *transportadora/N* tentou/V realizar/V *coleta/N* *produto/N* não/ADV tinha/V *ninguém/PROSUB* *endereço*Eles/NPROP tentarão/V nova/ADJ colet/N*
+Meu/PROSUB *pedido/PCP* ainda/ADV está/V *análise*O/NPROP faze/V*
+Recebi/V *e-mail/N* falando/V *pedido/PCP* foi/V *cancelado/PCP* falta/N *confirmação/N dados/PCP* O/PROPESS aconteceu/V
+Minha/PROSUB *compra/N* foi/V *cancelada/PCP* *paguei*O/NPROP devo/V faze/V*
+*Quando/KS* *onde/ADV-KS* *presentes/N* serão/V *entregues/PCP*
+Solicitei/V *troca*Em/ADV *quanto/ADV tempo/ADV* *receberei/V* *produto/N*
+Meu/PROSUB *pedido/PCP* *não/ADV foi/V entregue/PCP prazo/N* devo/V fazer/V
+Meu/PROSUB *pedido/PCP* ainda/ADV *não/ADV foi/V enviado/PCP* devo/V fazer/V

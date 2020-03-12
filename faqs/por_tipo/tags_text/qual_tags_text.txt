@@ -1,0 +1,74 @@
+*N N* ADJ                                                   *formas pagamento* disponíveis
+*N N* PREP *N PCP* *NPROP*                                  *prazo aprovação* após *compra finalizada* *PicPAy*
+N N ADJ *V* PCP *N*                                         pontuação mínima preciso *fechar* pedido *Milhas*
+N V *N* *N NPROP*                                           vantagem ter *cadastro* *Loja Melissa*
+V *N* *NPROP NPROP*                                         são *tarifas* *Cartão Nubank*
+N *NPROP* *V NPROP*                                         diferença *NuConta* *Conta PJ*
+*N ADJ* *N*                                                 *idade mínima* *matrícula*
+*N* V *V*                                                   *cadeado* devo *usar*
+V *N N*                                                     são *horários funcionamento*
+*N* *V*                                                     *unidades* *participam*
+*N* *N ADJ*                                                 *valor* *manutenção anual*
+*N* *N N*                                                   *valor* *taxa adesão*
+*N N*                                                       *data cobrança*
+V *N N*                                                     são *formas pagamento*
+N *N N*                                                     opções *data cobrança*
+N V *V*                                                     cadeado devo *usar*
+*N* *N ADJ* *N* *NPROP*                                     *diferença* *contas Pessoal* *Vendedor* *Empresarial*
+V *N* *N*                                                   são *prazos* *transferências*
+V *N N ADJ* *PCP* *N* *NPROP*                               são *tipos contas bancárias* *aceitas* *transferências* *PagSeguro*
+*N ADJ* *NPROP NPROP*                                       *horário limite* *Pagamento Contas*
+V *N PCP* *NPROP NPROP*                                     é *validade proposta* *Empréstimo PagBank*
+*N* *V* *N N*                                               *prazo* *fazer* *portabilidade salário*
+*N* V V *N N* *PCP*                                         *cuidados* devo ter *QR Code* *impresso*
+*N* *N* *N ADJ*                                             *diferença* *Transferência* *Transferência Instantânea*
+PREP *N* V *V* *NPROP*                                      Para  *instituições* posso *fazer* *TED*
+*N ADJ* V *PCP* *NPROP*                                     *contas bancárias* são *aceitas* *PagSeguro*
+*N* *N* *NPROP* *N*                                         *diferença* *encomenda* *PAC* *SEDEX*
+*N* *N* V *PCP*                                             *prazo* *pagamento* seja *compensado*
+V N *N ADJ* *PCP* *N* *NPROP*                               são tipos *contas bancárias* *aceitas* *transferências* *PagSeguro*
+V *N* *PCP* *V* *V NPROP NPROP*                             são *documentos* *aceitos* *verificar* *conta Pessoa Física*
+V *N* *PCP* *V* *V NPROP NPROP*                             são *documentos* *aceitos* *verificar* *conta Pessoa Jurídica*
+*N* V *N* *N ADJ*                                           *prazo* constar *depósito* *conta bancária*
+*N* V *PCP* *V* *N* *N* *N*                                 *documentos* são *aceitos* *comprovar* *entrega* *produto* *serviço*
+*N* N *NPROP* *N*                                           *diferença* encomenda *PAC* *SEDEX*
+V *N* *N* PREP *NPROP*                                      são *status* *pagamento* via *PagSeguro*
+N *V* *NPROP* *V*                                           vantagens *usar* *PagSeguro* *comprar*
+N *N* *N ADJ*                                               prazo *compensação* *boleto bancário*
+N *N* V *PCP*                                               prazo *pagamento* seja *compensado*
+V *N* V *N NPROP*                                           são *dicas* comprar *Black Friday*
+V *N ADJ* *ADJ*                                             são *tipos frete* *disponíveis*
+V *N N* *N N*                                               são *opções frete* *produtos marketplace*
+V *N ADJ*                                                   são *condições frete*
+V *N V* *PCP*                                               é *prazo entrega* *pedido*
+V *N N* PCP N                                               são *formas pagamento* aceitas site
+V *N V* *N ADJ*                                             é *prazo vencimento* *boleto bancário*
+V *N* *N N*                                                 é *prazo* *confirmação pagamento*
+_ N V *N N* *N*                                             _ Quais_ são *opções reembolso* *devolução*
+*N N* *ADJ*                                                 *formas pagamento* *disponíveis*
+*N N* *PCP*                                                 *prazo aprovação* *pedido*
+*N N* ADJ *N NPROP NPROP*                                   *formas pagamento* disponíveis *compras Black Friday*
+V *N V* *N*                                                 são *prazos entrega* *site*
+*N* *N N ADJ*                                               *prazo* *emissão nota fiscal*
+*N N* *N*                                                   *prazo resolução* *troca*
+*N N* V V                                                   *formas pagamento* posso utilizar
+*N N* *N*                                                   *prazo utilização* *vale-troca*
+*N N* *PCP*                                                 *prazo aprovação* *pedido*
+V *N* *N N* NPROP                                           são *vantagens* *Lista Casamento* RicardoEletro.com
+V *N N*                                                     são *formas pagamento*
+*N* *V* *N* *N* *N*                                         *prazo* *solicitar* *cancelamento* *troca* *devolução*
+*N N* PCP *N*                                               *formas pagamento* aceitas *site*
+V *N V*                                                     é *prazo entrega*
+*N* *N N*                                                   *diferença* *formas envio*
+_ N *N* *N*                                                 _ Quais_ *regiões* *entrega*
+_ N V *ADV* *N N*                                           _ Qual_ é *melhor* *data compra*
+_ N *N* *N* *N N*                                           _ Quais_ *contatos* *horários* *Central Atendimento*
+_ N *N V* ADJ *N* *ADJ PREP* *N ADJ*                        _ Qual_ *prazo recebimento* novo *cartão* *2ª via* *cartão adicional*
+_ N *N N* *NPROP NPROP*                                     _ Qual_ *telefone contato* *Loja Física*
+*N* *N* *N ADJ*                                             *prazo* *troca* *loja física*
+KS V *V* *N* *PCP NPROP NPROP* V *N* *V V*                  Se precisar *trocar* *produto* *adquirido Black Friday*  será *valor* *vale compra*
+*N* *N* N PCP *N NPROP*                                     *prazo* *entrega* compras feitas *Black Friday*
+*N* *V* *N* *N* *V* *N*                                     *momento* *recebo* *número* *objeto* *acompanhar* *rastreamento*
+*N* V *V* *N*                                               *prazo* tenho *solicitar* *troca*
+*N* *N* *N* *PCP*                                           *prazo* *solicitação* *cancelamento* *pedido*
+*N* V *V* *N*                                               *tempo* leva *receber* *produtos*

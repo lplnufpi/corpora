@@ -1,0 +1,233 @@
+_ Como/ADV _ *pagar/V* *cartão/N crédito/N*
+_ Como/ADV _ *pagar/V* *boleto/N bancário/ADJ*
+Quero/V *usar/V* *boleto/N* *não/ADV tenho/V* *impressora/N* _ como/PREP _ devo/V proceder/V
+_ Como/ADV _ *funciona/V* *cancelamento/N* após/PREP *pagamento/N aprovado/PCP* *PicPay/NPROP*
+_ Como/ADV _ *comprar/V* *PicPAY/NPROP*
+_ Como/ADV _ *comprar/V* *KOIN/NPROP*
+Recebi/V *pedido/PCP* *adquiri/V* através/ADV *forma/V pagamento/N* *KOIN/NPROP* faço/V agora/ADV
+_ Como/ADV _ funciona/V *pagamento/N* *Paypal/N*
+_ Como/ADV _ faço/V *finalizar/V* pedido/PCP *milhas/N*
+_ Como/ADV _ faço/V *ver/V quantos/PROADJ pontos/N* tenho/V
+_ Como/ADV _ *Utilizar/V* *Vale/NPROP Compra/NPROP*
+_ Como/ADV _ *fazer/V* *pedido/PCP*
+_ Como/ADV _ sei/V *pedido/PCP* foi/V *realizado/PCP*
+_ Como/ADV _ posso/V *acompanhar/V* andamento/N *pedido/PCP*
+_ Como/ADV _ fico/V sabendo/V *pedido/PCP* foi/V *aprovado/PCP*
+_ Como/ADV _ faço/V *alterar/V* dados/N cadastrais/ADJ
+_ Como/ADV _ faço/V *cadastro/N* *Loja/N Melissa/NPROP*
+_ Como/ADV _ posso/V entrar/V *contato/N* *Loja/NPROP Melissa.com/NPROP*
+_ Como/ADV _ faço/V ter/V *cartão/N* *função/N débito/N*
+_ Como/ADV _ funciona/V *lista/N espera/V* *Cartão/NPROP Nubank/NPROP*
+_ Como/ADV _ *assino/V* *Nubank/NPROP Rewards/NPROP*
+_ Como/ADV _ *Nubank/NPROP* *ganha/V dinheiro/N* não/ADV cobra/V *tarifas/N*
+_ Como/ADV _ faço/V *participar/V* teste/N *Conta/V PJ/NPROP*
+_ Como/ADV _ Funciona/V *Fluxo/N Montagem/N*
+_ Como/ADV _ *solicito/V* *segunda/N via/N* *Nota/N fiscal/ADJ* *prazo/N* recebimento/N documento/N
+_ Como/ADV _ *acesso/N* site/N *SEFAZ/NPROP* *imprimir/V* *nota/N fiscal/ADJ eletrônica/ADJ*
+_ Como/ADV _ *solicito/V* *XML/N* *Nota/N Fiscal/N Eletrônica/ADJ*
+_ Como/ADV _ *fazer/V* *exame/N médico/ADJ*
+_ Como/ADV _ *usar/V* *armários/N*
+_ Como/ADV _ *cancelar/V* *plano/N Smart/NPROP*
+_ Como/ADV _ *cancelar/V* *plano/N Black/NPROP*
+_ Como/ADV _ *pagar/V*
+_ Como/ADV _ *contratar/V* novo/ADJ *plano/N*
+_ Como/ADV _ *trocar/V* *treino/N*
+_ Como/ADV _ *mudar/V* *plano/N Smart/NPROP* *plano/N Black/NPROP*
+_ Como/ADV _ faço/V *falar/V* *PagSeguro/NPROP*
+_ Como/ADV _ *altero/N* *dados/N* *PagSeguro/NPROP*
+_ Como/ADV _ *encerrar/V* *conta/N* *PagSeguro/NPROP*
+_ Como/ADV _ *ativo/ADJ* *conta/N* *PagSeguro/NPROP*
+_ Como/ADV _ *ativo/ADJ* *conta/N* *PagSeguro/NPROP*
+_ Como/ADV _ *cadastro/N* *PagSeguro/NPROP*
+Meu/PROSUB *e-mail/N* consta/V *cadastrado/PCP* *PagSeguro*_/NPROP Como/NPROP _/NPROP devo/V *proceder/N*
+Tenho/V *conta/N Pessoal/N* tenho/V interesse/N *vender/V* *PagSeguro*_/NPROP Como/NPROP _/NPROP devo/NPROP procede/V*
+_ Como/ADV _ vejo/V *limite/N* *conta/N* *PagSeguro/NPROP*
+_ Como/ADV _ *altero/N* *dados/N* *PagSeguro/NPROP*
+_ Como/ADV _ *alterar/V* *senha/N* *PagSeguro/NPROP*
+Esqueci/V *senha*_/N Como/KS _/N faço/V *recuperar/N*
+_ Como/ADV _ *encerrar/V* *conta/V PagSeguro/NPROP*
+_ Como/ADV _ *desbloquear/V* *receber/V* *senha/N* *Cartão/NPROP Conta/NPROP*
+_ Como/ADV _ faço/V *transferir/V* *saldo/N* *conta/N bancária/ADJ*
+_ Como/ADV _ *cadastrar/V* *nova/ADJ* *conta/N bancária/ADJ*
+_ Como/ADV _ *recarrego/N* *Cartão/N Pré-Pago/N*
+_ Como/ADV _ *pagar/V* *conta/N* usando/V Aplicativo/N *PagSeguro/NPROP PagBank/NPROP*
+_ Como/ADV _ *validar/V* *Token/N* Aplicativo/N *PagBank/NPROP*
+_ Como/ADV _ faço/V *recarga/N celular/ADJ*
+_ Como/ADV _ escolho/V outro/PROSUB *valor/N recarga/N* *celular/ADJ*
+_ Como/ADV _ *funciona/V* *Empréstimo/NPROP PagBank/NPROP*
+_ Como/ADV _ faço/V *pagamento/N* *Empréstimo/NPROP PagBank/NPROP*
+_ Como/ADV _ *troco/N* *salário/N* recebo/V *PagSeguro/NPROP* outra/PROSUB *instituição/N financeira/ADJ*
+_ Como/ADV _ *vendo/V* *QR/N Code/N*
+_ Como/ADV _ faço/V *comprar/V* *Aponte/NPROP Pag/NPROP (/PU QR/NPROP Code/NPROP )/PU*
+_ Como/ADV _ *cancelar/V* *TED/NPROP*
+_ Como/ADV _ vejo/V *saldo/N* *Cartão/N Pré-Pago/N* *Aplicativo/N PagBank/NPROP*
+_ Como/ADV _ *consulto/N* *extrato/N* *Cartão/N Pré-Pago/N* *Aplicativo/N PagBank/NPROP*
+_ Como/ADV _ *recuperar/V* *senha/N* *Cartão/N* *Aplicativo/N PagSeguro/NPROP PagBank/NPROP*
+_ Como/ADV _ faço/V *venda/N* *boleto/N*
+_ Como/ADV _ *verificar/V* *conta/N bancária/ADJ*
+*Não/ADV tenho/V* *conta/V bancária*_/N Como/PREP _/N *verifico/N* *conta/V PagSeguro/NPROP*
+_ Como/ADV _ faço/V *cadastro/N* *alteração/N* *Celular/NPROP Seguro/NPROP*
+_ Como/ADV _ *visualizo/N* *relatórios/N vendas/N* *Minha/PROADJ Minizinha/NPROP* *aplicativo/N PagSeguro/NPROP Vendas/NPROP*
+_ Como/ADV _ *imprimir/V* *fechamento/N caixa/N* *Moderninha/N Pro/N*
+_ Como/ADV _ *extrair/V* *relatório/N vendas/N*
+_ Como/ADV _ *consulto/N* *dinheiro/N* está/V *disponível/ADJ* *Conta/V PagSeguro/NPROP*
+_ Como/ADV _ faço/V *estorno/N*
+_ Como/ADV _ *rastrear/V* envio/N *produto/N* *serviço/N* *comprei/V* *Pagseguro/NPROP*
+_ Como/ADV _ *cancelar/V* *compra/N*
+_ Como/ADV _ faço/V *testar/V* novos/ADJ *produtos/N* *PagSeguro/NPROP*
+_ Como/ADV _ faço/V *fazer/V* parte/N *grupo/N testes/N*
+_ Como/ADV _ faço/V *instalar/V* aplicativo/N *PagSeguro/NPROP Vendas/NPROP Beta/NPROP* *iOS/NPROP*
+_ Como/ADV _ *recarrego/N* *Cartão/N Pré-Pago/N*
+_ Como/ADV _ faço/V *transferir/V* *saldo/N* *conta/N bancária/ADJ*
+_ Como/ADV _ *cadastrar/V* *nova/ADJ* *conta/N bancária/ADJ*
+_ Como/ADV _ *excluir/V* *conta/N bancária/ADJ* *Conta/V* *PagSeguro/NPROP*
+_ Como/ADV _ *habilito/N* *transferência/N automática/ADJ* *Cartão/N Pré-Pago/N*
+_ Como/ADV _ faço/V *transferência/N* *contas/N PagSeguro/NPROP*
+_ Como/ADV _ *depositar/V* *dinheiro/N* *Conta/V PagBank/NPROP*
+_ Como/ADV _ faço/V *pagamento/N* *Empréstimo/NPROP PagBank/NPROP*
+_ Como/ADV _ *solicito/V* *2ª/ADJ via/PREP boleto/N* *Empréstimo/NPROP PagBank/NPROP*
+_ Como/ADV _ *quitar/V* *Empréstimo/NPROP PagBank/NPROP*
+_ Como/ADV _ *verificar/V* *conta/N bancária/ADJ*
+*Não/ADV tenho/V* *conta/V bancária*_/N Como/PREP _/N *verifico/N* *conta/V PagSeguro/NPROP*
+_ Como/ADV _ *informar/V* *valores/N depositados/PCP* *conta/N bancária/ADJ*
+_ Como/ADV _ faço/V *cadastro/N* *alteração/N* *Celular/NPROP Seguro/NPROP*
+_ Como/ADV _ *identificar/V* *e-mail/N* não/ADV foi/V *enviado/PCP* *PagSeguro/NPROP*
+_ Como/ADV _ *visualizo/N* *relatórios/N vendas/N* *Minha/PROADJ Minizinha/NPROP* *aplicativo/N PagSeguro/NPROP Vendas/NPROP*
+_ Como/ADV _ *imprimir/V* *fechamento/N caixa/N* *Moderninha/N Pro/N*
+_ Como/ADV _ *extrair/V* *relatório/N vendas/N*
+_ Como/ADV _ *consulto/N* *dinheiro/N* está/V *disponível/ADJ* *Conta/V PagSeguro/NPROP*
+_ Como/ADV _ *exporto/N* *vendas/N* *conta/V PagSeguro/NPROP*
+_ Como/ADV _ *gerar/V* *Nota/NPROP Fiscal/NPROP Devolução/NPROP* troca/N
+_ Como/ADV _ faço/V *inserir/V* *comprovantes/N* *contestação/N*
+_ Como/ADV _ *adiciono/N* *comprovante/N* *Disputa/N*
+_ Como/ADV _ *abrir/V* *Disputa/N*
+_ Como/ADV _ *encerro/V* *Disputa/N*
+O/PROPESS *comprador/N* *abriu/V* *Disputa*_/NPROP Como/NPROP _/NPROP devo/NPROP procede/V*
+_ Como/ADV _ faço/V *inserir/V* *comprovantes/N* *Caso/NPROP Jurídico/NPROP*
+_ Como/ADV _ *rastrear/V* *envio/N* *produto/N* *serviço/N* *comprei/V* *Pagseguro/NPROP*
+_ Como/ADV _ *acompanho/V* *status/N* *pagamento/N*
+Meu/PROSUB *pagamento/N* *depósito/N conta/V* foi/V *estornado/PCP* _ Como/ADV _ devo/V proceder/V
+_ Como/ADV _ faço/V *estorno/N*
+_ Como/ADV _ *confirmo/V* *compra/N* está/V *cancelada/PCP*
+_ Como/ADV _ faço/V *saber/V* *e-mail/N cadastro/N*
+_ Como/ADV _ faço/V *recuperar/V* *senha/N*
+_ Como/ADV _ faço/V *realizar/V* *pedido/PCP*
+_ Como/ADV _ faço/V *achar/V* *produto/N* quero/V
+_ Como/ADV _ *encontro/N* *produto/N*
+_ Como/ADV _ faço/V *alterar/V* *endereço/N entrega/V*
+_ Como/ADV _ *recuperar/V* *código/N vale-troca/ADJ*
+_ Como/ADV _ faço/V *utilizar/V* *vales/N cupons/ADJ*
+_ Como/ADV _ é/V *feita/PCP* *entrega/V produtos/N*
+_ Como_/NPROP *funciona/V* *Retira/V Fácil/ADJ*
+_ Como/ADV _ *funciona/V* *Frete/N Garantido/PCP Amanhã/ADV*
+_ Como/ADV _ posso/V *acompanhar/V* *entrega/N* pedido/PCP
+_ Como/ADV _ *funcionam/V* *embalagens/N presentes/ADJ*
+_ Como/ADV _ faço/V *cadastrar/V* *cartão/N crédito/N*
+_ Como/ADV _ faço/V *comprar/V* *cartão/N débito/N*
+_ Como/ADV _ faço/V *imprimir/V* *segunda/N via/PREP boleto/N*
+_ Como/ADV _ faço/V *cancelar/V* *compra/N*
+_ Como/ADV _ faço/V *solicitar/V* *devolução/N*
+_ Como/ADV _ faço/V *solicitar/V* *troca/N*
+_ Como/ADV _ faço/V *utilizar/V* *vale-troca/N*
+_ Como/ADV _ faço/V *acompanhar/V* *entrega/N*
+_ Como/ADV _ *agendar/V* *entrega/N*
+_ Como/ADV _ *altero/N* *endereço/N*
+_ Como/ADV _ é/V feita/PCP *entrega/N*
+_ Como/ADV _ faço/V *saber/V* *pedido/PCP* foi/V *aprovado/PCP*
+_ Como/ADV _ *imprimir/V* *2ª/ADJ via/PREP Boleto/NPROP Bancário/NPROP*
+_ Como/ADV _ é/V *feita/PCP* *troca/V produtos/N lojistas/N*
+_ Como/ADV _ faço/V *trocar/V* *produto/N*
+_ Como/ADV _ *solicitar/V* *2ª/ADJ via/PREP Nota/NPROP Fiscal/NPROP Eletrônica/NPROP (/PU NF-e/NPROP )/PU*
+_ Como/ADV _ *solicitar/V* *carta/N correção/N* *Nota/NPROP Fiscal/NPROP*
+_ Como/ADV _ *alterar/V* *cadastro/N*
+_ Como/ADV _ *recuperar/V* *senha/N* *e-mail/N*
+_ Como/ADV _ *alterar/V* *cadastro/N*
+_ Como/ADV _ é/V feita/PCP *troca/N* *produtos/N lojistas/N*
+_ Como/ADV _ faço/V *saber/V* *pedido/PCP* foi/V *aprovado/PCP*
+_ Como/ADV _ *solicitar/V* *2ª/ADJ via/PREP Nota/NPROP Fiscal/NPROP Eletrônica/NPROP (/PU NF-e/NPROP )/PU*
+_ Como/ADV _ faço/V *cancelar/V* *entrega/N*
+_ Como/ADV _ *recuperar/V* *senha/N* *e-mail/N*
+_ Como/ADV _ *cadastrar/V* *site/N*
+_ Como/ADV _ *atualizo/N* *dados/N cadastrais/ADJ*
+Sei/V *senha/N* quero/V *alterá-la*_/N Como/PREP _/N faç/N*
+*Troquei/V* *e-mail*_/N Como/NPROP _/NPROP devo/NPROP procede/V*
+_ Como/ADV _ *comprar/V*
+_ Como/ADV _ *cadastrar/V* *site/N*
+_ Como/ADV _ *consultar/V* *pedidos/N site/N*
+*Não/ADV quero/V receber/V* *e-mails/N promocionais*_/ADJ Como/PREP _/N faç/N*
+_ Como/ADV _ *acompanho/V* *entrega/N*
+_ Como/ADV _ *funciona/V* *cobrança/N frete/ADJ*
+_ Como/ADV _ *solicitar/V* *segunda/N via/PREP nota/N fiscal/ADJ* pedido/PCP
+Fiz/V compra/N estou/V arrependido/PCP (/PU a/N )/PU _/N Como/ADV _ faço/V *cancelar/V* *entrega/N*
+_ Como/ADV _ faço/V *trocar/V* *produto/N*
+_ Como/ADV _ faço/V *devolução/N* *produto/N*
+_ Como/ADV _ faço/V *utilizar/V* *vale/V troca/V*
+_ Como/ADV _ *imprimir/V* *2ª/ADJ via/PREP Boleto/NPROP Bancário/NPROP*
+_ Como/ADV _ *saber/V* *pedido/PCP* foi/V *aprovado/PCP*
+Não/ADV consegui/V *imprimir/V* *boleto/N* é/V necessário/ADJ fazer/V
+Não/ADV consigo/ADV *usar/V* *vale/V troca*O/NPROP faç/N*
+Fiz/V *compra/N* *vale-troca/N* *cartão/N* cartão/N foi/V *reprovado*_/N Como/KS _/N procede/V*
+Fiz/V *compra/N* *vale-trocas/N* *boleto/N* *esqueci/V* *pagar/V* boleto_/N Como/ADV _ proceder/V
+Fiz/V *pagamento/N* *boleto/N* *duplicidade*_/N Como/KS _/N procede/V*
+_ Como/ADV _ *adquirir/V* *seguro/ADJ Garantia/NPROP Estendida/NPROP*
+_ Como/ADV _ *obter/V* *2ª/ADJ via/PREP bilhete/N seguro/ADJ Garantia/NPROP Estendida/NPROP*
+_ Como/ADV _ *adquirir/V* *seguro/N contra/PREP roubo/N furto/N*
+_ Como/ADV _ *obter/V* *2ª/ADJ via/PREP apólice/N seguro/ADJ contra/PREP roubo/N furto/N*
+_ Como/ADV _ *funciona/V* *montagem/N móveis/ADJ*
+_ Como/ADV _ *funciona/V* *cobrança/N frete/ADJ*
+_ Como/ADV _ *identificar/V* *produto/N oferecido/PCP Vendedor/N parceiro/N //PU Marketplace/N*
+_ Como/ADV _ *acompanhar/V* *compra/N feita/PCP parceiro/N Marketplace/NPROP*
+_ Como/ADV _ faço/V *cadastrar/V* *Lista/N Casamento/N* Existe/V algum/PROSUB *custo/N*
+_ Como/ADV _ faço/V *divulgar/V* *Lista/N Casamento/N*
+_ Como/ADV _ faço/V *adicionar/V* *produtos/N* *Lista/N Casamento/N*
+_ Como/ADV _ *alterar/V* *dados/N* E/KC *dados/PCP casamento/N*
+_ Como/ADV _ *cadastrar/V* *novo/ADJ endereço/N*
+_ Como/ADV _ faço/V *receber/V* *presentes/N*
+Quero/V *receber/V* *convitinhos*_/N Como_/N faç/N*
+_ Como/ADV _ *saberei/V* fui/V *presenteado/PCP*
+_ Como/ADV _ *realizar/V* *trocas/N* *devoluções/N*
+_ Como/ADV _ *funciona/V* *bônus/N 5/NUM %/N*
+_ Como/ADV _ *encontrar/V* *lista/N presentes/ADJ*
+_ Como/ADV _ *escolher/V* *comprar/V* *presente/ADJ*
+_ Como/ADV _ *saberei/V* *noivos/N* *receberam/V* *presente/ADJ*
+_ Como/ADV _ *acompanhar/V* *pedido/PCP*
+_ Como/ADV _ *comprar/V* *Estante/N Virtual/ADJ*
+_ Como/ADV _ *acompanhar/V* *pedido/PCP*
+_ Como/ADV _ *comprar/V* *Estante/N Virtual/ADJ*
+_ Como/ADV _ *saber/V* *livro/N* está/V *disponível/ADJ*
+_ Como/ADV _ *buscar/V* *livro/N*
+_ Como/ADV _ *saber/V* *estado/N conservação/ADJ* *livro/N*
+_ Como/ADV _ *retirar/V* *livros/N* *carrinho/N*
+_ Como/ADV _ *avaliar/V* *fazer/V* *reclamação/N* sobre/PREP *vendedor/N*
+_ Como/ADV _ *criar/V* *lista/N desejos/N* *livros/N favoritos/ADJ*
+*Cadastrei/NPROP* *livro/N* *``/N Encontre/V mim/PROPESS ''/PU* _ como_/N vou/V *saber/V* *livro/N* está/V *disponível/ADJ*
+_ Como/ADV _ *trocar/V* *livro/N*
+_ Como/ADV _ *cancelar/V* *trocar/V* *devolver/V* *compra/N*
+_ Como/ADV _ faço/V *imprimir/V* *boleto/N*
+Comprando/V :/PU _ Como/ADV _ *emito/N* *segunda/N via/PREP boleto/N*
+_ Como/ADV _ faço/V *imprimir/V* *boleto/N*
+Preciso/ADJ *comprovante/N* *compra/N* _ como/PREP _ *receber/V*
+_ Como/ADV _ *frete/N* é/V *calculado/PCP*
+Não/ADV quero/V *receber/V* *emails/N* *promocionais/ADJ* _ como/PREP _ *descadastro/N*
+Sou/V *comprador/N* _ como/PREP _ *altero/N* *dados/N cadastrais/ADJ*
+Sou/V comprador/N :/PU _ Como/ADV _ *altero/N* *endereço/N* *entrega/N*
+_ Como/ADV _ *sair/V* *deslogar/V* *conta/N*
+_ Como/ADV _ *excluir/V* *cadastro/N*
+Eu/PROPESS tenho/V *garantia/N* *compra/N* _ Como/ADV _ funciona/V
+_ Como/ADV _ *falar/V* *Vendedor/N*
+Sou/V comprador/N :/PU _ Como/ADV _ *falar/V* *Estante/N Virtual/ADJ*
+_ Como/ADV _ *enviar/V* *currículo/N*
+_ Como/ADV _ *proceder/V* caso/N *perda/N* *roubo/N* *Cartão/N*
+_ Como/ADV _ *fazer/V* *alterações/N* *dados/N*
+_ Como/ADV _ *realizar/V* *pagamento/N* *fatura/V*
+_ Como/ADV _ *conseguir/V* *2ª/ADJ via/PREP* *fatura/V*
+_ Como/ADV _ faço/V *trabalhar/V* *Marisa/NPROP*
+Quero/V *trocar/V* produto/N _ como/PREP _ proceder/V
+_ Como/ADV _ funciona/V *cancelamento/N* *antes/ADV envio/N* *pedido/PCP*
+_ Como/ADV _ funciona/V *alteração/N* *pedido/PCP* *antes/ADV envio/N*
+_ Como/ADV _ faço/V *utilizar/V* *Vale/NPROP Compra/NPROP* *Newsletter/N*
+_ Como/ADV _ *funciona/V* *cadastro/N* *Newsletter/N*
+_ Como/ADV _ *solicito/V* *troca/N* *produto/N* ganhei/V *presente/ADJ*
+_ Como/ADV _ *receberei/V* *Vale/NPROP Compra/NPROP*
+_ Como/ADV _ proceder/V *trocar/V* *produto/N*
+_ Como/ADV _ devo/V *embalar/V* *produto/N* enviar/V *troca/N*

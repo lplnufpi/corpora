@@ -1,0 +1,385 @@
+ADJ --- ativo
+ADJ --- diferente
+ADJ --- diferente
+ADJ --- disponíveis
+ADJ --- disponíveis
+ADJ --- disponíveis
+ADJ --- disponível
+ADJ --- disponível
+ADJ --- disponível
+ADJ --- disponível
+ADJ --- disponível
+ADJ --- incompleto
+ADJ --- incorreto
+ADJ --- indisponível
+ADJ --- juntos
+ADJ --- negativo
+ADJ --- nova
+ADJ --- nova
+ADJ --- obrigatório
+ADJ --- pendente
+ADJ --- preciso
+ADJ --- presente
+ADJ --- promocionais
+ADJ --- seguras
+ADJ --- válido
+ADJ N --- vale-trocas boleto
+ADJ PREP --- 2ª via
+ADJ PREP N --- 2ª via boleto
+ADV --- mais
+ADV --- melhor
+ADV --- pessoalmente
+ADV ADV --- Não consigo
+ADV ADV --- Não consigo
+ADV N --- antes envio
+ADV N --- antes envio
+ADV NPROP --- fora Brasil
+ADV V --- Não estou
+ADV V --- Não paguei
+ADV V --- Não recebi
+ADV V --- Não tem
+ADV V --- Não tenho
+ADV V --- Não tenho
+ADV V --- não consegue
+ADV V --- não consta
+ADV V --- não consta
+ADV V --- não recebi
+ADV V --- não tenho
+ADV V --- não tiver
+ADV V PCP --- não foi confirmado
+ADV V PCP --- não foi enviado
+ADV V PCP --- não foi enviado
+ADV V PCP N --- não foi entregue prazo
+ADV V PCP N --- não foi entregue prazo
+ADV V PDEN --- não é mesmo
+ADV-KS --- onde
+KS --- Quando
+N --- Atraso
+N --- Atraso
+N --- Condições
+N --- Devolução
+N --- Formas
+N --- Política
+N --- Política
+N --- Prazos
+N --- Termos
+N --- Token
+N --- Troca
+N --- XML
+N --- acordo
+N --- alterações
+N --- análise
+N --- benefícios
+N --- boleto
+N --- boleto
+N --- boleto
+N --- cadastro
+N --- cadastro
+N --- cadastro
+N --- cartão
+N --- cartão
+N --- cobrança
+N --- cobrança
+N --- coletivo
+N --- compensação
+N --- comprador
+N --- comprovante
+N --- contato
+N --- contatos
+N --- cor
+N --- custo
+N --- dados
+N --- dados
+N --- dados
+N --- defeito
+N --- defeito
+N --- dicas
+N --- diferença
+N --- diferença
+N --- diferença
+N --- diferença
+N --- diferença
+N --- dificuldades
+N --- dinheiro
+N --- duplicidade
+N --- endereço
+N --- endereço
+N --- engano
+N --- entrega
+N --- envio
+N --- envio
+N --- extrato
+N --- extrato
+N --- fabricação
+N --- fechamento
+N --- finalização
+N --- finalizei
+N --- formato
+N --- formato
+N --- frete
+N --- garantia
+N --- ginástica
+N --- horários
+N --- identificação
+N --- informações
+N --- limite
+N --- limite
+N --- livros
+N --- locais
+N --- luta
+N --- montagem
+N --- movimento
+N --- multa
+N --- multa
+N --- nome
+N --- nome
+N --- numero
+N --- número
+N --- número
+N --- pagamento
+N --- pagamento
+N --- perda
+N --- portabilidade
+N --- portabilidade
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazo
+N --- prazos
+N --- problemas
+N --- produtos
+N --- professor
+N --- promoção
+N --- rastreamento
+N --- rastreamento
+N --- rastreamento
+N --- reclamação
+N --- regiões
+N --- reserva
+N --- ressarcimento
+N --- risco
+N --- roubo
+N --- saldo
+N --- saldo
+N --- saldo
+N --- segurança
+N --- seguro
+N --- seguro
+N --- seguro
+N --- senha
+N --- senha
+N --- status
+N --- status
+N --- status
+N --- tarifa
+N --- tarifas
+N --- tarifas
+N --- transação
+N --- troca
+N --- troca
+N --- turno
+N --- vale-troca
+N --- valor
+N --- valor
+N --- valor
+N --- valor
+N --- valor
+N --- valor
+N --- valor
+N --- vantagens
+N --- vencimento
+N ADJ --- Cupons promocionais
+N ADJ --- Produtos exclusivos
+N ADJ --- atendimento telefônico
+N ADJ --- conta corrente
+N ADJ --- data específica
+N ADJ --- estado conservação
+N ADJ --- horário limite
+N ADJ --- idade mínima
+N ADJ --- modelo diferente
+N ADJ --- pacote presente
+N ADJ --- saldo disponível
+N ADJ --- valor incorreto
+N ADJ N ADJ --- Áreas restrição entrega domiciliar
+N N --- carta correção
+N N --- fechamento caixa
+N N --- forma envio
+N N --- formas pagamento
+N N --- formas pagamento
+N N --- função débito
+N N --- opções frete
+N N --- opções reembolso
+N N --- prazo aprovação
+N N --- prazo aprovação
+N N --- prazo aprovação
+N N --- prazo resolução
+N N --- prazo utilização
+N N --- regra uso
+N N --- segunda via
+N N --- serviço montagem
+N N --- tag Pré-venda
+N N --- telefone contato
+N N --- tipo envio
+N N ADJ N --- nome "limpo"
+N NPROP --- Black Friday
+N PCP --- compra finalizada
+N PCP --- confirmação dados
+N PCP --- conta paga
+N PCP --- dados errados
+N PCP --- número errado
+N PCP --- pagamento aprovado
+N PCP --- prazo validade
+N PCP --- saldo bloqueado
+N PCP --- validade proposta
+N PCP --- valores depositados
+N PCP N --- status Recebido Pré-venda
+N PCP PCP --- lado dados pedido
+N PROADJ N --- pontos outra pessoa
+N PU N PU N PU N PU V N --- rastreamento <entity>encomenda</entity> está movimentação
+N V --- insucesso entrega
+N V --- lista espera
+N V --- prazo entrega
+N V --- prazo recebimento
+N V --- prazo vencimento
+N V --- prazos entrega
+NPROP --- Cancelei
+NPROP --- Encerrei
+NPROP --- Encerrei
+NPROP NPROP --- Vale Compra
+NUM N --- dois cartões
+PCP --- aberto
+PCP --- aceitas
+PCP --- aceitas
+PCP --- aceitas
+PCP --- aceitos
+PCP --- aceitos
+PCP --- aceitos
+PCP --- adquirido
+PCP --- adquirido
+PCP --- apagada
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- aprovado
+PCP --- armazenados
+PCP --- atrasada
+PCP --- atrasada
+PCP --- bloqueada
+PCP --- bloqueado
+PCP --- cadastrada
+PCP --- cadastrado
+PCP --- calculado
+PCP --- cancelada
+PCP --- cancelada
+PCP --- cancelado
+PCP --- cancelado
+PCP --- cancelado
+PCP --- cancelado
+PCP --- cancelado
+PCP --- cobrado
+PCP --- cobrado
+PCP --- compartilhados
+PCP --- compensado
+PCP --- compensado
+PCP --- confirmado
+PCP --- confirmado
+PCP --- despachado
+PCP --- encontrado
+PCP --- entregue
+PCP --- entregue
+PCP --- entregues
+PCP --- entregues
+PCP --- enviado
+PCP --- enviado
+PCP --- estornado
+PCP --- extraviada
+PCP --- finalizado
+PCP --- finalizado
+PCP --- finalizado
+PCP --- impresso
+PCP --- pago
+PCP --- parado
+PCP --- parcelado
+PCP --- presenteado
+PCP --- realizado
+PCP --- reprovada
+PCP --- reprovado
+PCP --- reprovado
+PCP --- roubada
+PCP N --- retida fiscalização
+PCP N --- retirado Conta
+PCP NPROP --- comprados Internet
+PCP NPROP NPROP --- adquirido Black Friday
+PDEN N --- mesmo vendedor
+PREP --- sem
+PREP N --- com cartão
+PREP N --- sem saquinho
+PROADJ --- mesma
+PROADJ N --- Quantas vezes
+PROADJ N --- Quantos pontos
+PROADJ N --- mesmo modelo
+PROADJ N --- mesmo produto
+PROADJ N --- meus dados
+PROADJ N --- meus dados
+PROADJ N --- minha conta
+PROADJ N --- minha senha
+PROADJ N --- quanto tempo
+PROADJ N --- quanto tempo
+PROADJ N --- quanto tempo
+PROADJ N --- quanto tempo
+PROADJ N --- quantos dias
+PROADJ N --- todos itens
+PROSUB V --- ninguém receber
+V --- Abre
+V --- Abre
+V --- Esqueci
+V --- abriu
+V --- acompanha
+V --- adquiri
+V --- aguardando
+V --- arrependi
+V --- arrependi
+V --- arrependi
+V --- cobrando
+V --- cobrar
+V --- comprei
+V --- comprei
+V --- comprovar
+V --- concluir
+V --- esqueci
+V --- faltando
+V --- finalizar
+V --- funciona
+V --- paguei
+V --- participam
+V --- receber
+V --- receber
+V --- receberam
+V --- retornou
+V --- serve
+V --- solicitei
+V ADJ --- vale presente
+V ADV --- comprar depois
+V N --- comprei presente
+V N --- conta poupança
+V N --- faltando acessórios
+V N --- forma pagamento
+V N --- forma pagamento
+V N --- forma pagamento
+V N --- ganha dinheiro

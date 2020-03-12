@@ -1,0 +1,27 @@
+PROSUB *N* V *N* *NPROP*
+*N ADJ*
+*N*
+*N*
+*N*
+*N*
+*N*
+*N*
+*N* *N*
+*N* *N*
+*N* *N*
+*N* N
+*N ADJ*
+PREP *NPROP NPROP* V *N ADJ*
+*N* *V* *N NPROP*
+*N* *V* *N NPROP*
+*N*
+*N N*
+*N*
+*N*
+*N PU N* ADJ
+PROSUB *N* *N N*
+PREP *NPROP NPROP* *NPROP NPROP NPROP*
+*N* *N*
+*N* *N* *N*
+PROPESS *N* *V ADJ*
+PROPESS *N* *N ADJ*

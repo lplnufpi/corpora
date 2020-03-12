@@ -1,0 +1,385 @@
+despachado
+vencimento
+não tenho
+pagamento aprovado
+prazo para aprovação
+compra finalizada
+cadastro
+finalizar
+adquiri
+forma de pagamento
+pagamento
+pontos de outra pessoa
+finalizei
+cancelado
+finalizado
+Quantos pontos
+disponíveis
+prazo de validade
+cancelado
+válido
+tipo de envio
+reserva
+finalização
+realizado
+cadastrada
+status
+aprovado
+confirmado
+pago
+pacote de presente
+sem o saquinho
+não é o mesmo
+indisponível
+cadastro
+segurança
+serve
+contato
+Não tem
+função de débito
+risco
+conta corrente
+conta poupança
+cobrar
+tarifas
+aprovado
+benefícios
+lista de espera
+nome "limpo"
+aprovado
+preciso
+apagada
+saldo disponível
+ganha dinheiro
+tarifas
+tarifa
+montagem
+cobrança
+data específica
+turno
+numero
+segunda via
+prazo
+XML
+idade mínima
+obrigatório
+luta
+ginástica
+coletivo
+acompanha
+atendimento telefônico
+Abre
+Abre
+participam
+valor
+cobrado
+cobrado
+valor
+multa
+multa
+aberto
+cobrando
+Cancelei
+professor
+meus dados
+minha conta
+Não consigo
+ativo
+cadastrado
+diferença
+limite
+meus dados
+nome
+minha senha
+senha
+saldo
+nova
+prazos
+aceitas
+horário limite
+Token
+nome
+identificação
+conta paga
+número errado
+valor
+bloqueado
+retirado da Conta
+funciona
+disponível
+dinheiro
+validade da proposta
+prazo
+portabilidade
+reprovada
+portabilidade
+valor incorreto
+impresso
+diferença
+dados errados
+saldo
+extrato
+senha
+boleto
+Não tenho
+aceitas
+formato
+fechamento de caixa
+disponível
+acordo
+Encerrei
+diferença
+comprei
+prazo
+compensado
+saldo
+nova
+cancelado
+aceitas
+negativo
+2ª via de boleto
+Não paguei
+bloqueada
+Não tenho
+formato
+aprovado
+aceitos
+aceitos
+prazo
+valores depositados
+saldo bloqueado
+Não estou
+transação
+dados
+armazenados
+seguro
+seguras
+regra de uso
+enviado
+extrato
+disponível
+Não consigo
+Encerrei
+abriu
+aceitos
+comprovar
+envio
+comprei
+entregue
+diferença
+status
+status
+estornado
+cancelada
+compensação
+compensado
+parcelado
+dicas
+disponíveis
+opções de frete
+prazo de entrega
+serviço de montagem
+prazo de vencimento
+prazo
+opções de reembolso
+Prazos
+locais
+aprovado
+disponíveis
+prazo para a aprovação
+cancelado
+aprovado
+formas de pagamento
+carta de correção
+Termos
+Condições
+arrependi
+Atraso
+aprovado
+Cupons promocionais
+prazos de entrega
+atrasada
+prazo
+prazo de resolução
+prazo de utilização
+prazo para aprovação
+aprovado
+aprovado
+forma de pagamento
+dois cartões
+aprovado
+forma de pagamento
+boleto
+cartão
+reprovado
+vale-troca
+cartão
+reprovado
+vale-trocas e boleto
+esqueci
+duplicidade
+vantagens
+custo
+produtos
+presenteado
+mesma
+cobrança
+receberam
+comprei o presente
+aprovado
+quanto tempo
+aprovado
+não foi entregue no prazo
+não foi enviado
+concluir
+forma de envio
+informações
+disponível
+mesmo vendedor
+limite
+comprar depois
+engano
+estado de conservação
+livros
+reclamação
+disponível
+defeito
+fabricação
+adquirido
+quanto tempo
+confirmado
+valor
+dados
+quantos dias
+boleto
+quanto tempo
+valor
+dados
+não foi confirmado
+formas de pagamento
+problemas
+com cartão
+comprovante
+vale presente
+diferença
+regiões
+calculado
+promocionais
+comprador
+Esqueci
+endereço
+seguro
+entrega
+garantia
+perda
+roubo
+alterações
+pagamento
+2ª via
+melhor
+contatos
+horários
+prazo para recebimento
+Produtos exclusivos
+telefone de contato
+Troca
+comprados pela Internet
+Política
+Formas
+prazo
+antes do envio
+antes do envio
+adquirido na Black Friday
+valor
+prazo
+Black Friday
+Vale Compra
+cadastro
+Quantas vezes
+Não recebi
+status de Recebido Pré-venda
+tag Pré-venda
+envio
+número
+número
+rastreamento
+rastreamento
+parado
+sem
+rastreamento
+incorreto
+encontrado
+rastreamento da minha <entity>encomenda</entity> está sem movimentação
+mesmo modelo
+Política
+prazo
+adquirido
+prazo
+frete
+cor
+diferente
+troca
+presente
+lado dos dados do meu pedido
+modelo diferente
+solicitei
+promoção
+mesmo produto
+valor
+troca
+extraviada
+roubada
+endereço
+finalizado
+retornou
+movimento
+Áreas com restrição de entrega domiciliar
+fora do Brasil
+pessoalmente
+finalizado
+pendente
+enviado
+receber
+aguardando
+prazo
+aprovado
+compartilhados
+seguro
+Atraso
+receber
+entregue
+não recebi
+Devolução
+ressarcimento
+todos os itens
+fechamento
+arrependi
+não consta
+dificuldades
+não consta
+ninguém para receber
+insucesso de entrega
+incompleto
+faltando
+entregues
+juntos
+diferente
+não consegue
+retida na fiscalização
+faltando acessórios
+defeito
+arrependi
+atrasada
+análise
+cancelado
+confirmação de dados
+cancelada
+paguei
+Quando
+onde
+entregues
+quanto tempo
+não foi entregue no prazo
+não foi enviado
+mais
+não tiver

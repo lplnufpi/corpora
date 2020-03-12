@@ -1,0 +1,56 @@
+N                                                             382
+N N                                                           79
+NPROP                                                         64
+N ADJ                                                         61
+PCP                                                           60
+NPROP NPROP                                                   44
+PROADJ N                                                      26
+N NPROP                                                       26
+N V                                                           11
+V NPROP                                                       11
+ADJ                                                           7
+N NPROP NPROP                                                 5
+N N ADJ                                                       5
+NPROP NPROP NPROP                                             5
+ADJ N                                                         4
+V V                                                           3
+V ADJ                                                         3
+V N                                                           3
+N PREP N                                                      3
+V                                                             3
+PCP N                                                         3
+PROSUB                                                        2
+NPROP NPROP PU NPROP NPROP PU                                 2
+N NPROP NPROP NPROP PREP NPROP                                2
+N PREP N N                                                    2
+PROADJ NPROP                                                  2
+ADJ PREP NPROP NPROP                                          2
+N PCP                                                         2
+ADJ PREP NPROP NPROP NPROP PU NPROP PU                        2
+V NPROP NPROP                                                 2
+N ADJ ADJ                                                     2
+ADJ N N                                                       1
+ADJ PREP N ADJ PREP N N                                       1
+N V PROPESS PU                                                1
+N N ADJ PU NPROP PU                                           1
+ADJ PREP N ADJ NPROP NPROP                                    1
+N PU N                                                        1
+N ADJ N                                                       1
+N PU NPROP                                                    1
+V N N                                                         1
+N PREP N NPROP NPROP                                          1
+PREP N NPROP NPROP                                            1
+PROADJ N ADJ                                                  1
+N PCP ADV                                                     1
+ADJ NPROP NPROP                                               1
+N PREP N ADJ                                                  1
+NPROP NPROP PU NPROP PU PU                                    1
+V N NPROP                                                     1
+N N ADJ PU NPROP                                              1
+PROADJ N NPROP                                                1
+ADJ PREP                                                      1
+N PCP N N PU N                                                1
+N ADV                                                         1
+N NUM N                                                       1
+NUM N                                                         1
+N PCP N NPROP                                                 1

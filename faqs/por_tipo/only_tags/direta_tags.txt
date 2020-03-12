@@ -1,0 +1,176 @@
+V *N* *PCP* *N* KS V *PCP* *N*
+*V* *NPROP* V *N* *V* N
+ADJ *V* *N* *NPROP* ADV *V* *N*
+KS *PCP* *N* N V *PCP* V *N*
+ADJ *V* *NPROP NPROP*
+PROSUB *PCP* *PCP* *N* V *N*
+*PROADJ N* V PROSUB *N*
+KS *N* V *ADJ* *V*
+*PROADJ N* V *N PCP*
+N *V* *N* V *N*
+KS ADV *V* PROSUB N *NPROP NPROP* *PCP* V *V* N N ADJ
+PROSUB *N N ADJ* V *ADJ* *N N*
+*V* *N* N V *N* *N* *N* *PCP*
+PREP *V* *PCP* V V *PCP* *N NPROP*
+*N* *PCP* ADV V *N*
+KS *N* V *N* *NPROP* V *V*
+PROPESS *N* V *ADV V* V *PCP* V
+N *N* V *ADJ* PRO-KS N N V
+*PROADJ N* V *N*
+PREP *V* *N*
+V V V PROSUB N *N*
+*ADV* PROADJ *N*
+PREP *NPROP* V *N ADJ* *V N*
+PREP V *N NPROP*
+KS *PCP* V *PCP* *N* V
+PRO-KS V *NPROP NPROP*
+PROADJ *N* V V *PCP*
+V *N ADJ* *V* *N N*
+PREP *V NPROP* PROADJ *N*
+PRO-KS V *V* N *V NPROP*
+PRO-KS V *N* *N*
+V *N* *N NPROP*
+KS *N* V PCP *V* *N*
+PREP+ART *ADJ N PU V V*
+V *ADJ*
+KS V *V*
+KS N *PCP* V ADJ
+V N *V* *N*
+PROPESS *N* *V* N
+*V* *ADJ N*
+*V* *N*
+PRO-KS V *V* *N*
+KS V *PCP* *N NPROP*
+KS V *PCP* *N NPROP*
+KS V *V* *N*
+KS V *V* *N PU NPROP*
+*V* V *N* V *V*
+*NPROP* ADV V *N*
+V *V* ADJ *N N*
+ADV V *V*
+PROPESS ADJ *V* *N*
+V *V* *N* *N*
+PREP *V* *N* ADJ *V* *NPROP*
+V *V* *NPROP* *V* *NPROP*
+ADJ V *NPROP NPROP* *V* *NPROP*
+PROPESS *N* *N* V *N* *N*
+PREP+PROPESS *V* *N* *N PCP* N *NPROP*
+PREP *N* *N* V *PCP* *PCP N*
+KS V *N* *NPROP NPROP* *V*
+ADV V *V* *N N*
+KS *N* *N PCP* *N* *NPROP* V *PCP*
+ADV *N* *N* *N N*
+PRO-KS V *V* *N*
+*NPROP* *NPROP V V N*
+PROSUB *PCP N* V *N N*
+PREP+PROPESS *V* *N* *V* *N* *ADJ*
+PREP+PROPESS *V* *N* *V* *N ADJ*
+PREP+PROPESS *V* *N* *V* *N ADJ*
+*ADV V* *NPROP NPROP* *V* V *N N*
+PROSUB *N* *N N* *N* V *PCP* *ADJ* *N*
+PROPESS *N V* *N* V *N*
+*N* *ADJ* *N* V *ADJ*
+PROPESS *NPROP* PROADJ *N N*
+ADV *N* *N* *N N*
+PRO-KS V *V* *N*
+*NPROP* *NPROP V V N*
+*N* *N* *N*
+*N V* *NPROP NPROP*
+*N*
+*N N* N
+*N* *N* *N*
+*V* *N N*
+V ADV
+*N* *N*
+*V* PROSUB PREP *V ADJ*
+*N ADJ*
+*N ADJ* *N ADJ*
+ADV ADV V PCP *N N* V *PCP*
+N ADJ N
+PREP *V* *ADJ* *ADJ* *V* ADV V N
+PROSUB *PCP* V *PCP*
+*V* *ADV ADV ADV* *V* *N*
+PROSUB *PCP* V *PCP*
+PROSUB *PCP* *ADV V PCP N* V V
+PROSUB *PCP* ADV *ADV V PCP* V V
+V *N* PREP *N* V
+ADV ADV *V* *N* V
+ADJ *V* *N* *V*
+*V* *V* *PCP* *N* V
+PREP *N* *V* *N* *N NPROP*
+PROPESS *N* V V *N* *N* V
+V PU V PROSUB *N* *V* *N* *N*
+V PU ADV *N* *N PREP N*
+PREP *PROADJ N* *N* V *PCP*
+V PU V *PROADJ N* *V* *N* *N*
+PREP *PROADJ N* *N* V *PCP*
+*V* *N* *N* *ADV V NPROP V*
+V *N* *N* *N* *N* V
+*V* *N* V
+*V* *N ADJ* V *N*
+PREP *NPROP*
+*N ADJ* *N ADJ*
+*N N* V N
+*NPROP NPROP*
+PROADJ *N*
+*N* *N*
+*N* *N*
+*N* *N* *N*
+*N* *N*
+*PROADJ N* ADV *V* *V N NPROP*
+*ADV V* *NPROP NPROP NPROP* V
+KS *V* PROSUB *N* *N N* V *N* *PCP*
+ADV *N* *N* *N* PU N PU *PCP*
+PROPESS *N* *N* V *ADJ* V
+PROPESS *N PCP* V *N* PREP *N NPROP V*
+PREP+PROPESS *V* *N* *N*
+*N* *N* *N*
+KS PREP *V* *N V* ADV *V* PROADJ *N N* V
+V *V* *N* *N*
+PREP *N* *N* V *ADJ* *N* N V *V* *N*
+PREP+PROPESS *V* *N V* *ADJ*
+N *V* *N ADJ* *V* *PCP* V V
+KS *V* *N* *N* *N* V *N* *N* V
+PREP NPROP *N* *ADJ N N*
+PROPESS V *PCP* *N* V *PCP* *PCP* N *N*
+PROSUB *N* *V* ADJ V
+PROPESS *N* *N* *V* *NPROP V*
+*V* *N* *ADV NPROP*
+PREP+ART N *V* *N* N *N* *ADJ* V *ADV*
+PREP *PCP* V *PCP* PU N PU ADV *N* V V *PCP* *V* *N*
+KS *N* V V *V* PCP N *N*
+PROSUB *N ADJ* V *PCP*
+*V* *N* V *N*
+*N* *N*
+PREP N V V *N* ADV V *PROSUB* *N N*
+V N *N* V *PCP* *ADV V*
+*N* *N* PU N PU
+*ADV V* *PROADJ N* *N N*
+PROSUB V *V* PREP *N NPROP*
+*V* PREP *N NPROP*
+*PROADJ N* *N* V *V*
+*V* *N* *NPROP V*
+*V* *N N*
+*V* *N N*
+PROSUB *PCP* *ADV V* *N* V
+V *N* *V* V
+PROSUB *PCP* *ADV V* *N* V
+PREP N V V *N* *PCP* ADV V *PROSUB NPROP N*
+PROSUB *PCP* V *N V* *V* *N N N*
+V *PCP* *ADJ* PU N *N* *N* *N PU KS PROPESS V*
+V PROADJ *N N* *PCP* PROSUB *ADJ*
+PROPESS *N* V V *ADJ* NPROP V
+PREP N V *ADV V* *V* *N N*
+PROSUB *N* V *PCP NPROP V*
+PROSUB *N* V *V NPROP V V*
+V *N* *NPROP V V*
+V *N* *N N*
+PREP *N* N V *N N*
+PREP *N* V V *N* *N* ADV V *PROSUB* *NPROP V ADJ N*
+PROSUB *PCP* ADV V *NPROP V*
+V *N* V *PCP* V *PCP* N *N PCP* PROPESS V
+PROSUB *N* V *PCP* *NPROP V V*
+*KS* *ADV-KS* *N* V *PCP*
+V *ADV ADV ADV* *V* *N*
+PROSUB *PCP* *ADV V PCP N* V V
+PROSUB *PCP* ADV *ADV V PCP* V V

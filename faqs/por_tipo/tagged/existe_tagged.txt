@@ -1,0 +1,27 @@
+_ Existe/V _ algum/PROSUB *risco/N* colocar/V *dinheiro/N* *NuConta/NPROP*
+_ Existe/V _ *plano/N anual/ADJ*
+_ Tem/V _ *vestiário/N*
+_ Tem/V _ *estacionamento/N*
+_ Tem/V _ *bicicletário/N*
+_ Tem/V _ *aulas/N*
+_ Tem/V _ *professor/N*
+_ Tem/V _ *piscina/N*
+_ Tem/V _ *aulas/N* *luta/N*
+_ Tem/V _ *aulas/N* *ginástica/N*
+_ Tem/V _ *treino/N* *coletivo/N*
+_ Tem/V _ *aulas/N* dança/N
+_ Tem/V _ *espaço/N kids/ADJ*
+A/PREP *Smart/NPROP Fit/NPROP* possui/V *atendimento/N telefônico/ADJ*
+_ Tem/V _ *multa/N* *cancelar/V* *plano/N Smart/NPROP*
+_ Tem/V _ *multa/N* *cancelar/V* *plano/N Black/NPROP*
+_ Existe/V _ *trancamento/N*
+_ Existe/V _ *período/N férias/N*
+_ Tem/V _ *bicicletário/N*
+_ Tem/V _ *estacionamento/N*
+_ Tem/V _ *gaiola/N //PU agachamento/N* livre/ADJ
+Meu/PROSUB *produto/N* _ terá/V _ *serviço/N montagem/N*
+A/PREP *Ricardo/NPROP Eletro/NPROP* _ possui/V _ *Nota/NPROP Fiscal/NPROP Paulista/NPROP*
+_ Há/V _ *cobrança/N* *frete/N*
+_ Há/V _ *limite/N* *livros/N* *compra/N*
+O/PROPESS *site/N* _ possui/V _ *vale/V presente/ADJ*
+O/PROPESS *site/N* _ faz/V _ *entrega/N internacional/ADJ*

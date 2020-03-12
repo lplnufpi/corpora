@@ -1,0 +1,27 @@
+PROSUB *N* V *N* *NPROP*                                    algum *risco* colocar *dinheiro* *NuConta*
+*N ADJ*                                                     *plano anual*
+*N*                                                         *vestiário*
+*N*                                                         *estacionamento*
+*N*                                                         *bicicletário*
+*N*                                                         *aulas*
+*N*                                                         *professor*
+*N*                                                         *piscina*
+*N* *N*                                                     *aulas* *luta*
+*N* *N*                                                     *aulas* *ginástica*
+*N* *N*                                                     *treino* *coletivo*
+*N* N                                                       *aulas* dança
+*N ADJ*                                                     *espaço kids*
+PREP *NPROP NPROP* V *N ADJ*                                A *Smart Fit* possui *atendimento telefônico*
+*N* *V* *N NPROP*                                           *multa* *cancelar* *plano Smart*
+*N* *V* *N NPROP*                                           *multa* *cancelar* *plano Black*
+*N*                                                         *trancamento*
+*N N*                                                       *período férias*
+*N*                                                         *bicicletário*
+*N*                                                         *estacionamento*
+*N PU N* ADJ                                                *gaiola / agachamento* livre
+PROSUB *N* *N N*                                            Meu *produto*  *serviço montagem*
+PREP *NPROP NPROP* *NPROP NPROP NPROP*                      A *Ricardo Eletro*  *Nota Fiscal Paulista*
+*N* *N*                                                     *cobrança* *frete*
+*N* *N* *N*                                                 *limite* *livros* *compra*
+PROPESS *N* *V ADJ*                                         O *site*  *vale presente*
+PROPESS *N* *N ADJ*                                         O *site*  *entrega internacional*

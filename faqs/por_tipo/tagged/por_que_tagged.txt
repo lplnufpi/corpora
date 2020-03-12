@@ -1,0 +1,14 @@
+_ Por/PREP que/KS _ iremos/V *cobrar/V* *saque/N*
+Tenho/V *nome/N ``/N limpo/ADJ ''/N* não/ADV fui/V *aprovado/PCP* *análise/N Nubank*Por/N qu/N*
+_ Por/PREP que/KS _ *preciso/ADJ* *smartphone/N*
+_ Por/PREP que/KS _ *assinar/V* *Nubank/NPROP Rewards/NPROP*
+_ Por/PREP que/KS _ *documento/N* não/ADV foi/V *aprovado/PCP*
+_ Por/PREP que/KS _ *pedido/PCP* *foi/V* *cancelado/PCP*
+_ Por/PREP que/KS _ *pedido/PCP* *não/ADV foi/V* *aprovado/PCP*
+_ Por/PREP que/KS _ *pedido/PCP* *não/ADV foi/V* *aprovado/PCP*
+_ Por/PREP que/KS _ estou/V *demorando/V* *receber/V* *rastreamento/N* *compra/N*
+_ Por/PREP que/KS _ *rastreamento/N* *encomenda/N* está/V *parado/PCP* *atualização/N*
+_ Por/PREP que/KS _ *rastreamento/N* *não/ADV foi/V* *encontrado/PCP*
+_ Por/PREP que/KS _ *prazo/N* *entrega/N* alguns/PROSUB *produtos/N* é/V *maior/ADJ*
+_ Por/PREP que/KS _ *comentário/N* sobre/PREP *produto/N* *não/ADV foi/V* *aprovado/PCP*
+_ Por/PREP que/KS _ *não/ADV posso/V* *trocar/V* *produtos/N lojistas/N* itens/N *Pontofrio.com/NPROP*

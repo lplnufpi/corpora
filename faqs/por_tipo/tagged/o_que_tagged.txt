@@ -1,0 +1,80 @@
+_ O/PROPESS que/KS é/V _ *PicPay/NPROP*
+_ O/PROPESS que/KS é/V _ *KOIN/NPROP*
+_ O/PROPESS que/KS _ significa/V cada/PROSUB *status/N* *pedido/PCP*
+_ O/PROPESS que/KS é/V _ *NuConta/NPROP*
+_ O/PROPESS que/KS é/V _ *Nubank/NPROP*
+_ O/PROPESS que/KS é/V _ *Conta/V PJ/NPROP*
+_ O/PROPESS que/KS é/V _ *Nota/N Fiscal/N Eletrônica/ADJ –/PU NF-e/NPROP*
+_ O/PROPESS Que/KS é/V _ *DANFE/NPROP* onde/ADV-KS localizo/N *numero/N* *Chave/N Acesso/N*
+_ O/PROPESS que/KS é/V _ *PAR-Q/NPROP*
+_ O/PROPESS que/KS é/V _ *freepass/N*
+_ O/PROPESS que/KS é/V _ *manutenção/N anual/ADJ*
+_ O/PROPESS que/KS é/V _ *taxa/N adesão/N*
+Eu/PROPESS tenho/V *cobranças/N* *aberto/PCP* _ O/PROPESS que/KS _ devo/V *fazer/V*
+*Não/ADV consigo/ADV* *acessar/V* *conta*_/V O/PRO-KS que/PRO-KS _/N *fazer/N*
+_ O/PROPESS que/KS _ significa/V ``/N *Cadastro/N Vendedores*/N ''/N
+Tenho/V *conta/V Vendedor/N* não/ADV gostaria/V *nome/N* aparecesse/V *clientes*_/V O/PRO-KS que/PRO-KS _/N *fazer/N*
+_ O/PROPESS que/KS é/V _ *e-mail/N adicional/ADJ*
+Não/ADV consigo/ADV *acessar/V* *conta*_/V O/PRO-KS que/PRO-KS _/N *fazer/N*
+_ O/PROPESS que/KS é/V _ *Cartão/NPROP Conta/NPROP*
+_ O/PROPESS que/KS é/V _ fazer/V *Transferência/N Contato/N*
+Fiz/V *recarga/N celular/ADJ* *número/N errado*_/V O/PRO-KS que/PRO-KS _/N devo/V *fazer/N*
+O/PROPESS *empréstimo/N* ainda/ADV não/ADV está/V *disponível*_/V O/PROSUB que/PRO-KS _/N posso/V *fazer/N*
+A/PREP *solicitação/N* *portabilidade/N* *salário/N* foi/V *reprovada*_/V O/PRO-KS que/PRO-KS _/N acontece/V*
+_ O/PROPESS que/KS _ faço/V *salário/N* está/V *valor/N incorreto/ADJ*
+_ O/PROPESS que/KS é/V _ *Aponte/NPROP Pag/NPROP (/PU QR/NPROP Code/NPROP )/PU*
+_ O/PROPESS que/KS é/V _ *Transferência/N TED/NPROP*
+_ O/PROPESS que/KS é/V _ *aplicativo/N PagBank/NPROP*
+_ O/PROPESS que/KS é/V _ *Verificação/N Conta/V*
+_ O/PROPESS que/KS é/V _ saldo/N bloqueado/PCP Conta/V Pagseguro/NPROP
+_ O/PROPESS que/KS é/V _ *``/N Código/NPROP Segurança/NPROP ''/NPROP via/PREP SMS/NPROP* serve/V
+_ O/PROPESS que/KS é/V _ *Celular/NPROP Seguro/NPROP*
+_ O/PROPESS que/KS é/V _ *SMS/N Token/N*
+_ O/PROPESS que/KS é/V _ *Disputa/N*
+_ O/PROPESS que/KS é/V _ *Moderação/N*
+Não/ADV consigo/ADV *entrar/V* *acordo/N* *vendedor*_/V O/PRO-KS que/PRO-KS _/N faç/N*
+_ O/PROPESS que/KS é/V _ *grupo/N testes/N*
+_ O/PROPESS que/KS é/V _ *TestFlight/NPROP*
+_ O/PROPESS que/KS é/V _ *Verificação/N Conta/V*
+_ O/PROPESS que/KS é/V _ *saldo/N bloqueado/PCP* *Conta/N Pagseguro/NPROP*
+_ O/PROPESS que/KS é/V _ *``/N Código/NPROP Segurança/NPROP ''/NPROP via/PREP SMS/NPROP* serve/V
+_ O/PROPESS que/KS é/V _ *Celular/NPROP Seguro/NPROP*
+_ O/PROPESS que/KS é/V _ *SMS/N Token/N*
+*Não/ADV estou/V* recebendo/V *SMS/N Token/N* *realizar/V* *transação*_/V O/PRO-KS que/PRO-KS _/N devo/V *fazer/N*
+_ O/PROPESS que/KS é/V _ *Token/N Voz/N*
+_ O/PROPESS que/KS _ são/V *notificações/N sistema/N*
+_ O/PROPESS que/KS é/V _ *phishing/N*
+_ O/PROPESS que/KS é/V _ *Nota/N Fiscal/N Eletrônica/ADJ (/PU NF-e/NPROP )/PU* quê/PROSUB serve/V
+_ O/PROPESS que/KS é/V _ *Contestação/N*
+_ O/PROPESS que/KS _ *fazer/V* há/V *contestação/N* *venda/N* feita/PCP *Leitor/N Crédito/N*
+_ O/PROPESS que/KS é/V _ *Moderação/N*
+*Não/ADV consigo/ADV* *entrar/V* acordo/N *vendedor*_/V O/PRO-KS que/PRO-KS _/N faç/N*
+_ O/PROPESS que/KS é/V _ *Disputa/N*
+_ O/PROPESS que/KS é/V _ *Caso/NPROP Jurídico/NPROP*
+_ O/PROPESS que/KS _ significa/V *Aviso/NPROP Recebimento/NPROP (/PU A.R/NPROP ./PU )/PU*
+Meu/PROSUB *produto/serviço/N* não/ADV foi/V *entregue*_/V O/PRO-KS que/PRO-KS _/N posso/V *fazer/N*
+_ O/PROPESS que/KS é/V _ *marketplace/N*
+_ O/PROPESS é_/N *Retira/V Fácil/ADJ*
+_ O/PROPESS que/KS é/V _ *Frete/N Hoje/ADV*
+_ O/PROPESS que/KS _ significa/V *pedido/PCP análise/N*
+_ O/PROPESS que/KS _ é/V *nota/N fiscal/ADJ eletrônica/ADJ*
+_ O/PROPESS que/KS _ é/V *DANFE/NPROP*
+_ O/PROPESS que/KS _ é/V *Nota/NPROP Fiscal/NPROP Paulista/NPROP*
+_ O/PROPESS que/KS _ é/V *Nota/N Fiscal/N Eletrônica/ADJ*
+_ O/PROPESS que/KS _ é/V *Danfe/NPROP*
+_ O/PROPESS que/KS _ é/V *cupom/N desconto/N* *utilizar/V*
+Fiz/V *pagamento/N* *dois/NUM cartões/N* foi/V *reprovado*_/V O/PRO-KS que/PRO-KS _/N acontec/V*
+_ O/PROPESS que/KS _ é/V *Garantia/N Estendida/PCP*
+_ O/PROPESS que/KS _ é/V *proteção/N contra/PREP roubo/N furto/N*
+_ O/PROPESS que/KS _ é/V *Marketplace/N* //PU *Vendedor/N parceiro/N*
+_ O/PROPESS que/KS _ é/V *Lista/N Casamento/N* funciona/V
+_ O/PROPESS que/KS _ é/V *compra/N expressa/V*
+_ O/PROPESS que/KS _ é/V *capa/N ilustrativa/ADJ*
+_ O/PROPESS que/KS _ *verificar/V* ato/N *entrega/N* *pedido/PCP*
+_ O/PROPESS que/KS _ é/V *Marisa.com.br/NPROP*
+Meu/PROSUB *pedido/PCP* está/V *status/N Recebido/PCP Pré-venda/N* _ o/PROSUB que/KS _ significa/V
+_ O/PROPESS que/KS _ significa/V *tag/N Pré-venda/N* *produtos/N*
+_ O/PROPESS que/KS _ significa/V *botão/N TROCA/N* *lado/N dados/PCP pedido/PCP* site/N
+_ O/PROPESS que/KS _ significa/V informação/N *rastreamento/N* *Áreas/N restrição/ADJ entrega/N domiciliar/ADJ*
+_ O/PROPESS que/KS _ significa/V status/N *Em/PREP Análise/N Posto/NPROP Fiscal/NPROP* envio/N Transportadora/N
+_ O/PROPESS que/KS _ significam/V status/N *rastreamento/N via/PREP transportadora/N -Total/NPROP Express/NPROP*

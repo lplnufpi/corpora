@@ -1,0 +1,74 @@
+_ Quais/PROSUB _ *formas/N pagamento/N* disponíveis/ADJ
+_ Qual/PROSUB _ *prazo/N aprovação/N* após/PREP *compra/N finalizada/PCP* *PicPAy/NPROP*
+_ Qual/PROSUB _ pontuação/N mínima/N preciso/ADJ *fechar/V* pedido/PCP *Milhas/N*
+_ Qual/PROSUB _ vantagem/N ter/V *cadastro/N* *Loja/N Melissa/NPROP*
+_ Quais/PROSUB _ são/V *tarifas/N* *Cartão/NPROP Nubank/NPROP*
+_ Qual/PROSUB _ diferença/N *NuConta/NPROP* *Conta/V PJ/NPROP*
+_ Qual/PROSUB _ *idade/N mínima/ADJ* *matrícula/N*
+_ Qual/PROSUB _ *cadeado/N* devo/V *usar/V*
+_ Quais/PROSUB _ são/V *horários/N funcionamento/N*
+_ Quais/PROSUB _ *unidades/N* *participam/V*
+_ Qual/PROSUB _ *valor/N* *manutenção/N anual/ADJ*
+_ Qual/PROSUB _ *valor/N* *taxa/N adesão/N*
+_ Qual/PROSUB _ *data/N cobrança/N*
+_ Quais/PROSUB _ são/V *formas/N pagamento/N*
+_ Quais/PROSUB _ opções/N *data/N cobrança/N*
+_ Qual/PROSUB _ cadeado/N devo/V *usar/V*
+_ Qual/PROSUB _ *diferença/N* *contas/N Pessoal/ADJ* *Vendedor/N* *Empresarial/NPROP*
+_ Quais/PROSUB _ são/V *prazos/N* *transferências/N*
+_ Quais/PROSUB _ são/V *tipos/N contas/N bancárias/ADJ* *aceitas/PCP* *transferências/N* *PagSeguro/NPROP*
+_ Qual/PROSUB _ *horário/N limite/ADJ* *Pagamento/NPROP Contas/NPROP*
+_ Qual/PROSUB _ é/V *validade/N proposta/PCP* *Empréstimo/NPROP PagBank/NPROP*
+_ Qual/PROSUB _ *prazo/N* *fazer/V* *portabilidade/N salário/N*
+_ Quais/PROSUB _ *cuidados/N* devo/V ter/V *QR/N Code/N* *impresso/PCP*
+_ Qual/PROSUB _ *diferença/N* *Transferência/N* *Transferência/N Instantânea/ADJ*
+Para/PREP _ Quais/PROSUB _ *instituições/N* posso/V *fazer/V* *TED/NPROP*
+_ Quais/PROSUB _ *contas/N bancárias/ADJ* são/V *aceitas/PCP* *PagSeguro/NPROP*
+_ Qual/PROSUB _ *diferença/N* *encomenda/N* *PAC/NPROP* *SEDEX/N*
+_ Qual/PROSUB é/V _ *prazo/N* *pagamento/N* seja/V *compensado/PCP*
+_ Quais/PROSUB _ são/V tipos/N *contas/N bancárias/ADJ* *aceitas/PCP* *transferências/N* *PagSeguro/NPROP*
+_ Quais/PROSUB _ são/V *documentos/N* *aceitos/PCP* *verificar/V* *conta/V Pessoa/NPROP Física/NPROP*
+_ Quais/PROSUB _ são/V *documentos/N* *aceitos/PCP* *verificar/V* *conta/V Pessoa/NPROP Jurídica/NPROP*
+_ Qual/PROSUB é/V _ *prazo/N* constar/V *depósito/N* *conta/N bancária/ADJ*
+_ Quais/PROSUB _ *documentos/N* são/V *aceitos/PCP* *comprovar/V* *entrega/N* *produto/N* *serviço/N*
+_ Qual/PROSUB _ *diferença/N* encomenda/N *PAC/NPROP* *SEDEX/N*
+_ Quais/PROSUB _ são/V *status/N* *pagamento/N* via/PREP *PagSeguro/NPROP*
+_ Quais/PROSUB _ vantagens/N *usar/V* *PagSeguro/NPROP* *comprar/V*
+_ Qual/PROSUB é/V _ prazo/N *compensação/N* *boleto/N bancário/ADJ*
+_ Qual/PROSUB é/V _ prazo/N *pagamento/N* seja/V *compensado/PCP*
+_ Quais/PROSUB _ são/V *dicas/N* comprar/V *Black/N Friday/NPROP*
+_ Quais/PROSUB _ são/V *tipos/N frete/ADJ* *disponíveis/ADJ*
+_ Quais/PROSUB _ são/V *opções/N frete/N* *produtos/N marketplace/N*
+_ Quais/PROSUB _ são/V *condições/N frete/ADJ*
+_ Qual/PROSUB _ é/V *prazo/N entrega/V* *pedido/PCP*
+_ Quais/PROSUB _ são/V *formas/N pagamento/N* aceitas/PCP site/N
+_ Qual/PROSUB _ é/V *prazo/N vencimento/V* *boleto/N bancário/ADJ*
+_ Qual/PROSUB _ é/V *prazo/N* *confirmação/N pagamento/N*
+_ Quais_/N são/V *opções/N reembolso/N* *devolução/N*
+_ Quais/PROSUB _ *formas/N pagamento/N* *disponíveis/ADJ*
+_ Qual/PROSUB _ *prazo/N aprovação/N* *pedido/PCP*
+_ Quais/PROSUB _ *formas/N pagamento/N* disponíveis/ADJ *compras/N Black/NPROP Friday/NPROP*
+_ Quais/PROSUB _ são/V *prazos/N entrega/V* *site/N*
+_ Qual/PROSUB _ *prazo/N* *emissão/N nota/N fiscal/ADJ*
+_ Qual/PROSUB _ *prazo/N resolução/N* *troca/N*
+_ Quais/PROSUB _ *formas/N pagamento/N* posso/V utilizar/V
+_ Qual/PROSUB _ *prazo/N utilização/N* *vale-troca/N*
+_ Qual/PROSUB _ *prazo/N aprovação/N* *pedido/PCP*
+_ Quais/PROSUB _ são/V *vantagens/N* *Lista/N Casamento/N* RicardoEletro.com/NPROP
+_ Quais/PROSUB _ são/V *formas/N pagamento/N*
+_ Qual/PROSUB _ *prazo/N* *solicitar/V* *cancelamento/N* *troca/N* *devolução/N*
+_ Quais/PROSUB _ *formas/N pagamento/N* aceitas/PCP *site/N*
+_ Qual/PROSUB _ é/V *prazo/N entrega/V*
+_ Qual/PROSUB _ *diferença/N* *formas/N envio/N*
+_ Quais_/N *regiões/N* *entrega/N*
+_ Qual_/N é/V *melhor/ADV* *data/N compra/N*
+_ Quais_/N *contatos/N* *horários/N* *Central/N Atendimento/N*
+_ Qual_/N *prazo/N recebimento/V* novo/ADJ *cartão/N* *2ª/ADJ via/PREP* *cartão/N adicional/ADJ*
+_ Qual_/N *telefone/N contato/N* *Loja/NPROP Física/NPROP*
+_ Qual/PROSUB _ *prazo/N* *troca/N* *loja/N física/ADJ*
+Se/KS precisar/V *trocar/V* *produto/N* *adquirido/PCP Black/NPROP Friday/NPROP* _ qual/PRO-KS _ será/V *valor/N* *vale/V compra/V*
+_ Qual/PROSUB _ *prazo/N* *entrega/N* compras/N feitas/PCP *Black/N Friday/NPROP*
+_ Em/PREP que/KS _ *momento/N* *recebo/V* *número/N* *objeto/N* *acompanhar/V* *rastreamento/N*
+_ Qual/PROSUB _ *prazo/N* tenho/V *solicitar/V* *troca/N*
+_ Qual/PROSUB _ *prazo/N* *solicitação/N* *cancelamento/N* *pedido/PCP*
+_ Quanto/KS _ *tempo/N* leva/V *receber/V* *produtos/N*

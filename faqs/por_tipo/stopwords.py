@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 stopwords = [
     'a',
     'ao',

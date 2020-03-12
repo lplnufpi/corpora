@@ -1,0 +1,8 @@
+Entidade = (ADJ (PREP)?)?(((N ?)+ (ADJ ?)*)|((NPROP ?)+)|(PCP))
+
+(ADJ (PREP)?)?
+(
+    ((N ?)+ (ADJ ?)*)|
+    ((NPROP ?)+)|
+    (PCP)
+)

@@ -1,0 +1,177 @@
+*V* *N* *ADV V* *N* V V                                     Quero *usar* *boleto* *não tenho* *impressora*  devo proceder
+V *N* *PCP* *N* KS V *PCP* *N*                              Solicitei *envio* *pedido* *Transportadora* porque foi *despachado* *Correios*
+*V* *NPROP* V *N* *V* N                                     *Comprei* *KOIN* recebo *boleto* *pagar* compra
+ADJ *V* *N* *NPROP* ADV *V* *N*                             Preciso *fazer* *cadastro* *Koin* antes *finalizar* *compra*
+KS *PCP* *N* N V *PCP* V *N*                                Se *pedido* *finalizei* milhas for *cancelado* acontece *milhas*
+ADJ *V* *NPROP NPROP*                                       Preciso *cadastrar* *Milhagem Melissa*
+PROSUB *PCP* *PCP* *N* V *N*                                Meu *pedido* *finalizado* *milhas* gera *milhas*
+*PROADJ N* V PROSUB *N*                                     *Quantos pontos* custam cada *produto*
+KS *N* V *ADJ* *V*                                          Quando *pontos* ficarão *disponíveis* *usar*
+*PROADJ N* V *N PCP*                                        *Minhas milhas* têm *prazo validade*
+N *V* *N* V *N*                                             Caso *mude* *e-mail* perco *pontos*
+KS ADV *V* PROSUB N *NPROP NPROP* *PCP* V *V* N N ADJ       Se não *utilizar* todo valor *Vale Compra* *pedido* poderei *utilizar* código valor restante
+PROSUB *N N ADJ* V *ADJ* *N N*                              Meu *cupom frete grátis* é *válido* *tipo envio*
+*V* *N* N V *N* *N* *N* *PCP*                               *Adicionar* *produto* carrinho garante *reserva* *produto* *finalização* *pedido*
+PREP *V* *PCP* V V *PCP* *N NPROP*                          Para *finalizar* *pedido* tenho ser *cadastrada* *Loja Melissa*
+*N* *PCP* ADV V *N*                                         *Pedido* *pago* não recebi *e-mail*
+KS *N* V *N* *NPROP* V *V*                                  Se *produto* vier *saquinho* *Melissa* posso *receber*
+PROPESS *N* V *ADV V* V *PCP* V                             O *produto* recebi *não é* Solicitei *pedido* faço
+N *N* V *ADJ* PRO-KS N N V                                  Caso *produto* fique *indisponível* quais opções loja oferece
+*PROADJ N* V *N*                                            *Meus dados* estão *segurança*
+PREP *V* *N*                                                Para *serve* *SAC*
+V V V PROSUB N *N*                                          Vou precisar passar algum tipo *análise*
+*ADV* PROADJ *N*                                            *Não* nenhuma *tarifa*
+PREP *NPROP* V *N ADJ* *V N*                                A *NuConta* é *conta corrente* *conta poupança*
+PREP V *N NPROP*                                            Para é *cartão Nubank*
+KS *PCP* V *PCP* *N* V                                      Se *pedido* for *aprovado* *cartão* receberei
+PRO-KS V *NPROP NPROP*                                      Quem emite *Cartão Nubank*
+PROADJ *N* V V *PCP*                                        Qualquer *compra* pode ser *apagada*
+V *N ADJ* *V* *N N*                                         Estou *saldo disponível* *assinar* *programa*E agor*
+PREP *V NPROP* PROADJ *N*                                   A *Conta PJ* alguma *tarifa*
+PRO-KS V *V* N *V NPROP*                                    Quem pode *participar* testes *Conta PJ*
+PRO-KS V *N* *N*                                            Quem realiza *montagem* *Produto*
+V *N* *N NPROP*                                             Há *cobrança* *serviço Montagem*
+KS *N* V PCP *V* *N*                                        Quando *Montador* é acionado *montar* *produto*
+PREP+ART *ADJ N PU V V*                                     Na *primeira visita*: devo leva*
+V *ADJ*                                                     É *obrigatório*
+KS V *V*                                                    Quando tenho *renovar*
+KS N *PCP* V ADJ                                            Que tipo *atestado* é necessário
+V N *V* *N*                                                 Tem lugar *tomar* *banho*
+PROPESS *N* *V* N                                           O *professor* *acompanha* treino
+*V* *ADJ N*                                                 *Abre* *finais semana*
+*V* *N*                                                     *Abre* *feriados*
+PRO-KS V *V* *N*                                            Quem pode *solicitar* *freepass*
+KS V *PCP* *N NPROP*                                        Quando será *cobrado* *plano Black*
+KS V *PCP* *N NPROP*                                        Quando será *cobrado* *plano Smart*
+KS V *V* *N*                                                Quando devo *solicitar* *cancelamento*
+KS V *V* *N PU NPROP*                                       Quando devo *solicitar* *cancelamento - RJ*
+*V* V *N* V *V*                                             *Parei* ir *academia* estão *cobrando*
+*NPROP* ADV V *N*                                           *Cancelei* ainda veio *cobrança*
+V *V* ADJ *N N*                                             Tenho *pagar* nova *taxa adesão*
+ADV V *V*                                                   Onde posso *contratar*
+PROPESS ADJ *V* *N*                                         Eu preciso *agendar* *treino*
+V *V* *N* *N*                                               Tenho *trocar* *treino* *professor*
+PREP *V* *N* ADJ *V* *NPROP*                                Para *usar* *serviços* preciso *cadastrar* *PagSeguro*
+V *V* *NPROP* *V* *NPROP*                                   Tenho *assinar* *UOL* *usar* *PagSeguro*
+ADJ V *NPROP NPROP* *V* *NPROP*                             Preciso ser *Pessoa Jurídica* *vender* *Moderninha*
+PROPESS *N* *N* V *N* *N*                                   O *nome* *recebedor* aparece *identificação* *boleto*
+PREP+PROPESS *V* *N* *N PCP* N *NPROP*                      Consigo *imprimir* *comprovante* *conta paga* Aplicativo *PagBank*
+PREP *N* *N* V *PCP* *PCP N*                                Após *recarga* *valor* é *bloqueado* *retirado Conta*
+KS V *N* *NPROP NPROP* *V*                                  Quando recebo *dinheiro* *Empréstimo PagBank* *Solicitei*
+ADV V *V* *N N*                                             Onde posso *usar* *QR Code*
+KS *N* *N PCP* *N* *NPROP* V *PCP*                          Quando *preencho* *dados errados* *dinheiro* *TED* é *devolvido*
+ADV *N* *N* *N N*                                           Onde *visualizo* *extrato* *Cartão Pré-Pago*
+PRO-KS V *V* *N*                                            Quem pode *abrir* *Disputa*
+*NPROP* *NPROP V V N*                                       *Encerrei* *disputa*Ela pode ser *reaberta*
+PROSUB *PCP N* V *N N*                                      Meu *pedido transferência* foi *cancelado*E agor*
+PREP+PROPESS *V* *N* *V* *N* *ADJ*                          Consigo *fazer* *transferência* *recuperar* *saldo* *negativo*
+PREP+PROPESS *V* *N* *V* *N ADJ*                            Consigo *fazer* *transferência* *recuperar* *saldo negativo*
+PREP+PROPESS *V* *N* *V* *N ADJ*                            Consigo *fazer* *transferência* *recuperar* *saldo negativo*
+*ADV V* *NPROP NPROP* *V* V *N N*                           *Não paguei* *Empréstimo PagBank* *Conta* foi *bloqueada*E agor*
+PROSUB *N* *N N* *N* V *PCP* *ADJ* *N*                      Os *dados* *cartão crédito* *cliente* ficam *armazenados* *celular* *tablet*
+PROPESS *N V* *N* V *N*                                     O *sistema compra* *internet* é *seguro*
+*N* *ADJ* *N* V *ADJ*                                       *Vendas* *celular* *tablet* são *seguras*
+PROPESS *NPROP* PROADJ *N N*                                O *PagSeguro* alguma *regra uso*
+ADV *N* *N* *N N*                                           Onde *visualizo* *extrato* *Cartão Pré-Pago*
+PRO-KS V *V* *N*                                            Quem pode *abrir* *Disputa*
+*NPROP* *NPROP V V N*                                       *Encerrei* *disputa*Ela pode ser *reaberta*
+*N* *N* *N*                                                 *Prazos* *locais* *entrega*
+*N V* *NPROP NPROP*                                         *Entrega Expressa* *Super Expressa*
+*N*                                                         *Frete*
+*N N* N                                                     *Cartão crédito* Pontofrio
+*N* *N* *N*                                                 *Termos* *Condições* *uso*
+*V* *N N*                                                   *Comprei* *arrependi*E agor*
+V ADV                                                       Fale conosco
+*N* *N*                                                     *Atraso* *entrega*
+*V* PROSUB PREP *V ADJ*                                     *Saiba* tudo sobre *Retira Fácil*
+*N ADJ*                                                     *E-mails promocionais*
+*N ADJ* *N ADJ*                                             *Cupons promocionais* *sites parceiros*
+ADV ADV V PCP *N N* V *PCP*                                 Ainda não recebi pedido *data entrega* está *atrasada*
+N ADJ N                                                     Soluções corporativas B2B
+PREP *V* *ADJ* *ADJ* *V* ADV V N                            Para *comprar* *presente* *preciso* *cadastrar* Como funciona cadastro
+PROSUB *PCP* V *PCP*                                        Meu *pedido* foi *aprovado*
+*V* *ADV ADV ADV* *V* *N*                                   *Solicitei* *troca*Em *quanto tempo* *receberei* *produto*
+PROSUB *PCP* V *PCP*                                        Meu *pedido* foi *aprovado*
+PROSUB *PCP* *ADV V PCP N* V V                              Meu *pedido* *não foi entregue prazo* devo fazer
+PROSUB *PCP* ADV *ADV V PCP* V V                            Meu *pedido* ainda *não foi enviado* devo fazer
+V *N* PREP *N* V                                            Quero *informações* sobre *livro* faço
+ADV ADV *V* *N* V                                           Não consigo *encontrar* *livro* fazer
+ADJ *V* *N* *V*                                             Preciso *informar* *CPF* *comprar*
+*V* *V* *PCP* *N* V                                         *Marquei* *recebi* *pedido* *engano* fazer
+PREP *N* *V* *N* *N NPROP*                                  A *Estante* *faz* *ações* *Black Friday*
+PROPESS *N* V V *N* *N* V                                   O *livro* comprei veio *defeito* *fabricação* fazer
+V PU V PROSUB *N* *V* *N* *N*                               Comprando: Tenho quantos *dias* *pagar* *boleto* *compra*
+V PU ADV *N* *N PREP N*                                     Comprando: Como *emito* *segunda via boleto*
+PREP *PROADJ N* *N* V *PCP*                                 Em *quanto tempo* *pagamento* é *confirmado*
+V PU V *PROADJ N* *V* *N* *N*                               Comprando: Tenho *quantos dias* *pagar* *boleto* *compra*
+PREP *PROADJ N* *N* V *PCP*                                 Em *quanto tempo* *pagamento* é *confirmado*
+*V* *N* *N* *ADV V NPROP V*                                 *Paguei* *boleto* *pagamento* *não foi confirmado*O faze*
+V *N* *N* *N* *N* V                                         Recebi *e-mail* *problemas* *pagamento* *cartão* faço
+*V* *N* V                                                   *Esqueci* *senha* faço
+*V* *N ADJ* V *N*                                           *Comprar* *Estante Virtual* é *seguro*
+PREP *NPROP*                                                Sobre *Marisa*
+*N ADJ* *N ADJ*                                             *Produtos exclusivos* *loja virtual*
+*N N* V N                                                   *Empréstimo Saque* tá Mão
+*NPROP NPROP*                                               *SAX Financeira*
+PROADJ *N*                                                  Nosso *SAC*
+*N* *N*                                                     *Trocas* *Devoluções*
+*N* *N*                                                     *Troca* *produtos*
+*N* *N* *N*                                                 *Política* *Trocas* *Devoluções*
+*N* *N*                                                     *Formas* *Ressarcimento*
+*PROADJ N* ADV *V* *V N NPROP*                              *Quantas vezes* consigo *utilizar* *vale compra Newsletter*
+*ADV V* *NPROP NPROP NPROP* V                               *Não recebi* *Vale Compra Newsletter* fazer
+KS *V* PROSUB *N* *N N* V *N* *PCP*                         Se *comprar* outros *produtos* *modelo Pré-venda* fica *envio* *pedido*
+ADV *N* *N* *N* PU N PU *PCP*                               Onde *encontro* *número* *objeto* (*rastreamento*) *pedido*
+PROPESS *N* *N* V *ADJ* V                                   O *rastreamento* *encomenda* está *incorreto* fazer
+PROPESS *N PCP* V *N* PREP *N NPROP V*                      O *rastreamento *encomenda* está *movimentação* desde *dia postagem*O faze*
+PREP+PROPESS *V* *N* *N*                                    Consigo *trocar* *produto* *modelo*
+*N* *N* *N*                                                 *Política* *Troca* *Devolução*
+KS PREP *V* *N V* ADV *V* PROADJ *N N* V                    Se após *abrir* *formulário troca* não *receber* nenhum *contato loja* faço
+V *V* *N* *N*                                               Devo *pagar* *frete* *troca*
+PREP *N* *N* V *ADJ* *N* N V *V* *N*                        A *cor* *produto* é *diferente* *imagem* site devo *solicitar* *troca*
+PREP+PROPESS *V* *N V* *ADJ*                                Consigo *abrir* *formulário troca* *celular*
+N *V* *N ADJ* *V* *PCP* V V                                 Caso *receba* *modelo diferente* *solicitei* *pedido* devo fazer
+KS *V* *N* *N* *N* V *N* *N* V                              Se *comprei* *produto* *promoção* *troca* será *produto* *valor* paguei
+PREP NPROP *N* *ADJ N N*                                    A Melissa *entrega* *finais semana feriados*
+PROPESS V *PCP* *N* V *PCP* *PCP* N *N*                     O acontece *pedido* *encomenda* é *extraviada* *roubada* carro *Correios*
+PROSUB *N* *V* ADJ V                                        Minha *encomenda* *retornou* central fazer
+PROPESS *N* *N* *V* *NPROP V*                               O *rastreamento* *encomenda* *está* *movimento*O faze*
+*V* *N* *ADV NPROP*                                         *Enviam* *produtos* *fora Brasil*
+PREP+ART N *V* *N* N *N* *ADJ* V *ADV*                      No caso *retirar* *encomenda* agência *Correios* *preciso* ir *pessoalmente*
+PREP *PCP* V *PCP* PU N PU ADV *N* V V *PCP* *V* *N*        Após *pedido* ser *finalizado* (*pendente*) quanto *tempo* leva ser *enviado* *receber* *encomenda*
+KS *N* V V *V* PCP N *N*                                    Quando *encomenda* pode ficar *aguardando* retirada agência *correios*
+PROSUB *N ADJ* V *PCP*                                      Meus *dados pessoais* serão *compartilhados*
+*V* *N* V *N*                                               *Comprar* *site* é *seguro*
+*N* *N*                                                     *Atraso* *entrega*
+PREP N V V *N* ADV V *PROSUB* *N N*                         A transportadora tentou realizar *entrega* não tinha *ninguém* *receber*O faç*
+V N *N* V *PCP* *ADV V*                                     Consta site *produto* foi *entregue* *não recebi**
+*N* *N* PU N PU                                             *Devolução* *valores* (*ressarcimento*)
+*ADV V* *PROADJ N* *N N*                                    *Não recebi* *todos itens* *pedido*O faç*
+PROSUB V *V* PREP *N NPROP*                                 Tudo precisa *saber* sobre *Black Friday*
+*V* PREP *N NPROP*                                          *Saiba* sobre *Black Friday*
+*PROADJ N* *N* V *V*                                        *Quantos itens* *produto* posso *comprar*
+*V* *N* *NPROP V*                                           *Comprei* *produto* *arrependi*O faze*
+*V* *N N*                                                   *Esqueci* *senha*O faç*
+*V* *N N*                                                   *Esqueci* *e-mail*E agor*
+PROSUB *PCP* *ADV V* *N* V                                  Meu *pedido* *não consta* *site* faço
+V *N* *V* V                                                 Estou *dificuldades* *comprar* fazer
+PROSUB *PCP* *ADV V* *N* V                                  Meu *pedido* *não consta* *site* faço
+PREP N V V *N* *PCP* ADV V *PROSUB NPROP N*                 A transportadora tentou realizar *entrega* *pedido* não tinha *ninguém receber*O faç*
+PROSUB *PCP* V *N V* *V* *N N N*                            Meu *pedido* teve *insucesso entrega* *retornou* *Centro Distribuição*O faç*
+V *PCP* *ADJ* PU N *N* *N* *N PU KS PROPESS V*              Recebi *pedido* *incompleto* (*faltando* *brinde* *peça* *acessório*)Como devo procede*
+V PROADJ *N N* *PCP* PROSUB *ADJ*                           Comprei vários *produtos*Eles *serão* *entregues* todos *juntos*
+PROPESS *N* V V *ADJ* NPROP V                               O *produto* recebi é *diferente* compradoO faço
+PREP N V *ADV V* *V* *N N*                                  A transportadora informou *não consegue* *localizar* *endereço*E agor*
+PROSUB *N* V *PCP NPROP V*                                  Minha *entrega* está *retida fiscalização*O acontece*
+PROSUB *N* V *V NPROP V V*                                  Meu *produto* chegou *faltando acessórios*O devo faze*
+V *N* *NPROP V V*                                           Recebi *produto* *defeito*O devo faze*
+V *N* *N N*                                                 Comprei *produto* *arrependi*O faç*
+PREP *N* N V *N N*                                          A *coleta* produto está *atrasada*O faç*
+PREP *N* V V *N* *N* ADV V *PROSUB* *NPROP V ADJ N*         A *transportadora* tentou realizar *coleta* *produto* não tinha *ninguém* *endereço*Eles tentarão nova colet*
+PROSUB *PCP* ADV V *NPROP V*                                Meu *pedido* ainda está *análise*O faze*
+V *N* V *PCP* V *PCP* N *N PCP* PROPESS V                   Recebi *e-mail* falando *pedido* foi *cancelado* falta *confirmação dados* O aconteceu
+PROSUB *N* V *PCP* *NPROP V V*                              Minha *compra* foi *cancelada* *paguei*O devo faze*
+*KS* *ADV-KS* *N* V *PCP*                                   *Quando* *onde* *presentes* serão *entregues*
+V *ADV ADV ADV* *V* *N*                                     Solicitei *troca*Em *quanto tempo* *receberei* *produto*
+PROSUB *PCP* *ADV V PCP N* V V                              Meu *pedido* *não foi entregue prazo* devo fazer
+PROSUB *PCP* ADV *ADV V PCP* V V                            Meu *pedido* ainda *não foi enviado* devo fazer

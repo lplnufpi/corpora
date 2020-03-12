@@ -1,0 +1,14 @@
+V *V* *N*                                                   iremos *cobrar* *saque*
+V *N N ADJ N* ADV V *PCP* *N N N*                           Tenho *nome "limpo"* não fui *aprovado* *análise Nubank*Por qu*
+*ADJ* *N*                                                   *preciso* *smartphone*
+*V* *NPROP NPROP*                                           *assinar* *Nubank Rewards*
+*N* ADV V *PCP*                                             *documento* não foi *aprovado*
+*PCP* *V* *PCP*                                             *pedido* *foi* *cancelado*
+*PCP* *ADV V* *PCP*                                         *pedido* *não foi* *aprovado*
+*PCP* *ADV V* *PCP*                                         *pedido* *não foi* *aprovado*
+V *V* *V* *N* *N*                                           estou *demorando* *receber* *rastreamento* *compra*
+*N* *N* V *PCP* *N*                                         *rastreamento* *encomenda* está *parado* ** *atualização*
+*N* *ADV V* *PCP*                                           *rastreamento* *não foi* *encontrado*
+*N* *N* PROSUB *N* V *ADJ*                                  *prazo* *entrega* alguns *produtos* é *maior*
+*N* PREP *N* *ADV V* *PCP*                                  *comentário* sobre *produto* *não foi* *aprovado*
+*ADV V* *V* *N N* N *NPROP*                                 *não posso* *trocar* *produtos lojistas* itens *Pontofrio.com*

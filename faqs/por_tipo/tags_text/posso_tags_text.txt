@@ -1,0 +1,64 @@
+*V* *N* PREP *N*                                            *pagar* *boleto* após *vencimento*
+*V* *N* PREP *V* PCP *NPROP*                                *alterar* *endereço* após *finalizar* pedido *KOIN*
+*V* N *N NPROP NPROP* *N*                                   *comprar* produtos *promoção Frete Grátis* *milhas*
+*V* *N PROADJ N* *V* *N*                                    *usar* *pontos outra pessoa* *pagar* *compras*
+*V* *N N* *N*                                               *comprar* *produtos promoção* *milhas*
+*V* *N* *N* *N* *PCP*                                       *pagar* *compras* *pontos* *reais* *pedido*
+*V* *NPROP NPROP* N ADV *PCP* V *PCP*                       *utilizar* *Vale Compra* desconto novamente *pedido* for *cancelado*
+*V* *PCP* *PCP*                                             *alterar* *pedido* *confirmado*
+*V* *PCP* V *N ADJ*                                         *solicitar* *pedido* venha *pacote presente*
+*V N* *NPROP*                                               *fazer saques* *NuConta*
+*V* *NPROP NPROP* PROADJ N                                  *cancelar* *Nubank Rewards* qualquer momento
+*V* *N ADJ* *N*                                             *agendar* *data específica* *montagem*
+*V* *N* PU N N PU PU                                        *marcar* *turno* (manhã tarde).
+*V* *N*                                                     *alugar* *armário*
+*V* *N*                                                     *levar* *personal*
+*V* *NPROP NPROP*                                           *utilizar* *Free Pass*
+*V* N PROSUB N                                              *usar* cartão outra pessoa
+*V* N                                                       *pagar* dinheiro
+*V* N                                                       *pagar* boleto
+*V* *N N*                                                   *escolher* *data cobrança*
+*V* *N ADJ*                                                 *trancar* *motivos médicos*
+*V* *N*                                                     *levar* *personal*
+*V* *N* *N*                                                 *fazer* *portabilidade* *salário*
+*V* *N* *N*                                                 *enviar* *documento* *formato*
+*V* *N*                                                     *cancelar* *transferência*
+*V* *N* *N*                                                 *enviar* *documento* *formato*
+*V* *N N* *V* *N* ADV NPROP                                 *receber* *SMS Token* *realizar* *operações* fora Brasil
+*V* *N* *N*                                                 *parcelar* *compra* *boleto*
+*V* *PCP* *N NPROP*                                         *comprar* *parcelado* *aplicativo PagBank*
+*V* *N*                                                     *comprar* *Televendas*
+*V* PROSUB *N PCP*                                          *adicionar* outro *produto pedido*
+*V* *N V*                                                   *alterar* *endereço entrega*
+*V* *V N* *PCP*                                             *alterar* *forma pagamento* *pedido*
+*V* *PCP* *NUM N* V PROADJ N                                *pagar* *pedido* *dois cartões* Existe alguma regra
+PROPESS *PCP* *ADV V* *PCP* *V* *V N*                       O *pedido* *não foi* *aprovado*  *alterar* *forma pagamento*
+*V* *PCP* *N* *N*                                           *pagar* *pedido* *boleto* *cartão*
+V V N *V* *N N*                                             Quero realizar compra  *agendar* *entrega produto*
+*V* *N* V *N N* *N ADJ* NPROP                               *retirar* *presentes* ganhei *Lista Casamento* *lojas físicas* RicardoEletro.com
+*V* *N* *N* ADV V V                                         *converter* *presentes* *vales-troca* Como devo proceder
+*V* *N* *V* *N ADJ N*                                       *somar* *vales-troca* *comprar* *produto maior valor*
+*V* *N* N ADJ                                               *utilizar* *vale-troca* lojas físicas
+*V* *N* *N* *PROADJ* *N*                                    *usar* *bônus* *vale-troca* *mesma* *compra*
+*V* *ADJ* *N ADJ*                                           *comprar* *presente* *loja física*
+PREP *V* *N* *V* *N N*                                      Após *concluir* *compra*  *alterar* *forma envio*
+V *V* *N* *N*                                               Quero *comprar* *livros* *vendedor*
+*V* *N* *V*                                                 *reservar* *livros* *comprar*
+ADV V *N* N *V*                                             Não encontrei *livro* site  *encomendar*
+V *N* *N* *PCP* ADV *N* PROADJ *N ADJ*                      efetuar *troca* *produto* *adquirido* através *site* alguma *loja física*
+*V* *N* *N*                                                 *parcelar* *valor* *compra*
+*V* *N* *N*                                                 *editar* *dados* *boleto*
+*V* *N* *N*                                                 *parcelar* *valor* *compra*
+*V* *N* *N*                                                 *editar* *dados* *boleto*
+*V* *NPROP NPROP*                                           *pagar* *Vale Cultura*
+*V* *N* *V* *N ADJ*                                         *comprar* *site* *retirar* *loja física*
+*V* *NPROP NPROP*                                           *aderir* *Fatura Digital*
+*V* *V* *N* *PCP NPROP*                                     *trocar* *devolver* *produtos* *comprados Internet*
+*V* *NPROP NPROP* *V* *NPROP NPROP*                         *comprar* *Loja Virtual* *trocar* *Loja Física*
+*V* *N* *PCP* *N NPROP* *PROADJ N*                          *trocar* *produto* *adquirido* *Loja Melissa* *outras lojas*
+*V* *N* *N* PREP *PCP* PCP                                  *alterar* *endereço* *entrega* após *finalizado* pedido
+*V* *N*                                                     *comprar* *telefone*
+*V* *N* *N* *N N*                                           *utilizar* *cupons* *vales* *produtos marketplace*
+*V* *V N* PREP *N* *PCP*                                    *alterar* *forma pagamento* após *fechamento* *pedido*
+*V* *N* *N ADJ* NPROP N                                     *trocar* *produtos* *lojas físicas* Ricardo Eletro
+V *N* PREP *N* *N* *ADV V* *N* *V* *ADJ N*                  Fiz *compras* via *boleto* ** *vendedor* *não tiver* *livro*  *emitir* *novo boleto*

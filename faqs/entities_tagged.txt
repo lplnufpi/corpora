@@ -1,0 +1,853 @@
+ADJ --- celular
+ADJ --- celular
+ADJ --- celular
+ADJ --- celular
+ADJ --- presente
+ADJ --- presente
+ADJ --- presente
+ADJ N --- finais semana
+ADJ N --- novo boleto
+ADJ N --- novo endereço
+ADJ N --- primeira visita
+ADJ N N --- finais semana feriados
+ADJ NPROP NPROP --- seguro Garantia Estendida
+ADJ PREP --- 2ª via
+ADJ PREP N ADJ NPROP NPROP --- 2ª via bilhete seguro Garantia Estendida
+ADJ PREP N ADJ PREP N N --- 2ª via apólice seguro contra roubo furto
+ADJ PREP NPROP NPROP --- 2ª via Boleto Bancário
+ADJ PREP NPROP NPROP --- 2ª via Boleto Bancário
+ADJ PREP NPROP NPROP NPROP PU NPROP PU --- 2ª via Nota Fiscal Eletrônica (NF-e)
+ADJ PREP NPROP NPROP NPROP PU NPROP PU --- 2ª via Nota Fiscal Eletrônica (NF-e)
+N --- CPF
+N --- Cartão
+N --- Cartão
+N --- Contestação
+N --- Correios
+N --- Correios
+N --- Correios
+N --- Devolução
+N --- Devoluções
+N --- Devoluções
+N --- Disputa
+N --- Disputa
+N --- Disputa
+N --- Disputa
+N --- Disputa
+N --- Disputa
+N --- Disputa
+N --- Disputa
+N --- Estante
+N --- Frete
+N --- Marketplace
+N --- Moderação
+N --- Moderação
+N --- Montador
+N --- Newsletter
+N --- Newsletter
+N --- Paypal
+N --- Pedido
+N --- Produto
+N --- Ressarcimento
+N --- SAC
+N --- SAC
+N --- SEDEX
+N --- SEDEX
+N --- Televendas
+N --- Transferência
+N --- Transportadora
+N --- Troca
+N --- Trocas
+N --- Trocas
+N --- Vendas
+N --- Vendedor
+N --- Vendedor
+N --- academia
+N --- acessório
+N --- alteração
+N --- armário
+N --- armários
+N --- atualização
+N --- aulas
+N --- aulas
+N --- aulas
+N --- aulas
+N --- ações
+N --- banho
+N --- bicicletário
+N --- bicicletário
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- boleto
+N --- brinde
+N --- bônus
+N --- cadastro
+N --- cadastro
+N --- cadastro
+N --- cadeado
+N --- cancelamento
+N --- cancelamento
+N --- cancelamento
+N --- carrinho
+N --- cartão
+N --- cartão
+N --- cliente
+N --- clientes
+N --- cobrança
+N --- cobranças
+N --- coleta
+N --- coleta
+N --- comentário
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- compra
+N --- comprador
+N --- compras
+N --- comprovante
+N --- comprovante
+N --- comprovantes
+N --- comprovantes
+N --- conta
+N --- contestação
+N --- contestação
+N --- convitinhos
+N --- correios
+N --- cupons
+N --- currículo
+N --- dados
+N --- depósito
+N --- devolução
+N --- devolução
+N --- devolução
+N --- devoluções
+N --- dias
+N --- dinheiro
+N --- dinheiro
+N --- dinheiro
+N --- dinheiro
+N --- disputa
+N --- disputa
+N --- documento
+N --- documento
+N --- documento
+N --- documentos
+N --- documentos
+N --- documentos
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- e-mail
+N --- emails
+N --- empréstimo
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- encomenda
+N --- endereço
+N --- endereço
+N --- endereço
+N --- endereço
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- entrega
+N --- envio
+N --- estacionamento
+N --- estacionamento
+N --- estorno
+N --- estorno
+N --- extrato
+N --- feriados
+N --- freepass
+N --- freepass
+N --- frete
+N --- frete
+N --- imagem
+N --- impressora
+N --- instituições
+N --- internet
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livro
+N --- livros
+N --- livros
+N --- livros
+N --- marketplace
+N --- matrícula
+N --- milhas
+N --- milhas
+N --- milhas
+N --- momento
+N --- montagem
+N --- noivos
+N --- objeto
+N --- objeto
+N --- operações
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- pagamento
+N --- personal
+N --- personal
+N --- peça
+N --- phishing
+N --- piscina
+N --- plano
+N --- pontos
+N --- pontos
+N --- pontos
+N --- prazo
+N --- presentes
+N --- presentes
+N --- presentes
+N --- presentes
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto
+N --- produto/serviço
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- produtos
+N --- professor
+N --- professor
+N --- programa
+N --- rastreamento
+N --- rastreamento
+N --- rastreamento
+N --- rastreamento
+N --- rastreamento
+N --- reais
+N --- recarga
+N --- recebedor
+N --- saldo
+N --- salário
+N --- salário
+N --- salário
+N --- salário
+N --- saque
+N --- senha
+N --- senha
+N --- senha
+N --- senha
+N --- senha
+N --- senha
+N --- serviço
+N --- serviço
+N --- serviço
+N --- serviços
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- site
+N --- smartphone
+N --- solicitação
+N --- tablet
+N --- tablet
+N --- tarifa
+N --- telefone
+N --- tempo
+N --- tempo
+N --- trancamento
+N --- transferência
+N --- transferência
+N --- transferência
+N --- transferência
+N --- transferências
+N --- transferências
+N --- transferências
+N --- transportadora
+N --- treino
+N --- treino
+N --- treino
+N --- treino
+N --- troca
+N --- troca
+N --- troca
+N --- troca
+N --- troca
+N --- troca
+N --- troca
+N --- troca
+N --- troca
+N --- trocas
+N --- unidades
+N --- uso
+N --- vale-troca
+N --- vale-troca
+N --- vale-troca
+N --- vale-troca
+N --- vales
+N --- vales-troca
+N --- vales-troca
+N --- valores
+N --- venda
+N --- venda
+N --- vendedor
+N --- vendedor
+N --- vendedor
+N --- vendedor
+N --- vestiário
+N ADJ --- E-mails promocionais
+N ADJ --- Estante Virtual
+N ADJ --- Estante Virtual
+N ADJ --- Estante Virtual
+N ADJ --- Estante Virtual
+N ADJ --- Nota fiscal
+N ADJ --- Transferência Instantânea
+N ADJ --- boleto bancário
+N ADJ --- boleto bancário
+N ADJ --- boleto bancário
+N ADJ --- capa ilustrativa
+N ADJ --- cartão adicional
+N ADJ --- cobrança frete
+N ADJ --- cobrança frete
+N ADJ --- condições frete
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- conta bancária
+N ADJ --- contas Pessoal
+N ADJ --- contas bancárias
+N ADJ --- contas bancárias
+N ADJ --- código vale-troca
+N ADJ --- dados cadastrais
+N ADJ --- dados cadastrais
+N ADJ --- dados pessoais
+N ADJ --- e-mail adicional
+N ADJ --- e-mails promocionais
+N ADJ --- embalagens presentes
+N ADJ --- entrega internacional
+N ADJ --- espaço kids
+N ADJ --- exame médico
+N ADJ --- instituição financeira
+N ADJ --- lista presentes
+N ADJ --- livros favoritos
+N ADJ --- loja física
+N ADJ --- loja física
+N ADJ --- loja física
+N ADJ --- loja física
+N ADJ --- loja virtual
+N ADJ --- lojas físicas
+N ADJ --- lojas físicas
+N ADJ --- manutenção anual
+N ADJ --- manutenção anual
+N ADJ --- montagem móveis
+N ADJ --- motivos médicos
+N ADJ --- plano anual
+N ADJ --- recarga celular
+N ADJ --- recarga celular
+N ADJ --- saldo negativo
+N ADJ --- saldo negativo
+N ADJ --- sites parceiros
+N ADJ --- tipos frete
+N ADJ --- transferência automática
+N ADJ --- vales cupons
+N ADJ ADJ --- nota fiscal eletrônica
+N ADJ ADJ --- nota fiscal eletrônica
+N ADJ N --- produto maior valor
+N ADV --- Frete Hoje
+N N --- Cadastro Vendedores
+N N --- Cartão Pré-Pago
+N N --- Cartão Pré-Pago
+N N --- Cartão Pré-Pago
+N N --- Cartão Pré-Pago
+N N --- Cartão Pré-Pago
+N N --- Cartão Pré-Pago
+N N --- Cartão Pré-Pago
+N N --- Cartão crédito
+N N --- Central Atendimento
+N N --- Chave Acesso
+N N --- Empréstimo Saque
+N N --- Fluxo Montagem
+N N --- Leitor Crédito
+N N --- Lista Casamento
+N N --- Lista Casamento
+N N --- Lista Casamento
+N N --- Lista Casamento
+N N --- Lista Casamento
+N N --- Lista Casamento
+N N --- Moderninha Pro
+N N --- Moderninha Pro
+N N --- QR Code
+N N --- QR Code
+N N --- QR Code
+N N --- SMS Token
+N N --- SMS Token
+N N --- SMS Token
+N N --- SMS Token
+N N --- Token Voz
+N N --- Transferência Contato
+N N --- Vendedor parceiro
+N N --- botão TROCA
+N N --- cartão crédito
+N N --- cartão crédito
+N N --- cartão crédito
+N N --- cartão débito
+N N --- confirmação pagamento
+N N --- conta Pessoal
+N N --- contato loja
+N N --- cupom desconto
+N N --- data cobrança
+N N --- data cobrança
+N N --- data cobrança
+N N --- data compra
+N N --- data entrega
+N N --- dia postagem
+N N --- e-mail cadastro
+N N --- entrega produto
+N N --- fechamento caixa
+N N --- formas envio
+N N --- formas pagamento
+N N --- formas pagamento
+N N --- formas pagamento
+N N --- formas pagamento
+N N --- formas pagamento
+N N --- formas pagamento
+N N --- grupo testes
+N N --- grupo testes
+N N --- horários funcionamento
+N N --- lista desejos
+N N --- modelo Pré-venda
+N N --- notificações sistema
+N N --- pedidos site
+N N --- período férias
+N N --- portabilidade salário
+N N --- produtos lojistas
+N N --- produtos lojistas
+N N --- produtos marketplace
+N N --- produtos marketplace
+N N --- produtos promoção
+N N --- relatório vendas
+N N --- relatório vendas
+N N --- relatórios vendas
+N N --- relatórios vendas
+N N --- taxa adesão
+N N --- taxa adesão
+N N --- taxa adesão
+N N --- valor recarga
+N N ADJ --- Nota Fiscal Eletrônica
+N N ADJ --- Nota Fiscal Eletrônica
+N N ADJ --- cupom frete grátis
+N N ADJ --- emissão nota fiscal
+N N ADJ --- tipos contas bancárias
+N N ADJ PU NPROP --- Nota Fiscal Eletrônica – NF-e
+N N ADJ PU NPROP PU --- Nota Fiscal Eletrônica (NF-e)
+N NPROP --- Aplicativo PagBank
+N NPROP --- Aplicativo PagBank
+N NPROP --- Black Friday
+N NPROP --- Black Friday
+N NPROP --- Black Friday
+N NPROP --- Black Friday
+N NPROP --- Conta Pagseguro
+N NPROP --- Loja Melissa
+N NPROP --- Loja Melissa
+N NPROP --- Loja Melissa
+N NPROP --- Loja Melissa
+N NPROP --- Transferência TED
+N NPROP --- análise Nubank
+N NPROP --- aplicativo PagBank
+N NPROP --- aplicativo PagBank
+N NPROP --- cartão Nubank
+N NPROP --- contas PagSeguro
+N NPROP --- plano Black
+N NPROP --- plano Black
+N NPROP --- plano Black
+N NPROP --- plano Black
+N NPROP --- plano Smart
+N NPROP --- plano Smart
+N NPROP --- plano Smart
+N NPROP --- plano Smart
+N NPROP --- serviço Montagem
+N NPROP NPROP --- Aplicativo PagSeguro PagBank
+N NPROP NPROP --- aplicativo PagSeguro Vendas
+N NPROP NPROP --- aplicativo PagSeguro Vendas
+N NPROP NPROP --- compras Black Friday
+N NPROP NPROP --- promoção Frete Grátis
+N NPROP NPROP NPROP PREP NPROP --- "Código Segurança" via SMS
+N NPROP NPROP NPROP PREP NPROP --- "Código Segurança" via SMS
+N NUM N --- bônus 5%
+N PCP --- Garantia Estendida
+N PCP --- produto pedido
+N PCP ADV --- Frete Garantido Amanhã
+N PCP N N PU N --- produto oferecido Vendedor parceiro / Marketplace
+N PCP N NPROP --- compra feita parceiro Marketplace
+N PREP N --- segunda via boleto
+N PREP N --- segunda via boleto
+N PREP N --- segunda via boleto
+N PREP N ADJ --- segunda via nota fiscal
+N PREP N N --- proteção contra roubo furto
+N PREP N N --- seguro contra roubo furto
+N PREP N NPROP NPROP --- rastreamento via transportadora -Total Express
+N PU N --- gaiola / agachamento
+N PU NPROP --- cancelamento - RJ
+N V --- Entrega Expressa
+N V --- Verificação Conta
+N V --- Verificação Conta
+N V --- compra expressa
+N V --- depósito conta
+N V --- endereço entrega
+N V --- endereço entrega
+N V --- formulário troca
+N V --- formulário troca
+N V --- prazo entrega
+N V --- sistema compra
+N V PROPESS PU --- "Encontre mim"
+NPROP --- DANFE
+NPROP --- DANFE
+NPROP --- Danfe
+NPROP --- Empresarial
+NPROP --- KOIN
+NPROP --- KOIN
+NPROP --- KOIN
+NPROP --- KOIN
+NPROP --- KOIN
+NPROP --- Koin
+NPROP --- Marisa
+NPROP --- Marisa
+NPROP --- Marisa.com.br
+NPROP --- Melissa
+NPROP --- Moderninha
+NPROP --- NuConta
+NPROP --- NuConta
+NPROP --- NuConta
+NPROP --- NuConta
+NPROP --- NuConta
+NPROP --- Nubank
+NPROP --- Nubank
+NPROP --- PAC
+NPROP --- PAC
+NPROP --- PAR-Q
+NPROP --- PagBank
+NPROP --- PagBank
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- PagSeguro
+NPROP --- Pagseguro
+NPROP --- Pagseguro
+NPROP --- PicPAY
+NPROP --- PicPAy
+NPROP --- PicPay
+NPROP --- PicPay
+NPROP --- Pontofrio.com
+NPROP --- SEFAZ
+NPROP --- TED
+NPROP --- TED
+NPROP --- TED
+NPROP --- TestFlight
+NPROP --- UOL
+NPROP --- iOS
+NPROP NPROP --- Cartão Conta
+NPROP NPROP --- Cartão Conta
+NPROP NPROP --- Cartão Nubank
+NPROP NPROP --- Cartão Nubank
+NPROP NPROP --- Cartão Nubank
+NPROP NPROP --- Cartão Nubank
+NPROP NPROP --- Caso Jurídico
+NPROP NPROP --- Caso Jurídico
+NPROP NPROP --- Celular Seguro
+NPROP NPROP --- Celular Seguro
+NPROP NPROP --- Celular Seguro
+NPROP NPROP --- Celular Seguro
+NPROP NPROP --- Centro Distribuição
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Empréstimo PagBank
+NPROP NPROP --- Fatura Digital
+NPROP NPROP --- Free Pass
+NPROP NPROP --- Loja Física
+NPROP NPROP --- Loja Física
+NPROP NPROP --- Loja Melissa.com
+NPROP NPROP --- Loja Virtual
+NPROP NPROP --- Milhagem Melissa
+NPROP NPROP --- Nota Fiscal
+NPROP NPROP --- Nubank Rewards
+NPROP NPROP --- Nubank Rewards
+NPROP NPROP --- Nubank Rewards
+NPROP NPROP --- PagSeguro PagBank
+NPROP NPROP --- Pagamento Contas
+NPROP NPROP --- Pessoa Jurídica
+NPROP NPROP --- Ricardo Eletro
+NPROP NPROP --- SAX Financeira
+NPROP NPROP --- Smart Fit
+NPROP NPROP --- Super Expressa
+NPROP NPROP --- Vale Compra
+NPROP NPROP --- Vale Compra
+NPROP NPROP --- Vale Compra
+NPROP NPROP --- Vale Compra
+NPROP NPROP --- Vale Cultura
+NPROP NPROP NPROP --- Nota Fiscal Devolução
+NPROP NPROP NPROP --- Nota Fiscal Paulista
+NPROP NPROP NPROP --- Nota Fiscal Paulista
+NPROP NPROP NPROP --- PagSeguro Vendas Beta
+NPROP NPROP NPROP --- Vale Compra Newsletter
+NPROP NPROP PU NPROP NPROP PU --- Aponte Pag (QR Code)
+NPROP NPROP PU NPROP NPROP PU --- Aponte Pag (QR Code)
+NPROP NPROP PU NPROP PU PU --- Aviso Recebimento (A.R.)
+NUM N --- dois cartões
+PCP --- atestado
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP --- pedido
+PCP N --- dados casamento
+PCP N --- pedido análise
+PCP N --- pedido transferência
+PREP N NPROP NPROP --- Em Análise Posto Fiscal
+PROADJ N --- Meus dados
+PROADJ N --- Minhas milhas
+PROADJ N --- mesmo produto
+PROADJ N --- meu boleto
+PROADJ N --- meu cartão
+PROADJ N --- meu pedido
+PROADJ N --- meus dados
+PROADJ N --- minha Conta
+PROADJ N --- minha Conta
+PROADJ N --- minha compra
+PROADJ N --- minha compra
+PROADJ N --- minha conta
+PROADJ N --- minha conta
+PROADJ N --- minha conta
+PROADJ N --- minha conta
+PROADJ N --- minha conta
+PROADJ N --- minha conta
+PROADJ N --- minha senha
+PROADJ N --- minhas Milhas
+PROADJ N --- minhas compras
+PROADJ N --- minhas compras
+PROADJ N --- minhas milhas
+PROADJ N --- minhas milhas
+PROADJ N --- minhas milhas
+PROADJ N --- minhas vendas
+PROADJ N --- outras lojas
+PROADJ N ADJ --- minha conta bancária
+PROADJ N NPROP --- minha conta PagSeguro
+PROADJ NPROP --- Minha Minizinha
+PROADJ NPROP --- Minha Minizinha
+PROSUB --- ninguém
+PROSUB --- ninguém
+V --- demorando
+V --- fatura
+V --- fatura
+V ADJ --- Retira Fácil
+V ADJ --- Retira Fácil
+V ADJ --- Retira Fácil
+V N --- conta Vendedor
+V N --- entrega produtos
+V N --- forma pagamento
+V N N --- troca produtos lojistas
+V N NPROP --- vale compra Newsletter
+V NPROP --- Conta PJ
+V NPROP --- Conta PJ
+V NPROP --- Conta PJ
+V NPROP --- Conta PJ
+V NPROP --- Conta PJ
+V NPROP --- Conta PagBank
+V NPROP --- Conta PagSeguro
+V NPROP --- Conta PagSeguro
+V NPROP --- conta PagSeguro
+V NPROP --- conta PagSeguro
+V NPROP --- conta PagSeguro
+V NPROP NPROP --- conta Pessoa Física
+V NPROP NPROP --- conta Pessoa Jurídica
+V V --- vale compra
+V V --- vale troca
+V V --- vale troca

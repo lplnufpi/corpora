@@ -1,0 +1,43 @@
+N                                                             141
+PCP                                                           68
+V                                                             28
+ADJ                                                           25
+N N                                                           19
+PROADJ N                                                      14
+ADV V                                                         12
+N ADJ                                                         12
+N PCP                                                         10
+V N                                                           7
+N V                                                           6
+NPROP                                                         3
+ADV                                                           3
+ADV V PCP                                                     3
+PCP N                                                         2
+PREP N                                                        2
+ADV V PCP N                                                   2
+ADV N                                                         2
+ADV ADV                                                       2
+ADV NPROP                                                     1
+PROADJ                                                        1
+N PCP PCP                                                     1
+PDEN N                                                        1
+ADJ PREP                                                      1
+NPROP NPROP                                                   1
+ADV V PDEN                                                    1
+NUM N                                                         1
+ADJ PREP N                                                    1
+N PROADJ N                                                    1
+ADV-KS                                                        1
+PCP NPROP                                                     1
+N PU N PU N PU N PU V N                                       1
+V ADV                                                         1
+N PCP N                                                       1
+PREP                                                          1
+N NPROP                                                       1
+N N ADJ N                                                     1
+PCP NPROP NPROP                                               1
+N ADJ N ADJ                                                   1
+ADJ N                                                         1
+V ADJ                                                         1
+KS                                                            1
+PROSUB V                                                      1

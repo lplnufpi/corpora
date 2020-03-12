@@ -1,0 +1,237 @@
+*V*                                                                     *pagar*
+*V* *N*                                                                 *trocar* *treino*
+*V* *N*                                                                 *usar* *armários*
+*V* *N   N*                                                             *pagar* *cartão crédito*
+*V* *N   N*                                                             *vendo* *QR Code*
+ V  *N   N*                                                             funciona *pagamento Paypal*
+ V  *N   N*                                                             Funciona *Fluxo Montagem*
+ V  *N* *N*                                                             faço *venda* *boleto*
+*V* *N* *N   ADJ*                                                       faço *transferir* *saldo* *conta bancária*
+*V* *N       ADJ*                                                       *fazer* *exame médico*
+*V* *N       ADJ*                                                       *pagar* *boleto bancário*
+*V* *N       ADJ*                                                       faço *alterar* *dados cadastrais*
+*V*          ADJ  *N*                                                   *contratar* novo *plano*
+*V*         *ADJ* *N ADJ*                                               *cadastrar* *nova* *conta bancária*
+
+*V* *N*     *NPROP*                                            *encerrar* *conta* *PagSeguro*
+ V  *N* *N   NPROP*                                            faço *cadastro* *Loja Melissa*
+*V*  N  *N   NPROP*                                            faço *participar* teste *Conta PJ*
+*V* *N       NPROP*                                            *cancelar* *plano Smart*
+*V* *N       NPROP*                                            *cancelar* *plano Black*
+*V* *N       NPROP* *N NPROP*                                  *mudar* *plano Smart* *plano Black*
+
+    *N*              *NPROP* *NPROP*                                    posso entrar *contato* *Loja* *Melissa.com*
+    *N*      *N*     *NPROP*                                            *altero* *dados* *PagSeguro*
+    *N*      *N*     *NPROP*                                            vejo *limite* *conta* *PagSeguro*
+    *N*      *N*     *NPROP*                                            *altero* *dados* *PagSeguro*
+    *N*      *N       N*                                                *recarrego* *Cartão Pré-Pago*
+
+*V*                  *NPROP*                                            *comprar* *PicPAY*
+*V*                  *NPROP*                                            *comprar* *KOIN*
+*V*                  *NPROP   NPROP*                                    *Utilizar* *Vale Compra*
+*V*                  *NPROP   NPROP*                                    *funciona* *Empréstimo PagBank*
+*V* *N*      *N       N*                                                *ter* *cartão* *função débito*
+*V* *N*      *N       N       ADJ*                                      *solicito* *XML* *Nota Fiscal Eletrônica*
+*V* *N*                      *NPROP*                                    *alterar* *senha* *PagSeguro*
+*V* *N*      *N              *NPROP*                                    *validar* *Token* *Aplicativo PagBank*
+*V* *N* PREP *N       PCP*   *NPROP*                                    *funciona* *cancelamento* após *pagamento aprovado* *PicPay*
+*V* *N* V N          *NPROP   NPROP*                                    *pagar* *conta* usando Aplicativo *PagSeguro PagBank*
+*V*  N               *PCP*                                              *acompanhar* andamento *pedido*
+*V*                   PCP    *N*                                        faço *finalizar* pedido *milhas*
+*V*                  *PCP*                                              *fazer* *pedido*
+*V*                  *NPROP*                                            faço *falar* *PagSeguro*
+*V*                  *NPROP*                                            *cancelar* *TED*
+*V* *V*              *NPROP*                                            *encerrar* *conta* *PagSeguro*
+*V* *V*      *N*     *NPROP   NPROP*                                    *desbloquear* *receber* *senha* *Cartão Conta*
+ V  *N* V *V*                                                           Esqueci *senha* faço *recuperar*
+ V  *N ADJ*                                                             faço *recarga celular*
+
+
+V PROSUB *N N* *ADJ*                                        escolho outro *valor recarga* *celular*
+V *N* *NPROP NPROP*                                         faço *pagamento* *Empréstimo PagBank*
+*N* *N* V *NPROP* PROSUB *N ADJ*                            *troco* *salário* recebo *PagSeguro* outra *instituição financeira*
+V *V* *NPROP NPROP PU NPROP NPROP PU*                       faço *comprar* *Aponte Pag (QR Code)*
+V *N* *N N* *N NPROP*                                       vejo *saldo* *Cartão Pré-Pago* *Aplicativo PagBank*
+*N* *N* *N N* *N NPROP*                                     *consulto* *extrato* *Cartão Pré-Pago* *Aplicativo PagBank*
+*V* *N* *N* *N NPROP NPROP*                                 *recuperar* *senha* *Cartão* *Aplicativo PagSeguro PagBank*
+*V* *N ADJ*                                                 *verificar* *conta bancária*
+*ADV V* *N ADJ* *N* *V NPROP*                               *Não tenho* *conta bancária* *verifico* *conta PagSeguro*
+V *N* *N* *NPROP NPROP*                                     faço *cadastro* *alteração* *Celular Seguro*
+*N* *N N* *PROADJ NPROP* *N NPROP NPROP*                    *visualizo* *relatórios vendas* *Minha Minizinha* *aplicativo PagSeguro Vendas*
+*V* *N N* *N N*                                             *imprimir* *fechamento caixa* *Moderninha Pro*
+*V* *N N*                                                   *extrair* *relatório vendas*
+*N* *N* V *ADJ* *V NPROP*                                   *consulto* *dinheiro* está *disponível* *Conta PagSeguro*
+V *N*                                                       faço *estorno*
+*V* N *N* *N* *V* *NPROP*                                   *rastrear* envio *produto* *serviço* *comprei* *Pagseguro*
+*V* *N*                                                     *cancelar* *compra*
+V *V* ADJ *N* *NPROP*                                       faço *testar* novos *produtos* *PagSeguro*
+V *V* N *N N*                                               faço *fazer* parte *grupo testes*
+V *V* N *NPROP NPROP NPROP* *NPROP*                         faço *instalar* aplicativo *PagSeguro Vendas Beta* *iOS*
+*N* *N N*                                                   *recarrego* *Cartão Pré-Pago*
+V *V* *N* *N ADJ*                                           faço *transferir* *saldo* *conta bancária*
+*V* *ADJ* *N ADJ*                                           *cadastrar* *nova* *conta bancária*
+*V* *N ADJ* *V* *NPROP*                                     *excluir* *conta bancária* *Conta* *PagSeguro*
+*N* *N ADJ* *N N*                                           *habilito* *transferência automática* *Cartão Pré-Pago*
+V *N* *N NPROP*                                             faço *transferência* *contas PagSeguro*
+*V* *N* *V NPROP*                                           *depositar* *dinheiro* *Conta PagBank*
+V *N* *NPROP NPROP*                                         faço *pagamento* *Empréstimo PagBank*
+*V* *ADJ PREP N* *NPROP NPROP*                              *solicito* *2ª via boleto* *Empréstimo PagBank*
+*V* *NPROP NPROP*                                           *quitar* *Empréstimo PagBank*
+*V* *N ADJ*                                                 *verificar* *conta bancária*
+*ADV V* *N ADJ* *N* *V NPROP*                               *Não tenho* *conta bancária* *verifico* *conta PagSeguro*
+*V* *N PCP* *N ADJ*                                         *informar* *valores depositados* *conta bancária*
+V *N* *N* *NPROP NPROP*                                     faço *cadastro* *alteração* *Celular Seguro*
+*V* *N* ADV V *PCP* *NPROP*                                 *identificar* *e-mail* não foi *enviado* *PagSeguro*
+*N* *N N* *PROADJ NPROP* *N NPROP NPROP*                    *visualizo* *relatórios vendas* *Minha Minizinha* *aplicativo PagSeguro Vendas*
+*V* *N N* *N N*                                             *imprimir* *fechamento caixa* *Moderninha Pro*
+*V* *N N*                                                   *extrair* *relatório vendas*
+*N* *N* V *ADJ* *V NPROP*                                   *consulto* *dinheiro* está *disponível* *Conta PagSeguro*
+*N* *N* *V NPROP*                                           *exporto* *vendas* *conta PagSeguro*
+*V* *NPROP NPROP NPROP* N                                   *gerar* *Nota Fiscal Devolução* troca
+V *V* *N* *N*                                               faço *inserir* *comprovantes* *contestação*
+*N* *N* *N*                                                 *adiciono* *comprovante* *Disputa*
+*V* *N*                                                     *abrir* *Disputa*
+*V* *N*                                                     *encerro* *Disputa*
+PROPESS *N* *V* *N* V N                                     O *comprador* *abriu* *Disputa* devo procede*
+V *V* *N* *NPROP NPROP*                                     faço *inserir* *comprovantes* *Caso Jurídico*
+*V* *N* *N* *N* *V* *NPROP*                                 *rastrear* *envio* *produto* *serviço* *comprei* *Pagseguro*
+*V* *N* *N*                                                 *acompanho* *status* *pagamento*
+PROSUB *N* *N V* V *PCP* V V                                Meu *pagamento* *depósito conta* foi *estornado*  devo proceder
+V *N*                                                       faço *estorno*
+*V* *N* V *PCP*                                             *confirmo* *compra* está *cancelada*
+V *V* *N N*                                                 faço *saber* *e-mail cadastro*
+V *V* *N*                                                   faço *recuperar* *senha*
+V *V* *PCP*                                                 faço *realizar* *pedido*
+V *V* *N* V                                                 faço *achar* *produto* quero
+*N* *N*                                                     *encontro* *produto*
+V *V* *N V*                                                 faço *alterar* *endereço entrega*
+*V* *N ADJ*                                                 *recuperar* *código vale-troca*
+V *V* *N ADJ*                                               faço *utilizar* *vales cupons*
+V *PCP* *V N*                                               é *feita* *entrega produtos*
+_ NPROP *V* *V ADJ*                                         _ Como_ *funciona* *Retira Fácil*
+_ NPROP *V* *N PCP ADV*                                     _ Como_ *funciona* *Frete Garantido Amanhã*
+V *V* *N* PCP                                               posso *acompanhar* *entrega* pedido
+*V* *N ADJ*                                                 *funcionam* *embalagens presentes*
+V *V* *N N*                                                 faço *cadastrar* *cartão crédito*
+V *V* *N N*                                                 faço *comprar* *cartão débito*
+V *V* *N PREP N*                                            faço *imprimir* *segunda via boleto*
+V *V* *N*                                                   faço *cancelar* *compra*
+V *V* *N*                                                   faço *solicitar* *devolução*
+V *V* *N*                                                   faço *solicitar* *troca*
+V *V* *N*                                                   faço *utilizar* *vale-troca*
+V *V* *N*                                                   faço *acompanhar* *entrega*
+*V* *N*                                                     *agendar* *entrega*
+*N* *N*                                                     *altero* *endereço*
+V PCP *N*                                                   é feita *entrega*
+V *V* *PCP* V *PCP*                                         faço *saber* *pedido* foi *aprovado*
+*V* *ADJ PREP NPROP NPROP*                                  *imprimir* *2ª via Boleto Bancário*
+V *PCP* *V N N*                                             é *feita* *troca produtos lojistas*
+V *V* *N*                                                   faço *trocar* *produto*
+*V* *ADJ PREP NPROP NPROP NPROP PU NPROP PU*                *solicitar* *2ª via Nota Fiscal Eletrônica (NF-e)*
+*V* *N N* *NPROP NPROP*                                     *solicitar* *carta correção* *Nota Fiscal*
+*V* *N*                                                     *alterar* *cadastro*
+*V* *N* *N*                                                 *recuperar* *senha* *e-mail*
+*V* *N*                                                     *alterar* *cadastro*
+V PCP *N* *N N*                                             é feita *troca* *produtos lojistas*
+V *V* *PCP* V *PCP*                                         faço *saber* *pedido* foi *aprovado*
+*V* *ADJ PREP NPROP NPROP NPROP PU NPROP PU*                *solicitar* *2ª via Nota Fiscal Eletrônica (NF-e)*
+V *V* *N*                                                   faço *cancelar* *entrega*
+*V* *N* *N*                                                 *recuperar* *senha* *e-mail*
+*V* *N*                                                     *cadastrar* *site*
+*N* *N ADJ*                                                 *atualizo* *dados cadastrais*
+V *N* V *N* N                                               Sei *senha* quero *alterá-la* faç*
+*V* *N* V N                                                 *Troquei* *e-mail* devo procede*
+*V*                                                         *comprar*
+*V* *N*                                                     *cadastrar* *site*
+*V* *N N*                                                   *consultar* *pedidos site*
+*ADV V V* *N ADJ* N                                         *Não quero receber* *e-mails promocionais* faç*
+*V* *N*                                                     *acompanho* *entrega*
+*V* *N ADJ*                                                 *funciona* *cobrança frete*
+*V* *N PREP N ADJ* PCP                                      *solicitar* *segunda via nota fiscal* pedido
+V N V PCP PU N PU V *V* *N*                                 Fiz compra estou arrependido(a) faço *cancelar* *entrega*
+V *V* *N*                                                   faço *trocar* *produto*
+V *N* *N*                                                   faço *devolução* *produto*
+V *V* *V V*                                                 faço *utilizar* *vale troca*
+*V* *ADJ PREP NPROP NPROP*                                  *imprimir* *2ª via Boleto Bancário*
+*V* *PCP* V *PCP*                                           *saber* *pedido* foi *aprovado*
+ADV V *V* *N* V ADJ V                                       Não consegui *imprimir* *boleto* é necessário fazer
+ADV ADV *V* *V NPROP N*                                     Não consigo *usar* *vale troca*O faç*
+V *N* *N* *N* N V *PCP* N                                   Fiz *compra* *vale-troca* *cartão* cartão foi *reprovado* procede*
+V *N* *N* *N* *V* *V* N V                                   Fiz *compra* *vale-trocas* *boleto* *esqueci* *pagar* boleto proceder
+V *N* *N* *N* N                                             Fiz *pagamento* *boleto* *duplicidade* procede*
+*V* *ADJ NPROP NPROP*                                       *adquirir* *seguro Garantia Estendida*
+*V* *ADJ PREP N ADJ NPROP NPROP*                            *obter* *2ª via bilhete seguro Garantia Estendida*
+*V* *N PREP N N*                                            *adquirir* *seguro contra roubo furto*
+*V* *ADJ PREP N ADJ PREP N N*                               *obter* *2ª via apólice seguro contra roubo furto*
+*V* *N ADJ*                                                 *funciona* *montagem móveis*
+*V* *N ADJ*                                                 *funciona* *cobrança frete*
+*V* *N PCP N N PU N*                                        *identificar* *produto oferecido Vendedor parceiro / Marketplace*
+*V* *N PCP N NPROP*                                         *acompanhar* *compra feita parceiro Marketplace*
+V *V* *N N* V PROSUB *N*                                    faço *cadastrar* *Lista Casamento* Existe algum *custo*
+V *V* *N N*                                                 faço *divulgar* *Lista Casamento*
+V *V* *N* *N N*                                             faço *adicionar* *produtos* *Lista Casamento*
+*V* *N* KC *PCP N*                                          *alterar* *dados* E *dados casamento*
+*V* *ADJ N*                                                 *cadastrar* *novo endereço*
+V *V* *N*                                                   faço *receber* *presentes*
+V *V* *N N N*                                               Quero *receber* *convitinhos*_ Como_ faç*
+*V* V *PCP*                                                 *saberei* fui *presenteado*
+*V* *N* *N*                                                 *realizar* *trocas* *devoluções*
+*V* *N NUM N*                                               *funciona* *bônus 5%*
+*V* *N ADJ*                                                 *encontrar* *lista presentes*
+*V* *V* *ADJ*                                               *escolher* *comprar* *presente*
+*V* *N* *V* *ADJ*                                           *saberei* *noivos* *receberam* *presente*
+*V* *PCP*                                                   *acompanhar* *pedido*
+*V* *N ADJ*                                                 *comprar* *Estante Virtual*
+*V* *PCP*                                                   *acompanhar* *pedido*
+*V* *N ADJ*                                                 *comprar* *Estante Virtual*
+*V* *N* V *ADJ*                                             *saber* *livro* está *disponível*
+*V* *N*                                                     *buscar* *livro*
+*V* *N ADJ* *N*                                             *saber* *estado conservação* *livro*
+*V* *N* *N*                                                 *retirar* *livros* *carrinho*
+*V* *V* *N* PREP *N*                                        *avaliar* *fazer* *reclamação* sobre *vendedor*
+*V* *N N* *N ADJ*                                           *criar* *lista desejos* *livros favoritos*
+*NPROP* *N* *N V PROPESS PU* _ N V *V* *N* V *ADJ*          *Cadastrei* *livro* *"Encontre mim"* _ como_ vou *saber* *livro* está *disponível*
+*V* *N*                                                     *trocar* *livro*
+*V* *V* *V* *N*                                             *cancelar* *trocar* *devolver* *compra*
+V *V* *N*                                                   faço *imprimir* *boleto*
+V PU *N* *N PREP N*                                         Comprando:  *emito* *segunda via boleto*
+V *V* *N*                                                   faço *imprimir* *boleto*
+ADJ *N* *N* *V*                                             Preciso *comprovante* *compra*  *receber*
+*N* V *PCP*                                                 *frete* é *calculado*
+ADV V *V* *N* *ADJ* *N*                                     Não quero *receber* *emails* *promocionais*  *descadastro*
+V *N* *N* *N ADJ*                                           Sou *comprador*  *altero* *dados cadastrais*
+V N PU *N* *N* *N*                                          Sou comprador:  *altero* *endereço* *entrega*
+*V* *V* *N*                                                 *sair* *deslogar* *conta*
+*V* *N*                                                     *excluir* *cadastro*
+PROPESS V *N* *N* V                                         Eu tenho *garantia* *compra*  funciona
+*V* *N*                                                     *falar* *Vendedor*
+V N PU *V* *N ADJ*                                          Sou comprador:  *falar* *Estante Virtual*
+*V* *N*                                                     *enviar* *currículo*
+*V* N *N* *N* *N*                                           *proceder* caso *perda* *roubo* *Cartão*
+*V* *N* *N*                                                 *fazer* *alterações* *dados*
+*V* *N* *V*                                                 *realizar* *pagamento* *fatura*
+*V* *ADJ PREP* *V*                                          *conseguir* *2ª via* *fatura*
+V *V* *NPROP*                                               faço *trabalhar* *Marisa*
+V *V* N V                                                   Quero *trocar* produto  proceder
+V *N* *ADV N* *PCP*                                         funciona *cancelamento* *antes envio* *pedido*
+V *N* *PCP* *ADV N*                                         funciona *alteração* *pedido* *antes envio*
+V *V* *NPROP NPROP* *N*                                     faço *utilizar* *Vale Compra* *Newsletter*
+*V* *N* *N*                                                 *funciona* *cadastro* *Newsletter*
+*V* *N* *N* V *ADJ*                                         *solicito* *troca* *produto* ganhei *presente*
+*V* *NPROP NPROP*                                           *receberei* *Vale Compra*
+V *V* *N*                                                   proceder *trocar* *produto*
+V *PCP* *V* ADV *V N* *NPROP* V ADV                         Recebi *pedido* *adquiri* através *forma pagamento* *KOIN* faço agora
+V *V PROADJ N* V                                            faço *ver quantos pontos* tenho
+V *PCP* V *PCP*                                             sei *pedido* foi *realizado*
+V V *PCP* V *PCP*                                           fico sabendo *pedido* foi *aprovado*
+V *N V* *NPROP NPROP*                                       funciona *lista espera* *Cartão Nubank*
+*V* *NPROP NPROP*                                           *assino* *Nubank Rewards*
+*NPROP* *V N* ADV V *N*                                     *Nubank* *ganha dinheiro* não cobra *tarifas*
+*V* *N N* *N ADJ* *N* N N                                   *solicito* *segunda via* *Nota fiscal* *prazo* recebimento documento
+*N* N *NPROP* *V* *N ADJ ADJ*                               *acesso* site *SEFAZ* *imprimir* *nota fiscal eletrônica*
+*ADJ* *N* *NPROP*                                           *ativo* *conta* *PagSeguro*
+*ADJ* *N* *NPROP*                                           *ativo* *conta* *PagSeguro*
+*N* *NPROP*                                                 *cadastro* *PagSeguro*
+PROSUB *N* V *PCP* *NPROP* V *V*                            Meu *e-mail* consta *cadastrado* *PagSeguro* devo *proceder*
+V *V* *N* V *N*                                             devo *embalar* *produto* enviar *troca*
+V *N N* V N *V* *NPROP* V N                                 Tenho *conta Pessoal* tenho interesse *vender* *PagSeguro* devo procede*

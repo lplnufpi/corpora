@@ -1,9 +1,6 @@
 import re
 from stopwords import stopwords
 
-def get_index_last(i, words):
-    if words[i].endswith('*'):
-        return 1
 
 filenames = ['como', 'direta', 'existe', 'o_que', 'por_que', 'posso', 'qual']
 
@@ -34,7 +31,7 @@ for filename in filenames:
                     markeds[-1] = markeds[-1][:-1]
 
                     markeds = [w for w in markeds if w not in stopwords]
-                    no_stopwords.append('< {} >'.format(' '.join(markeds)))
+                    no_stopwords.append('*{}*'.format(' '.join(markeds)))
                 else:
                     if word not in stopwords:
                         no_stopwords.append(word)

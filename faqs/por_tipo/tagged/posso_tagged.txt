@@ -1,0 +1,64 @@
+_ Posso/V _ *pagar/V* *boleto/N* após/PREP *vencimento/N*
+_ Posso/V _ *alterar/V* *endereço/N* após/PREP *finalizar/V* pedido/PCP *KOIN/NPROP*
+_ Posso/V _ *comprar/V* produtos/N *promoção/N Frete/NPROP Grátis/NPROP* *milhas/N*
+_ Posso/V _ *usar/V* *pontos/N outra/PROADJ pessoa/N* *pagar/V* *compras/N*
+_ Posso/V _ *comprar/V* *produtos/N promoção/N* *milhas/N*
+_ Posso/V _ *pagar/V* *compras/N* *pontos/N* *reais/N* *pedido/PCP*
+_ Posso/V _ *utilizar/V* *Vale/NPROP Compra/NPROP* desconto/N novamente/ADV *pedido/PCP* for/V *cancelado/PCP*
+_ Posso/V _ *alterar/V* *pedido/PCP* *confirmado/PCP*
+_ Posso/V _ *solicitar/V* *pedido/PCP* venha/V *pacote/N presente/ADJ*
+_ Posso/V _ *fazer/V saques/N* *NuConta/NPROP*
+_ Posso/V _ *cancelar/V* *Nubank/NPROP Rewards/NPROP* qualquer/PROADJ momento/N
+_ Posso/V _ *agendar/V* *data/N específica/ADJ* *montagem/N*
+_ Posso/V _ *marcar/V* *turno/N* (/PU manhã/N tarde/N )/PU ./PU
+_ Posso/V _ *alugar/V* *armário/N*
+_ Posso/V _ *levar/V* *personal/N*
+_ Posso/V _ *utilizar/V* *Free/NPROP Pass/NPROP*
+_ Posso/V _ *usar/V* cartão/N outra/PROSUB pessoa/N
+_ Posso/V _ *pagar/V* dinheiro/N
+_ Posso/V _ *pagar/V* boleto/N
+_ Posso/V _ *escolher/V* *data/N cobrança/N*
+_ Posso/V _ *trancar/V* *motivos/N médicos/ADJ*
+_ Posso/V _ *levar/V* *personal/N*
+_ Posso/V _ *fazer/V* *portabilidade/N* *salário/N*
+_ Posso/V _ *enviar/V* *documento/N* *formato/N*
+_ Posso/V _ *cancelar/V* *transferência/N*
+_ Posso/V _ *enviar/V* *documento/N* *formato/N*
+_ Posso/V _ *receber/V* *SMS/N Token/N* *realizar/V* *operações/N* fora/ADV Brasil/NPROP
+_ Posso/V _ *parcelar/V* *compra/N* *boleto/N*
+_ Posso/V _ *comprar/V* *parcelado/PCP* *aplicativo/N PagBank/NPROP*
+_ Posso/V _ *comprar/V* *Televendas/N*
+_ Posso/V _ *adicionar/V* outro/PROSUB *produto/N pedido/PCP*
+_ Posso/V _ *alterar/V* *endereço/N entrega/V*
+_ Posso/V _ *alterar/V* *forma/V pagamento/N* *pedido/PCP*
+_ Posso/V _ *pagar/V* *pedido/PCP* *dois/NUM cartões/N* Existe/V alguma/PROADJ regra/N
+O/PROPESS *pedido/PCP* *não/ADV foi/V* *aprovado/PCP* _ posso/V _ *alterar/V* *forma/V pagamento/N*
+_ Posso/V _ *pagar/V* *pedido/PCP* *boleto/N* *cartão/N*
+Quero/V realizar/V compra/N _ possa/V _ *agendar/V* *entrega/N produto/N*
+_ Posso/V _ *retirar/V* *presentes/N* ganhei/V *Lista/N Casamento/N* *lojas/N físicas/ADJ* RicardoEletro.com/NPROP
+_ Posso/V _ *converter/V* *presentes/N* *vales-troca/N* Como/ADV devo/V proceder/V
+_ Posso/V _ *somar/V* *vales-troca/N* *comprar/V* *produto/N maior/ADJ valor/N*
+_ Posso/V _ *utilizar/V* *vale-troca/N* lojas/N físicas/ADJ
+_ É/V possível/ADJ _ *usar/V* *bônus/N* *vale-troca/N* *mesma/PROADJ* *compra/N*
+_ Posso/V _ *comprar/V* *presente/ADJ* *loja/N física/ADJ*
+Após/PREP *concluir/V* *compra/N* _ posso/V _ *alterar/V* *forma/N envio/N*
+Quero/V *comprar/V* *livros/N* *vendedor/N* _ é/V possível/ADJ _
+_ Posso/V _ *reservar/V* *livros/N* *comprar/V*
+Não/ADV encontrei/V *livro/N* site/N _ posso/V _ *encomendar/V*
+_ Posso/V _ efetuar/V *troca/N* *produto/N* *adquirido/PCP* através/ADV *site/N* alguma/PROADJ *loja/N física/ADJ*
+_ Posso/V _ *parcelar/V* *valor/N* *compra/N*
+_ É/V possível/ADJ _ *editar/V* *dados/N* *boleto/N*
+_ Posso/V _ *parcelar/V* *valor/N* *compra/N*
+_ É/V possível/ADJ _ *editar/V* *dados/N* *boleto/N*
+_ Posso/V _ *pagar/V* *Vale/NPROP Cultura/NPROP*
+_ É/V possível/ADJ _ *comprar/V* *site/N* *retirar/V* *loja/N física/ADJ*
+_ É/V possível/ADJ _ *aderir/V* *Fatura/NPROP Digital/NPROP*
+_ Posso/V _ *trocar/V* *devolver/V* *produtos/N* *comprados/PCP Internet/NPROP*
+_ Posso/V _ *comprar/V* *Loja/NPROP Virtual/NPROP* *trocar/V* *Loja/NPROP Física/NPROP*
+_ Posso/V _ *trocar/V* *produto/N* *adquirido/PCP* *Loja/N Melissa/NPROP* *outras/PROADJ lojas/N*
+_ Posso/V _ *alterar/V* *endereço/N* *entrega/N* após/PREP *finalizado/PCP* pedido/PCP
+_ Posso/V _ *comprar/V* *telefone/N*
+_ Posso/V _ *utilizar/V* *cupons/N* *vales/N* *produtos/N marketplace/N*
+_ Posso/V _ *alterar/V* *forma/V pagamento/N* após/PREP *fechamento/N* *pedido/PCP*
+_ Posso/V _ *trocar/V* *produtos/N* *lojas/N físicas/ADJ* Ricardo/NPROP Eletro/N
+Fiz/V *compras/N* via/PREP *boleto/N* *vendedor/N* *não/ADV tiver/V* *livro/N* _ posso/V _ *emitir/V* *novo/ADJ boleto/N*

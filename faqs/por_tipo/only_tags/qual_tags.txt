@@ -1,0 +1,74 @@
+*N N* ADJ
+*N N* PREP *N PCP* *NPROP*
+N N ADJ *V* PCP *N*
+N V *N* *N NPROP*
+V *N* *NPROP NPROP*
+N *NPROP* *V NPROP*
+*N ADJ* *N*
+*N* V *V*
+V *N N*
+*N* *V*
+*N* *N ADJ*
+*N* *N N*
+*N N*
+V *N N*
+N *N N*
+N V *V*
+*N* *N ADJ* *N* *NPROP*
+V *N* *N*
+V *N N ADJ* *PCP* *N* *NPROP*
+*N ADJ* *NPROP NPROP*
+V *N PCP* *NPROP NPROP*
+*N* *V* *N N*
+*N* V V *N N* *PCP*
+*N* *N* *N ADJ*
+PREP *N* V *V* *NPROP*
+*N ADJ* V *PCP* *NPROP*
+*N* *N* *NPROP* *N*
+*N* *N* V *PCP*
+V N *N ADJ* *PCP* *N* *NPROP*
+V *N* *PCP* *V* *V NPROP NPROP*
+V *N* *PCP* *V* *V NPROP NPROP*
+*N* V *N* *N ADJ*
+*N* V *PCP* *V* *N* *N* *N*
+*N* N *NPROP* *N*
+V *N* *N* PREP *NPROP*
+N *V* *NPROP* *V*
+N *N* *N ADJ*
+N *N* V *PCP*
+V *N* V *N NPROP*
+V *N ADJ* *ADJ*
+V *N N* *N N*
+V *N ADJ*
+V *N V* *PCP*
+V *N N* PCP N
+V *N V* *N ADJ*
+V *N* *N N*
+_ N V *N N* *N*
+*N N* *ADJ*
+*N N* *PCP*
+*N N* ADJ *N NPROP NPROP*
+V *N V* *N*
+*N* *N N ADJ*
+*N N* *N*
+*N N* V V
+*N N* *N*
+*N N* *PCP*
+V *N* *N N* NPROP
+V *N N*
+*N* *V* *N* *N* *N*
+*N N* PCP *N*
+V *N V*
+*N* *N N*
+_ N *N* *N*
+_ N V *ADV* *N N*
+_ N *N* *N* *N N*
+_ N *N V* ADJ *N* *ADJ PREP* *N ADJ*
+_ N *N N* *NPROP NPROP*
+*N* *N* *N ADJ*
+KS V *V* *N* *PCP NPROP NPROP* V *N* *V V*
+*N* *N* N PCP *N NPROP*
+*N* *V* *N* *N* *V* *N*
+*N* V *V* *N*
+*N* *N* *N* *PCP*
+*N* V *V* *N*

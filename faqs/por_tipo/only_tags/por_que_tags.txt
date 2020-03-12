@@ -1,0 +1,14 @@
+V *V* *N*
+V *N N ADJ N* ADV V *PCP* *N N N*
+*ADJ* *N*
+*V* *NPROP NPROP*
+*N* ADV V *PCP*
+*PCP* *V* *PCP*
+*PCP* *ADV V* *PCP*
+*PCP* *ADV V* *PCP*
+V *V* *V* *N* *N*
+*N* *N* V *PCP* *N*
+*N* *ADV V* *PCP*
+*N* *N* PROSUB *N* V *ADJ*
+*N* PREP *N* *ADV V* *PCP*
+*ADV V* *V* *N N* N *NPROP*
